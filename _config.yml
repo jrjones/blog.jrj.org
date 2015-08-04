@@ -1,8 +1,9 @@
 # Site settings
-title: JRJ's Test Jekyll Site
+title: "jrjBlog - Joseph R. Jones"
 email: jrj@jrj.org
 description: > # this means to ignore newlines until "baseurl:"
-  This is a description that lives in the config.yml
+  Security and Privacy, Technology and the Future… and other mental flotsam from the mind of Joseph R. Jones
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://josephrjones.com" # the base hostname & protocol for your site
 twitter_username: jrj
