@@ -1,3 +1,9 @@
+---
+layout: page
+title: "About Joseph R. Jones - Bio and Extended information"
+permalink: /about/
+---
+
 My name is Joseph R. Jones (AKA “JRJ”) and I’m a **Principal Product Manager** working in [**Adobe’s Primetime Video**](http://www.adobe.com/solutions/primetime.html) team where I'm responsible for Security (cryptography, incident and vulnerability management, compliance and audits, etc.) and **Video Compression Technologies**.
 
 I live with my wife **Rachel** and my dog Loki in Pleasant Grove, UT (I was raised in Scottsdale, Arizona, and spent most of my adult life in Seattle.)
