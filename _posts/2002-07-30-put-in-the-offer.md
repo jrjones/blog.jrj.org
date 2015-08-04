@@ -1,0 +1,9 @@
+---
+layout: post
+title: Put in the offer!
+date: 2002-07-30 14:47
+author: jrj
+comments: true
+categories: [Uncategorized]
+---
+We **put in an offer** on the house today... this was a long and tedious process (dotting all the i's and crossing all the t's) but exciting. The cool thing is that our real estate agent, Kay, set up a meeting today with the seller. This means that she'll be presenting the offer to the seller and his agent **in person**, and will be able to at the very least have a good sense of whether or not the offer will be accepted. And, of course, there's a chance that we'll know right away, which would be nice.<br /><br />Before our meeting with Kay, we talked to our mortgage broker. He took care of getting us a pre-approval letter, which makes our offer more attractive. The fact that we're putting a larger down payment, coupled with the pre-approval, removes most of the risk for the seller: there's less chance of us dropping off. We feel pretty confident that the seller will take the offer as-is, and won't try to re-negotiate. (If he counter-offers he can withdraw if he gets a better offer, but if he accepts our offer as-is then we're much more secure that we'll get the house.)<br /><br />We also set up an appointment to **do the inspection tomorrow**, so we'll have a much better idea of the condition of the house (the parts you CAN'T see, that is) tomorrow. We'll also take that chance to get some good measurements all the rooms, some more pictures, and a good thumbnail floorplan to put up here. With the inspection in hand, we'll know for sure whether or not this will be the right thing to do... we already know this is the right house-- we're both very sure about that... but the inspection will let us know if there are any scary surprises, like needing a new roof or plumbing or something like that.<br /><br />We're expecting to hear from Kay **in a half hour or so**... I'll post something then.

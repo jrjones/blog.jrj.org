@@ -1,0 +1,9 @@
+---
+layout: post
+title: Sometimes, you just get lucky.
+date: 2005-01-12 17:17
+author: jrj
+comments: true
+categories: [Uncategorized]
+---
+I'd been pretty quiet for the last hour-- I'd only played 2 hands, and I folded both of them on the flop-- when, finally, I looked down and found myself holding a couple of kings on the button. There had already been a raise and a re-raise, so I capped the pot before the flop.<br /><br />The flop came rags: deuce/six/ten rainbow. There wasn't much of a strait draw, and no flush draw... this was the perfect flop for my cowboys, or so I thought. There were two bets to me, and I went ahead and raised it from the button. Everyone folded except the player to my right, who capped it. At this point, I was almost certain I was up against a set-- either tens or sixes. (I knew this because the raiser seemed genuinely annoyed that there were so many raises pre-flop, and almost laid his hand down: I was certain I hadn't run up against aces.) I went ahead and called because it was just one more bet, and the pot was huge. Too expensive to lay down my overpair and be wrong!<br /><br />The turn came another rag, and I called one more bet, figuring the pot was laying me fantastic odds if I was wrong about my opponent flopping a set.<br /><br />Then, Glory Glory Hallelujah... a king on the river. My opponent bet, and I raised. (At this point, I had the stone cold nuts.) He looks at me for a second, and then says "You have pocket kings, don't you?" I smiled, and he made a crying call because the pot was so big he would have been crazy to lay it down. He showed me his set of sixes, and I showed him my cowboys and dragged a huge pot.<br /><br />He was annoyed at first, but then he said "Well, it's not like you were going to lay down a huge overpair..." I reminded him that I was ahead before the flop, and he caught his 2-outer against me, only to have me catch MY two-outer against him.<br /><br />Sometimes, you just get lucky.

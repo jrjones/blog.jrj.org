@@ -1,0 +1,9 @@
+---
+layout: post
+title: Simplify, Phase II
+date: 2005-07-05 09:46
+author: jrj
+comments: true
+categories: [Uncategorized]
+---
+OK, so now I’m on to the second phase of my life simplification: server consolidation, and PC reduction. <br /><br />I currently have a half dozen servers in my basement server rack, which is just insane. I obviously don’t need this. (This is something I consider to be a vistigal tail of my former existence as a small business owner.)<br /><br />I plan on eliminating the Active Directory domain, which will make things a little easier. Then I will consolidate onto two servers...<br /><br />SERVER1 – main server <ul><br /><li>File and print server<br /></li><li>Network Backup (to external media)</li></ul><br /><br />SERVER2 – Virtual server<ul><br /><li>VVirtualServer<br /></li><li>VM1 – SQL Server <br /></li><li>VM2 – Web Server <br /></li><li>VM3 – Test Server <br /></li><li>VM4 – Test Desktop <br /></li><li>Etc.</li></ul><br /><br />I’m also weeding myself down to just my Mac Mini and one desktop PC, plus my work Tablet PC. <br /><br />Basically, we’re going to go from 12 computers in the house down to 7. <ol><br /><li>Server1<br /></li><li>Server2<br /></li><li>JRJ Desktop <br /></li><li>JRJ Tablet  <br /></li><li>JRJ Mac<br /></li><li>Rach Tablet <br /></li><li>Media Center PC </li></ol><br /><br />Also, my wife's machine will be an island—it will have it’s own non-shared printer, backup, etc—the only thing she’ll depend on me for is internet access.  <br /><br />I will be using a Linksys router as a gateway/firewall, and adding one or more 802.11G access points. I suspect I will need 2, possibly 3 of them. (This means I'm moving away from my proxy server and old 80211b infrastructure.)<br /><br />This might not sound "simple" to most of you-- especially for a home system... but it's dramatically simpler than what I'm using now. I'll spend significantly less time managing my home network.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Visiting the Science Fiction Museum
+date: 2004-06-19 19:11
+author: jrj
+comments: true
+categories: [Uncategorized]
+---
+I spent some time at the new Science Fiction Museum in Seattle today. It was incredibly busy there today (it's opening weekend) so I didn't spend a lot of time-- I'll be going back a little later when things slow down a bit. (My wife and I are charter members, so we get free admission... woot!) <br /><br /><img src="http://archive.jrj.org/sfm_montage.jpg" border="0" align="right" /><br />(gallery no longer available ---JRJ)<br /><br />No photography was allowed inside any of the exhibits (!) but I did snap <a href="http://jrjbeta.criticaldomain.net/Personal/Photos/sfm-photos/Default.aspx">a couple pictures</a> outside.  (I'm used to museums not allowing flash photography because the intense light can have a negative impact on the longevity of exhibits... but why no photography is allowed is beyond me. My wife suggested maybe because there is so much inside protected by copyright-- it's mostly film, TV, and book memorabilia.)<br /><br /><br />The museum, although not particularly large, is amazing. They clearly spared no expense. The artifacts were presented well, but I was far more impressed with the way information was presented. For example, there was an interactive exhibit where you could select from a huge database of planets (both real and fictional) and view an audio/video presentation about them while viewing a really impressive fake holographic image of the planet. (I haven't completely figured out how they did this-- it looked like video projected on a sphere, but was a very convincing display.) Also, they had a couple of video-based exhibits that were presented through a window in a way that was very compelling.<br /><br />I really enjoyed it, even though we were only there for a few minutes because of the crowds. I love living in Seattle.  :)

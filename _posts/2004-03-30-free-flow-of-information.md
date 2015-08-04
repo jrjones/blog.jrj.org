@@ -1,0 +1,9 @@
+---
+layout: post
+title: Free flow of information
+date: 2004-03-30 11:00
+author: jrj
+comments: true
+categories: [Uncategorized]
+---
+<a href="http://www.businesspundit.com/archives/001247.html" target="_blank">BusinessPundit has an analysis </a>of an Economist <a href="http://www.economist.com/printedition/displayStory.cfm?Story_ID=2536078" target="_blank">article about Monster's Jeff Taylor</a>. Rob said one thing that caught my eye:<br /><br />"*Easier access to information improves the capitalistic process.*"<br /><br />Truer words were never spoken. By my thinking, the advent of the written word *caused* civilization, since I could communicate in a lasting format my new farming method, my new set of laws, or new way of beating the other guy over the head with a rock. Similarly, the invention of the printing press *caused *the industrial revolution, and (more obviously) the development of computing technology *caused *the information age. I've always believed that most major advances in civilized nations and their economies are catalyzed by advances in information technology-- how quickly and efficiently we can exchange information plays a pivotal role in the economic health of our nation(s).<br /><br />That's why I believe we live in such interesting times.<br /><br />We're about to reach an inflection point in computing technology where systems become secure and reliable enough to trust, connectivity is ubiquitous, and a considerable majority of people in the western world are computer-literate. The unavoidable increase in productivity that comes as an automatic result of this will cause, in my opinion, a period of steady economic growth. It won't put us back to the "irrational exuberance" levels of 2000, but it will exceed a simple economic recovery. The problem is that I don't see it starting before 2007.

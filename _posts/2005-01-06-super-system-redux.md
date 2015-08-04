@@ -1,0 +1,9 @@
+---
+layout: post
+title: Super System Redux
+date: 2005-01-06 15:53
+author: jrj
+comments: true
+categories: [Uncategorized]
+---
+One of the things I've been doing for the Poker Streams site is writing a <a href="http://beta.pokerstreams.com/Books/default.aspx">series of book reviews</a>. (I'm about 1/3 of the way through reviewing all the books in my poker library.) I just finished posting <a href="http://beta.pokerstreams.com/Books/1034.aspx">my review of Doyle Brunson's masterpiece, Super System</a>. I wasn't able to give it nearly as good of a review as it deserves, which was difficult to do... but I don't want to steer new players in the wrong direction.<br /><br />When Super System was written, it revolutionized the game of poker, spawning a whole generation of professional poker players. The book is so unbelievably comprehensive that it is pretty much impossible to digest without long term study. This is a text book for a master's class in poker.<br /><br />So why the less-than-glowing review? Well, Super System is out of date. The blind and ante structures in modern games are so different that some of the advice is flat-out incorrect because of the strategic and statistic adjustments required by the modified games. Ignoring that, it would be difficult for a player relatively new to the game to follow certain elements because the game has changed so much. Still, probably 95% of Super System is still valid today, amazing for a book that was written so long ago.<br /><br />There's a happy ending, though... Doyle and his cohorts are coming out with a totally new version of Super System this year... called, appropriately enough, Super System 2. I can't wait to sink my teeth into it. If it is half as good as Super System was when it came out, we'll be looking at yet another revolution in poker.
