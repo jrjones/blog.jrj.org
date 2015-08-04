@@ -5,9 +5,12 @@ date: 2013-11-27 20:52
 author: jrj
 tags: [Economics, Mc Donalds, minimum wage, Walmart]
 category: Economics
+excerpt: "A back-of-the-envelope hypothetical, re: raising minimum wage…"
+headerimg: minimumwage.png
 ---
-
+<!---
 ![Exploring Minimum Wage](/assets/postheads/minimumwage.png "Exploring Minimum Wage")
+-->
 
 A friend of mine recently suggested he thought the national minimum wage should be immediately increased to $15 an hour. This caused me to do some quick, back-of-the-envelope calculations based on a hypothetical $15 minimum wage, through the lens of two large companies:
 

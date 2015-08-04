@@ -5,10 +5,12 @@ date: 2015-05-17 22:18
 categories: [Poker, Futurism, Technology]
 tags: [Artificial Intelligence, Futurism, game theory, Poker, poker, research, Technology]
 author: jrj
+excerpt: "A look at trends in poker AI, and predictions on impact over the next decade…"
+headerimg: pokerai.png
 ---
-
+<!---
 ![Poker AI](/assets/postheads/pokerai.png "Poker AI")
-
+-->
 Early on in my poker playing “career” (before legislation passed in my then home state of Washington that made playing online poker a felony) I played frequently online. One of the trends I started to notice was that a small trickle of poker “bots” were starting to be used. Players would deploy software to play on their behalf, and these “bots,” simply through a combination of very tight play and the horrible loose-passive opponents at micro-limits, could apparently eke out small win rates (which, when multi-tabling 24/7 could presumably add up to enough money to offset the cost of the bot.) However, their play was atrocious. I remember reading articles at the time with tons of hand-wringing about these bots, but they didn’t bother me. Indeed, I maintained a list of players that I suspected were bots and sought them out—they were predictable and highly exploitable. I would find one playing, and wait for the seat to its left to open up, and grind out nice profits at their expense. It was fun, and I enjoyed knowing that I was harming the already pathetic win-rate of unscrupulous players who were using software that was clearly against the terms of service of the site (AKA “Cheating.”) None of the accounts lasted very long, so I suspect that the bots were actually losing money in the long run, and consequently fell into disuse. Also, poker rooms started deploying countermeasures and looking for evidence of bot use, and suspending accounts. Fast forward almost a decade, and what was once an amusing and exploitable novelty may now be morphing into a legitimate threat.
 
 2015 has been a momentous year for the development of artificial intelligence and the game of poker with huge accomplishments by researchers. Unfortunately, as is so often the case with complex subjects, the mainstream media has done a horrible job of reporting these developments, usually vastly overstating them. Publications focused on AI have done a poor job of reporting these developments because of a lack of poker understanding, and poker writers have done an even worse job due to a lack of general AI knowledge. I thought I might share some thoughts on the current state of poker AI research, and how I expect it will impact the game of poker in the coming decade.

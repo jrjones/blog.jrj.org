@@ -5,9 +5,12 @@ date: 2014-02-05 11:13
 author: jrj
 tags: [bill gates, Futurism, GPS, SmartPhones, Technology]
 category: Futurism
+excerpt: "Looking back at Gates’ “Wallet PC” prediction twenty years later…"
+headerimg: gatespredict.png
 ---
-
+<!---
 ![Gates Predictions](/assets/postheads/gatespredict.png "Gates Predictions")
+-->
 
 Bill Gates (who I lovingly refer to as "my old boss") with some surprisingly accurate predictions about 20 years ago in his book ["The Road Ahead"][1]:
 

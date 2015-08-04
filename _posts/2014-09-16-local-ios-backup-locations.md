@@ -5,8 +5,12 @@ date: 2014-09-16 13:21
 category: Technology
 tags: [Apple, iOS, iTunes, JRJ Personal, Mac OS, Technology]
 author: jrj
+excerpt: "Changing the location where iTunes backs up your iOS devices…"
+headerimg: itunesbackuploc.png
 ---
+<!---
 ![Local iTunes Backups](/assets/postheads/itunesbackuploc.png "iTunes Backup Locations")
+-->
 
 It's an interesting technological paradox: storage on devices (like phones and tablets) is growing at a geometric rate, but (for the first time in memory) storage on desktop and laptop PCs and Macs has been shrinking for years as they transition from hard drives to solid state disks. This becomes intensely frustrating if you want to maintain a local backup of all your devices.
 

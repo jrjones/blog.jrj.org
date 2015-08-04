@@ -5,9 +5,12 @@ date: 2015-04-27 13:07
 category: Security
 tags: [1Password, hacking, lastpass, passwords, Privacy, privacy, Security, security, Technology]
 author: jrj
+excerpt: "Your password sucks, but every character counts…"
+headerimg: passwordsucks.png
 ---
-
+<!---
 ![Your Password Sucks](/assets/postheads/passwordsucks.png "Your Password Sucks")
+-->
 
 [Jeff Atwood has a great piece on Passwords](http://blog.codinghorror.com/your-password-is-too-damn-short/), with a heavy emphasis on length. He uses [Steve Gibson's Password Crack Checker](https://www.grc.com/haystack.htm) to estimate the amount of time needed to crack passwords of varying lengths, and the numbers will probably surprise you... and keep in mind, this is for a truly random password (like *"Uhs&amp;81Aj"*) - anything with variations of dictionary words, like *"M0nk3y!9"* would be MUCH faster. Indeed, that password would be cracked by most brute force cracking tools within a few seconds.
 

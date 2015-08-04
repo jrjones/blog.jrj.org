@@ -5,9 +5,12 @@ date: 2015-05-06 21:21
 category: Technology
 tags: [Apple, Apple Watch, Technology, Wearables, Reviews]
 author: jrj
+excerpt: "Initial thoughts after my first week and and a half with the Apple Watch…"
+headerimg: applewatch.png
 ---
-
+<!---
 ![Apple Watch: Early Thoughts](/assets/postheads/applewatch.png "Apple Watch")
+-->
 
 My Apple Watch (a 42mm Stainless Steel with “Milanese Loop” band) arrived on launch day, so I’ve had a little time to play with it and see how it integrates into my workflow. An unusually large number of people asked me what I think of the device[^1], and I’ve been responding that I needed more time to form an opinion. I needed more than a week, with a mixture of weekend and work days, and even a well-timed business trip to fully evaluate the device. Now that I’ve used it for a while, I wanted to share my initial thoughts on this enigmatic little wearable computer.
 

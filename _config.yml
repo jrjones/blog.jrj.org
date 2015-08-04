@@ -10,3 +10,5 @@ github_username:  jrjones
 
 # Build settings
 markdown: kramdown
+paginate: 12
+

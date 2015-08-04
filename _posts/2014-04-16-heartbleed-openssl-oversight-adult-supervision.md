@@ -5,9 +5,12 @@ date: 2014-04-16 18:49
 author: jrj
 tags: [heartbleed, Open Source, openssl, security, SSL/TLS]
 category: security
+excerpt: "Hearbleed demonstrated projects critical to the net’s infrastructure need help…"
+headerimg: heartbleed.png
 ---
-
+<!---
 ![Hearbleed Vulnerability](/assets/postheads/heartbleed.png "Heartbleed OpenSSL Vulnerability")
+-->
 
 Heartbleed happened while I was on my vacation and not really keeping up with things, hence I haven't really commented much. [Dan Kaminsky (and, by extension, Matthew Green) pretty much summed up my thoughts perfectly][1]:
 

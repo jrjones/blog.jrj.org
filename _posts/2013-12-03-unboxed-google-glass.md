@@ -5,9 +5,12 @@ date: 2013-12-03 20:04
 author: jrj
 tags: [Augmented Reality, Futurism, google glass, Technology, unboxed, Wearable Computing]
 category: Technology
+excerpt: "My Google Glass Explorer pack arrived today, and was unboxed…"
+headerimg: google-glass-unboxed.png
 ---
-
-![Google Glass Unboxing](/assets/postheads/google-glass-unboxed.png "Google Glass Unboxing")
+<!---
+[Google Glass Unboxing](/assets/postheads/google-glass-unboxed.png "Google Glass Unboxing")
+-->
 
 I got an invite to Google Glass Explorer program the day before Thanksgiving. I had generally decided not to get one, so I offered it to my friends. Turns out the invites are tied to your Google account, and cannot be given away, so I decided to get the device to experiment with and maybe develop some simple "Glassware" apps. The device arrived today, and the unboxing photos are below. 
 
