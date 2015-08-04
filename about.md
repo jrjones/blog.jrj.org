@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Joseph R. Jones - Bio and Extended information"
+title: "About"
 permalink: /about/
 ---
 
