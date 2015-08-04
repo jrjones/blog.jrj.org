@@ -3,7 +3,7 @@ layout: post
 title: Your Password Sucks
 date: 2015-04-27 13:07
 category: Security
-tags: [1Password, hacking, lastpass, passwords, Privacy, privacy, Security, security, Technology]
+tags: [1Password, hacking, LastPass, passwords, privacy, security, technology]
 author: jrj
 excerpt: "Your password sucks, but every character counts…"
 headerimg: passwordsucks.png

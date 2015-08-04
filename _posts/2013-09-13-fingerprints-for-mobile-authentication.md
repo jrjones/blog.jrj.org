@@ -3,7 +3,7 @@ layout: post
 title: Fingerprints for Mobile Authentication
 date: 2013-09-13 03:15
 author: jrj
-tags: [authentication, biometric, fingerprint, IPhone, Privacy, Security, security, Technology]
+tags: [authentication, biometric, fingerprint, iPhone, privacy, security, technology]
 Category: Security
 ---
 

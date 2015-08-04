@@ -3,7 +3,7 @@ layout: post
 title: "1Password: Recommended with a Caveat"
 date: 2013-10-04 06:54
 author: jrj
-tags: [1Password, Apple, iOS, Mac OS, Privacy, privacy, Security, Technology]
+tags: [1Password, Apple, iOS, Mac OS, privacy, security, technology]
 Category: Security
 ---
 

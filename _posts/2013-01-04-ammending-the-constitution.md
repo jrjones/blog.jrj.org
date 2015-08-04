@@ -3,7 +3,7 @@ layout: post
 title: Ammending the Constitution
 date: 2013-01-04 20:38
 author: jrj
-tags: [Constitution, Politics]
+tags: [constitution, politics]
 category: Politics
 ---
 ![Amending the Constitution](http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2013/01/constitution.png "Amending the Constitution")

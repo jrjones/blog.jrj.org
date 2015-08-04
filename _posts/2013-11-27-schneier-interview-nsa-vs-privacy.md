@@ -3,7 +3,7 @@ layout: post
 title: "Schneier Interview: NSA vs. Privacy"
 date: 2013-11-27 13:43
 author: jrj
-tags: [NSA, privacy, schneier, security, Video]
+tags: [NSA, privacy, Schneier, security, video]
 category: Privacy
 external-url: https://www.youtube.com/embed/kWNk9irv1e8
 excerpt: "A great video interview with Bruce Scheier on the NSA and privacy."

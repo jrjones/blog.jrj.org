@@ -3,7 +3,7 @@ layout: post
 title: "Using Free Software: Understand the Incentives"
 date: 2013-05-07 18:52
 author: jrj
-tags: [antivirus, Economics, free software, privacy, Security, security, Technology]
+tags: [antivirus, economics, free software, privacy, security, technology]
 category: Security
 ---
 ![Free Security Software](/assets/postheads/securitysoftware.png "Free Security Softwre")

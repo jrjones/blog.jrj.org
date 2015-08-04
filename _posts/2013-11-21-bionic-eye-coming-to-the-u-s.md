@@ -3,7 +3,7 @@ layout: post
 title: "&quot;Bionic Eye&quot; Coming to the U.S."
 date: 2013-11-21 12:59
 author: jrj
-tags: [Futurism, google glass, human augmentation]
+tags: [futurism, Google Glass, human augmentation]
 category: Futurism
 headerimg: implantedeye.png
 ---

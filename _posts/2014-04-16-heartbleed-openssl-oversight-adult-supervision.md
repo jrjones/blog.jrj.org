@@ -3,7 +3,7 @@ layout: post
 title: Heartbleed Shows a Need for Oversight
 date: 2014-04-16 18:49
 author: jrj
-tags: [heartbleed, Open Source, openssl, security, SSL/TLS]
+tags: [heartbleed, open source, OpenSSL, security, SSL/TLS]
 category: security
 excerpt: "Hearbleed demonstrated projects critical to the net’s infrastructure need help…"
 headerimg: heartbleed.png

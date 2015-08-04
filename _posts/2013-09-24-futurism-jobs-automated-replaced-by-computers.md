@@ -3,7 +3,7 @@ layout: post
 title: Half of Jobs Could be Automated?
 date: 2013-09-24 19:57
 author: jrj
-tags: [Economics, economics, Futurism, self-driving cars]
+tags: [economics, futurism, self-driving cars]
 categories: Futurism, Economics
 external-url: http://singularityhub.com/2013/09/24/nearly-half-of-u-s-jobs-could-be-done-by-computers-study-says/
 ---

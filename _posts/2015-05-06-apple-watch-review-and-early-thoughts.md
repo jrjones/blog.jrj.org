@@ -3,7 +3,7 @@ layout: post
 title: "Apple Watch: Early Thoughts"
 date: 2015-05-06 21:21
 category: Technology
-tags: [Apple, Apple Watch, Technology, Wearables, Reviews]
+tags: [Apple, Apple Watch, technology, wearables, reviews]
 author: jrj
 excerpt: "Initial thoughts after my first week and and a half with the Apple Watch…"
 headerimg: applewatch.png

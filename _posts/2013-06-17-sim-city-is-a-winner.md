@@ -3,7 +3,7 @@ layout: post
 title: Sim City is a Winner
 date: 2013-06-17 23:41
 author: jrj
-tags: [Gaming, JRJ Personal, Sim City, Technology]
+tags: [gaming, JRJ personal, Sim City, technology]
 category: JRJ Personal
 ---
 ![Sim City](/assets/postheads/simcity5.png "Sim City")

@@ -3,7 +3,7 @@ layout: post
 title: Local iOS Backup Locations
 date: 2014-09-16 13:21
 category: Technology
-tags: [Apple, iOS, iTunes, JRJ Personal, Mac OS, Technology]
+tags: [Apple, iOS, iTunes, JRJ personal, Mac OS, technology]
 author: jrj
 excerpt: "Changing the location where iTunes backs up your iOS devices…"
 headerimg: itunesbackuploc.png

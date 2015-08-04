@@ -3,7 +3,7 @@ layout: post
 title: "Unboxed: iPhone 5s"
 date: 2013-09-20 23:42
 author: jrj
-tags: [Apple, iOS, IPhone, unboxed, video]
+tags: [Apple, iOS, iPhone, unboxed, video]
 category: Technology
 ---
 ![iPhone 5s Unboxing](/assets/postheads/iphone-5s-unboxed.png "iPhone 5s Unboxing")

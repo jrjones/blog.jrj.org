@@ -3,7 +3,7 @@ layout: post
 title: Google Glass Availability
 date: 2013-02-22 18:22
 author: jrj
-tags: [Augmented Reality, Futurism, Google, Technology]
+tags: [augmented reality, futurism, Google, technology]
 categories: Futurism, Technology
 ---
 

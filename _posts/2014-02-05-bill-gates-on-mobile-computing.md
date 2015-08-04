@@ -3,7 +3,7 @@ layout: post
 title: Bill Gates on Mobile Computing
 date: 2014-02-05 11:13
 author: jrj
-tags: [bill gates, Futurism, GPS, SmartPhones, Technology]
+tags: [Bill Gates, futurism, GPS, smartphones, technology]
 category: Futurism
 excerpt: "Looking back at Gates’ “Wallet PC” prediction twenty years later…"
 headerimg: gatespredict.png

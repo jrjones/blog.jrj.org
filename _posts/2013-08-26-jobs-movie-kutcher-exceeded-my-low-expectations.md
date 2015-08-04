@@ -3,7 +3,7 @@ layout: post
 title: "Jobs Movie - Exceeded Low Expectations"
 date: 2013-08-26 19:18
 author: jrj
-tags: [Apple, JRJ Personal, Movies, Technology]
+tags: [Apple, JRJ personal, movies, technology]
 category: JRJ Personal
 ---
 

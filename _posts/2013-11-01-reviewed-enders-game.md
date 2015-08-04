@@ -3,7 +3,7 @@ layout: post
 title: "Reviewed: Ender&apos;s Game"
 date: 2013-11-01 05:31
 author: jrj
-tags: [JRJ Personal, Movies, Movies, reviews, Science Fiction]
+tags: [JRJ personal, movies, reviews, science fiction]
 category: JRJ Personal
 ---
 

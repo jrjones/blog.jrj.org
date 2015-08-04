@@ -3,7 +3,7 @@ layout: post
 title: "Cryptolocker Ransomware: Diabolical and Evil"
 date: 2013-10-24 03:43
 author: jrj
-tags: [cryptolocker, malware, ransomware, Security, security]
+tags: [Cryptolocker, malware, ransomware, security]
 category: Security
 ---
 

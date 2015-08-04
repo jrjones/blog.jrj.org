@@ -12,3 +12,9 @@ For now, I am just doing minor tweaks to the default jekyll template, but over t
 Top priority is getting URLs consistent with old site (don't want to break a bunch of links and search entries.)
 
 Low priority is getting linkblog post type set up. That will be relatively straight forward, but it can be done later if needed.
+
+# Conventions
+
+** Categories: ** One per post unless absolutely necessary, capitalized.
+
+** Tags: ** As many as needed, lower-case unless proper noun or internal cap (i.e. `iPhone`)
