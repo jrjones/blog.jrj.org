@@ -13,11 +13,11 @@ I post infrequently, typically a couple times a month. To be sure to receive the
 You can find my PGP Public Key and other secure contact information at https://secure.jrj.org
 For convenience, you can find my social media profiles at the following shortcut URLs:
 
-- http://facebook.jrj.org
-- http://twitter.jrj.org
-- http://linkedin.jrj.org
-- http://youtube.jrj.org
-- http://plus.jrj.org
+- Facebook: http://facebook.jrj.org
+- Twitter: http://twitter.jrj.org
+- LinkedIn: http://linkedin.jrj.org
+- YouTube: http://youtube.jrj.org
+- Google+: http://plus.jrj.org
 
 # JRJ Bio
 
