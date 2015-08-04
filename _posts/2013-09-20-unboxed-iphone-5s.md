@@ -3,7 +3,6 @@ layout: post
 title: "Unboxed: iPhone 5s"
 date: 2013-09-20 23:42
 author: jrj
-comments: true
 tags: [Apple, iOS, IPhone, unboxed, video]
 category: Technology
 ---
