@@ -3,7 +3,7 @@ layout: post
 title: Exploring Minimum Wage
 date: 2013-11-27 20:52
 author: jrj
-tags: [Economics, Mc Donalds, minimum wage, Walmart]
+tags: [economics, Mc Donalds, minimum wage, Walmart]
 category: Economics
 excerpt: "A back-of-the-envelope hypothetical, re: raising minimum wage…"
 headerimg: minimumwage.png
