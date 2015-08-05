@@ -6,7 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     {% if page.headerimg %}
-    <img src="/assets/postheads/{{page.headerimg}}">
+    <img src="/assets/postheads/{{page.headerimg}}" class="post-header-image">
     {% endif %}
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
