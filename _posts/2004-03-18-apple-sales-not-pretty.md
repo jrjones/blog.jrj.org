@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Sales: Not pretty.
+title: "Apple Sales: Not pretty."
 date: 2004-03-18 01:56
 author: jrj
 comments: true

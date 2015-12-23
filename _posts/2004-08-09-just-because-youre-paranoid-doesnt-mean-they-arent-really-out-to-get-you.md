@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just because you're paranoid doesn't mean They aren't really out to get you.
+title: "Just because you're paranoid doesn't mean They aren't really out to get you."
 date: 2004-08-09 11:46
 author: jrj
 comments: true

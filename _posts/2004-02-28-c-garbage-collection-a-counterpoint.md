@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C# Garbage Collection: A counterpoint
+title: "C# Garbage Collection: A counterpoint"
 date: 2004-02-28 00:21
 author: jrj
 comments: true

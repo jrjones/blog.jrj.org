@@ -1,6 +1,6 @@
 ---
 layout: post
-title: President Bush: Universal broadband by 2007
+title: "President Bush: Universal broadband by 2007"
 date: 2004-03-28 14:58
 author: jrj
 comments: true

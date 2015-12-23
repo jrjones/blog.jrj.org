@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neuromarketing: the science of the "buy" impulse
+title: "Neuromarketing: the science of the &quot;buy&quot; impulse"
 date: 2004-03-22 01:00
 author: jrj
 comments: true

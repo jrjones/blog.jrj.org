@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tablet PC in the Longhorn Timeframe: Part III
+title: "Tablet PC in the Longhorn Timeframe: Part III"
 date: 2004-05-06 07:21
 author: jrj
 comments: true

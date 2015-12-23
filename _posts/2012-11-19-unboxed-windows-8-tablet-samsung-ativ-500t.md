@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unboxed: Windows 8 Tablet - Samsung Ativ 500t
+title: "Unboxed: Windows 8 Tablet - Samsung Ativ 500t"
 date: 2012-11-19 00:43
 author: jrj
 comments: true

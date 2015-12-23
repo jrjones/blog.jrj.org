@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UNBOXED: TiVo HD!
+title: "UNBOXED: TiVo HD!"
 date: 2007-08-06 12:47
 author: jrj
 comments: true

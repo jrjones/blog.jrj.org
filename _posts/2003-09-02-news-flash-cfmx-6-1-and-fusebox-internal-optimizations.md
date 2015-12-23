@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News Flash: CFMX 6.1 and Fusebox: internal optimizations!
+title: "News Flash: CFMX 6.1 and Fusebox: internal optimizations!"
 date: 2003-09-02 01:07
 author: jrj
 comments: true

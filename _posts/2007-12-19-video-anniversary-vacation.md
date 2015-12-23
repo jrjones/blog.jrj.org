@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video: Anniversary Vacation
+title: "Video: Anniversary Vacation"
 date: 2007-12-19 21:16
 author: jrj
 comments: true

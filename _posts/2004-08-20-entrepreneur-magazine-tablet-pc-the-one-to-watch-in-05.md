@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entrepreneur Magazine: "Tablet PC the one to watch in '05"
+title: "Entrepreneur Magazine: &quot;Tablet PC the one to watch in '05&quot;"
 date: 2004-08-20 10:09
 author: jrj
 comments: true

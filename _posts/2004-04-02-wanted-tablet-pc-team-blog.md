@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wanted: Tablet PC Team Blog
+title: "Wanted: Tablet PC Team Blog"
 date: 2004-04-02 13:44
 author: jrj
 comments: true

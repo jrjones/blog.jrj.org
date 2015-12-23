@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trip Report: Northern Lights Day 1My wife and I decided we needed a change of scenery for President's Day weekend, so we did some research to find a b
+title: "Trip Report: Northern Lights Day 1"
 date: 2005-02-20 14:30
 author: jrj
 comments: true

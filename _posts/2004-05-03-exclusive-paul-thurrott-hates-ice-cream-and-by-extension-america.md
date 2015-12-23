@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exclusive: Paul Thurrott hates ice cream, and (by extension) America
+title: "Exclusive: Paul Thurrott hates ice cream, and (by extension) America"
 date: 2004-05-03 14:24
 author: jrj
 comments: true

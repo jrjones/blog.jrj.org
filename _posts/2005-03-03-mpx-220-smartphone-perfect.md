@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MPX-220 SmartPhone:  Perfect?
+title: "MPX-220 SmartPhone:  Perfect?"
 date: 2005-03-03 22:32
 author: jrj
 comments: true

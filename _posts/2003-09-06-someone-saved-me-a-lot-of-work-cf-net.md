@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Someone saved me a lot of work: CF.NET
+title: "Someone saved me a lot of work: CF.NET"
 date: 2003-09-06 22:02
 author: jrj
 comments: true

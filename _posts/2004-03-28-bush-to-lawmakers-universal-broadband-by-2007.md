@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bush to Lawmakers: Universal Broadband by 2007
+title: "Bush to Lawmakers: Universal Broadband by 2007"
 date: 2004-03-28 15:16
 author: jrj
 comments: true

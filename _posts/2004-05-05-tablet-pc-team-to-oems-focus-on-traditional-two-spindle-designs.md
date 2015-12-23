@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tablet PC team to OEMs: Focus on traditional two-spindle designs
+title: "Tablet PC team to OEMs: Focus on traditional two-spindle designs"
 date: 2004-05-05 15:27
 author: jrj
 comments: true

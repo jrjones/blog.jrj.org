@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trip Report: Day 3
+title: "Trip Report: Day 3"
 date: 2005-02-22 16:20
 author: jrj
 comments: true

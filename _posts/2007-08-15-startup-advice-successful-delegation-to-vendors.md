@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup Advice: Successful Delegation to Vendors
+title: "Startup Advice: Successful Delegation to Vendors"
 date: 2007-08-15 11:36
 author: jrj
 comments: true

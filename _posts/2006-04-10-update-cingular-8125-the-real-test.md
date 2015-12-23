@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update: Cingular 8125, the REAL test
+title: "Update: Cingular 8125, the REAL test"
 date: 2006-04-10 00:48
 author: jrj
 comments: true

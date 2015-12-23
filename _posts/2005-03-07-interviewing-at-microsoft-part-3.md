@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interviewing at Microsoft: Part 3
+title: "Interviewing at Microsoft: Part 3"
 date: 2005-03-07 08:44
 author: jrj
 comments: true

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Quick Review: Annie Duke's Poker Book
+title: "Quick Review: Annie Duke&#8217s Poker Book"
 date: 2012-12-05 18:19
 author: jrj
 comments: true
-categories: [books, Poker, poker, reviews]
+tags: [books, Poker, poker, reviews]
 ---
 <img class="alignnone size-full wp-image-1372" alt="decideplaypoker-annie-duke" src="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2012/12/decideplaypoker-annie-duke.png" width="560" height="234" />
 

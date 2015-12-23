@@ -1,6 +1,6 @@
 ---
 layout: post
-title: @JRJ's Top 10 Twitter Posts about the Financial Crisis
+title: "@JRJ's Top 10 Twitter Posts about the Financial Crisis"
 date: 2009-01-16 16:58
 author: jrj
 comments: true

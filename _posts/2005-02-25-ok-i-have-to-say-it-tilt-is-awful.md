@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OK, I have to say it: Tilt is awful.
+title: "OK, I have to say it: Tilt is awful."
 date: 2005-02-25 17:23
 author: jrj
 comments: true

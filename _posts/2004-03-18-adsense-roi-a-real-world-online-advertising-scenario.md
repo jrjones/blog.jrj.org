@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AdSense ROI: A real-world online advertising scenario
+title: "AdSense ROI: A real-world online advertising scenario"
 date: 2004-03-18 01:42
 author: jrj
 comments: true

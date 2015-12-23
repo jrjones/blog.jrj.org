@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hilarious, brilliant, beautiful: Star Wars ASCIImation
+title: "Hilarious, brilliant, beautiful: Star Wars ASCIImation"
 date: 2004-03-12 08:41
 author: jrj
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dialup: a Geek's Lament (in Haiku form)
+title: "Dialup: a Geek's Lament (in Haiku form)"
 date: 2003-09-01 00:37
 author: jrj
 comments: true

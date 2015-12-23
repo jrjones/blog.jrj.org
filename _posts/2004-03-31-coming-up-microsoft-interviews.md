@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming up: Microsoft Interviews
+title: "Coming up: Microsoft Interviews"
 date: 2004-03-31 20:02
 author: jrj
 comments: true

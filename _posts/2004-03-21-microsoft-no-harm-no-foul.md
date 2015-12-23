@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft: No harm, no foul...
+title: "Microsoft: No harm, no foul..."
 date: 2004-03-21 15:16
 author: jrj
 comments: true

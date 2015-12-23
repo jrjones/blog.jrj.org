@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brace Yourselves: MyDoom
+title: "Brace Yourselves: MyDoom"
 date: 2004-01-27 09:48
 author: jrj
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Playing the Player: He never met a flop he didn't love
+title: "Playing the Player: He never met a flop he didn't love"
 date: 2005-01-03 17:55
 author: jrj
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [CES] Back from CES
+title: "[CES] Back from CES"
 date: 2004-01-12 07:11
 author: jrj
 comments: true

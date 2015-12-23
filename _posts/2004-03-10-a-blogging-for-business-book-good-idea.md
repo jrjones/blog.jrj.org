@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Blogging for Business Book: Good idea?
+title: "A Blogging for Business Book: Good idea?"
 date: 2004-03-10 23:59
 author: jrj
 comments: true

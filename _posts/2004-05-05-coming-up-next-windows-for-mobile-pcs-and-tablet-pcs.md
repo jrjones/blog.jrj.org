@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming up next: Windows for Mobile PCs and Tablet PCs
+title: "Coming up next: Windows for Mobile PCs and Tablet PCs"
 date: 2004-05-05 15:11
 author: jrj
 comments: true

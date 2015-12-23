@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One of the advantages of tracking your play: Perspective.
+title: "One of the advantages of tracking your play: Perspective."
 date: 2005-01-27 23:37
 author: jrj
 comments: true

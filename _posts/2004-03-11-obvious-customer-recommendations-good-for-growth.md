@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obvious: Customer recommendations good for growth
+title: "Obvious: Customer recommendations good for growth"
 date: 2004-03-11 00:12
 author: jrj
 comments: true

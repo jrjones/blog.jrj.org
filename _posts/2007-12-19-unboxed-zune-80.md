@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unboxed: Zune 80!
+title: "Unboxed: Zune 80!"
 date: 2007-12-19 21:02
 author: jrj
 comments: true

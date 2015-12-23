@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CFMX 7: Details are sketchy
+title: "CFMX 7: Details are sketchy"
 date: 2003-11-28 23:06
 author: jrj
 comments: true

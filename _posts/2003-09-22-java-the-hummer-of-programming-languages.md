@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java: The HUMMER of Programming Languages
+title: "Java: The HUMMER of Programming Languages"
 date: 2003-09-22 09:42
 author: jrj
 comments: true

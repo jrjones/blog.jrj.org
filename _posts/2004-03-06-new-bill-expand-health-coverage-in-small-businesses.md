@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New bill: Expand Health Coverage in Small Businesses
+title: "New bill: Expand Health Coverage in Small Businesses"
 date: 2004-03-06 11:08
 author: jrj
 comments: true

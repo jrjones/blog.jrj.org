@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biometrics in the home: does this really make sense?
+title: "Biometrics in the home: does this really make sense?"
 date: 2004-05-05 14:46
 author: jrj
 comments: true

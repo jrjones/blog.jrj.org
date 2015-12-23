@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toshiba: they get it.
+title: "Toshiba: they get it."
 date: 2004-08-11 12:45
 author: jrj
 comments: true

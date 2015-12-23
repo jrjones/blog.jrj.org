@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interviewing at Microsoft: SPOILER ALERT
+title: "Interviewing at Microsoft: SPOILER ALERT"
 date: 2005-03-21 17:53
 author: jrj
 comments: true

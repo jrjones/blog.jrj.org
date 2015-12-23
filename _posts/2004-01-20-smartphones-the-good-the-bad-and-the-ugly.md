@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SmartPhones: the good, the bad, and the ugly
+title: "SmartPhones: the good, the bad, and the ugly"
 date: 2004-01-20 00:24
 author: jrj
 comments: true

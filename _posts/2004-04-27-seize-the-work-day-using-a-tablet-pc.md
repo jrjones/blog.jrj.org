@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seize the (work) Day: Using a Tablet PC
+title: "Seize the (work) Day: Using a Tablet PC"
 date: 2004-04-27 02:49
 author: jrj
 comments: true

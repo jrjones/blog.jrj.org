@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inbox to Empty: the holy grail of modern productivity
+title: "Inbox to Empty: the holy grail of modern productivity"
 date: 2006-03-30 00:51
 author: jrj
 comments: true

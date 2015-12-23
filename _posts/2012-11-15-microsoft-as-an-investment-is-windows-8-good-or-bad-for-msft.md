@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Stock: is Win 8 Good for MSFT?
+title: "Microsoft Stock: is Win 8 Good for MSFT?"
 date: 2012-11-15 22:19
 author: jrj
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MikeRoweSoft: Resolved
+title: "MikeRoweSoft: Resolved"
 date: 2004-01-23 16:13
 author: jrj
 comments: true

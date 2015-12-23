@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newsflash: Firefox is overrated.
+title: "Newsflash: Firefox is overrated."
 date: 2004-06-20 21:46
 author: jrj
 comments: true

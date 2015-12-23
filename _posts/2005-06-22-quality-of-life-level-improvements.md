@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quality of Life" level Improvements
+title: "&quot;Quality of Life&quot; level Improvements"
 date: 2005-06-22 08:42
 author: jrj
 comments: true

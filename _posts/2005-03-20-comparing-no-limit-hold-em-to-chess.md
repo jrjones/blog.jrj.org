@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing No Limit Hold 'Em to Chess
+title: "Comparing No Limit Hold 'Em to Chess"
 date: 2005-03-20 17:37
 author: jrj
 comments: true

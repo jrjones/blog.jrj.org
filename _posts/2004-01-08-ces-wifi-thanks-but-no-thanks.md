@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [CES] WiFi -- Thanks but no thanks.
+title: "[CES] WiFi -- Thanks but no thanks."
 date: 2004-01-08 23:03
 author: jrj
 comments: true

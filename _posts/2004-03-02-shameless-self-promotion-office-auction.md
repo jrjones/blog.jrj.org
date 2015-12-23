@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shameless Self Promotion: Office Auction
+title: "Shameless Self Promotion: Office Auction"
 date: 2004-03-02 14:36
 author: jrj
 comments: true

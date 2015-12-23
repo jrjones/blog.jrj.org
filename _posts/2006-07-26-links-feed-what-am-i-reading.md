@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links Feed: What am I reading?
+title: "Links Feed: What am I reading?"
 date: 2006-07-26 00:45
 author: jrj
 comments: true

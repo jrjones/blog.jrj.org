@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Small Business Cuts: To be or not to be?
+title: "Small Business Cuts: To be or not to be?"
 date: 2004-03-06 11:02
 author: jrj
 comments: true

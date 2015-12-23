@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [CES] Best of show (so far...)
+title: "[CES] Best of show (so far...)"
 date: 2004-01-08 23:18
 author: jrj
 comments: true

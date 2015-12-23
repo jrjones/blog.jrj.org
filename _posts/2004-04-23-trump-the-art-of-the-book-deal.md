@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trump: the Art of the (book) deal
+title: "Trump: the Art of the (book) deal"
 date: 2004-04-23 22:36
 author: jrj
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Glass: Future of Augmented Reality?
+title: "Google's Glass: Future of Augmented Reality?"
 date: 2012-04-04 17:23
 author: jrj
 comments: true

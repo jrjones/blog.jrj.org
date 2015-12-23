@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tablets as drugs: your first one's free.  :)
+title: "Tablets as drugs: your first one's free.  :)"
 date: 2004-05-01 18:36
 author: jrj
 comments: true

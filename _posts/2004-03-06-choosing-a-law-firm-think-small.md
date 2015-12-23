@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Choosing a Law Firm: Think Small.
+title: "Choosing a Law Firm: Think Small."
 date: 2004-03-06 15:43
 author: jrj
 comments: true

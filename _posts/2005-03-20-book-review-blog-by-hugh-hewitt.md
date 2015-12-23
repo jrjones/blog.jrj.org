@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: "Blog" by Hugh Hewitt
+title: "Book Review: &quot;Blog&quot; by Hugh Hewitt"
 date: 2005-03-20 19:56
 author: jrj
 comments: true

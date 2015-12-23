@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Table Selection: "Would you like the main table?"
+title: "Table Selection: &quot;Would you like the main table?&quot;"
 date: 2005-01-16 20:33
 author: jrj
 comments: true

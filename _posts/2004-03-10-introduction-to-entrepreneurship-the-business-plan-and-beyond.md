@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Entrepreneurship: The Business Plan and Beyond
+title: "Introduction to Entrepreneurship: The Business Plan and Beyond"
 date: 2004-03-10 02:26
 author: jrj
 comments: true

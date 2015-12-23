@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Longhorn Timeframe: Change is afoot...
+title: "Longhorn Timeframe: Change is afoot..."
 date: 2004-08-27 17:14
 author: jrj
 comments: true

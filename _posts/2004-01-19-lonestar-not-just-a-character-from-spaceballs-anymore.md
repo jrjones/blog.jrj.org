@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lonestar: Not just a character from SpaceBalls anymore!
+title: "Lonestar: Not just a character from SpaceBalls anymore!"
 date: 2004-01-19 23:33
 author: jrj
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MyDoom: OK, this is clever
+title: "MyDoom: OK, this is clever"
 date: 2004-01-29 14:18
 author: jrj
 comments: true

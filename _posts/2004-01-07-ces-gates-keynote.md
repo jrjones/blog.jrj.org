@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [CES] Gates Keynote
+title: "[CES] Gates Keynote"
 date: 2004-01-07 23:05
 author: jrj
 comments: true

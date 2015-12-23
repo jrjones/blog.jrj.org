@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Toy: Cingular 8125 Windows Mobile Phone
+title: "New Toy: Cingular 8125 Windows Mobile Phone"
 date: 2006-04-04 00:49
 author: jrj
 comments: true

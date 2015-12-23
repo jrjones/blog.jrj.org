@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup Advice: Bootstrapping It...
+title: "Startup Advice: Bootstrapping It..."
 date: 2007-04-06 11:43
 author: jrj
 comments: true

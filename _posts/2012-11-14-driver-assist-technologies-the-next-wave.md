@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Driver Assist Technologies: the Next Wave
+title: "Driver Assist Technologies: the Next Wave"
 date: 2012-11-14 20:16
 author: jrj
 comments: true
