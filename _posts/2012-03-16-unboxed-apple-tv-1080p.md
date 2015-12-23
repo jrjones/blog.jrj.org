@@ -4,7 +4,8 @@ title: "Unboxed: Apple TV 1080p"
 date: 2012-03-16 01:34
 author: jrj
 comments: true
-categories: [Apple, Apple TV, Technology, unboxed, Unboxing]
+tags: [Apple, Apple TV, Technology, unboxed, Unboxing]
+category: Technology
 ---
 A boring purchase-- slot-in replacement for my existing AppleTV in the office to get 1080p output, but Tomorrow the iPad is supposed to get here.
 

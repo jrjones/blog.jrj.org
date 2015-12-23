@@ -4,7 +4,8 @@ title: Open Letter to Rep. Lofgren
 date: 2012-01-22 23:31
 author: jrj
 comments: true
-categories: [Congress, Legislation, Politics, Privacy]
+tags: [Congress, Legislation, Politics, Privacy]
+categories: [Politics, Privacy]
 ---
 I just sent the following letter to my Congressional Representative in support of the <a href="http://privacycast.com/mobile-device-privacy-act-smartphone-monitoring-legislation/">Mobile Device Privacy Act</a>. You should consider <a href="https://writerep.house.gov/writerep/welcome.shtml">doing the same</a>.
 

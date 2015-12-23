@@ -4,7 +4,8 @@ title: "Unboxed: Zune 80!"
 date: 2007-12-19 21:02
 author: jrj
 comments: true
-categories: [digital media, microsoft, Technology, unboxed, Unboxing, zune]
+tags: [digital media, microsoft, Technology, unboxed, Unboxing, zune]
+category: Technology
 ---
 I've been wanting a Zune 80 since they came out... but they've been in short supply. Fortunately, I managed to get my grubby little hands on one right before starting my vacation!
 

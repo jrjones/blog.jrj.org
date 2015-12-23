@@ -4,7 +4,8 @@ title: "Unboxed: Windows 8 Tablet - Samsung Ativ 500t"
 date: 2012-11-19 00:43
 author: jrj
 comments: true
-categories: [Tablet, Technology, unboxed, Unboxing, Windows, windows 8]
+tags: [Tablet, Technology, unboxed, Unboxing, Windows, windows 8]
+category: Technology
 ---
 <img class="alignnone size-full wp-image-1379" alt="[Photo] Samsung tablet" src="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2012/11/samsung-ativ-500t.png" width="560" height="234" />
 

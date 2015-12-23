@@ -4,7 +4,8 @@ title: Facebook... pretty fun stuff
 date: 2007-12-01 22:13
 author: jrj
 comments: true
-categories: [Facebook, JRJ Personal, Technology]
+tags: [Facebook, JRJ Personal, Technology]
+category: [Technology, JRJ Personal]
 ---
 I spent a bit of time this afternoon playing around with Facebook-- they've really managed to build something impressive. I'm impressed by the amount of functionality that's there, though discoverability to could be improved.
 

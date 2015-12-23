@@ -4,7 +4,8 @@ title: Federal Regulation of ISPs - Congressional Bill
 date: 2009-06-18 01:04
 author: jrj
 comments: true
-categories: [Bandwidth, ISP, Politics, Regulation, Technology]
+tags: [Bandwidth, ISP, Politics, Regulation, Technology]
+categories: [Technology, Politics]
 ---
 <div>Congressman Eric Massa (D-NY) is sponsoring a <a href="http://arstechnica.com/tech-policy/news/2009/06/congressman-has-a-bill-ready-to-combat-usage-caps.ars">bill that is being discussed in the press as providing the Federal Trade Commission with "veto" rights on ISP bandwidth caps</a>. I theory, this sounds great... but as is so often the case, reality is a bit more complex.</div>
 <div></div>

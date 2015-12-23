@@ -4,7 +4,8 @@ title: Welcome to Hybrid Focus...
 date: 2007-04-30 15:18
 author: jrj
 comments: true
-categories: [Automotive, Hybrid]
+tags: [Automotive, Hybrid]
+category: Automotive
 ---
 Greetings...
 

@@ -4,7 +4,8 @@ title: Solar Power and Grid Parity
 date: 2012-11-13 21:12
 author: jrj
 comments: true
-categories: [energy, Futurism, grid parity, solar]
+tags: [energy, Futurism, grid parity, solar]
+category: [Futurism, Technology]
 ---
 Despite all the doom and gloom around energy, I’m optimistic. One of the key reasons is the concept of grid parity, and the speed at which solar is reaching this all-important milestone.
 <blockquote>Grid parity (or socket parity) occurs when an alternative energy source can generate electricity at a levelized cost that is less than or equal to the price of purchasing power from the electricity grid. Reaching grid parity is considered to be an important point in the development of new sources of power. It is the point at which an alternative energy source becomes a contender for widespread development without subsidies or government support. The term is most commonly used when discussing renewable energy sources, notably solar power and wind power. It is widely believed that a wholesale shift in generation to these forms of energy will take place when they reach grid parity.

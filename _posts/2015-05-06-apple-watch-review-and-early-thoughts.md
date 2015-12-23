@@ -5,8 +5,14 @@ date: 2015-05-06 21:21
 category: Technology
 tags: [Apple, Apple Watch, technology, wearables, reviews]
 author: jrj
-excerpt: "Initial thoughts after my first week and and a half with the Apple Watch…"
-headerimg: applewatch.png
+teaser: "Initial thoughts after my first week and and a half with the Apple Watch…"
+subheadline: "Reviewed"
+image:
+  homepage: "postheads/applewatch.png"
+  thumb: "postheads/applewatch.png"
+header:
+  image: "postheads/applewatch.png"
+  background-color: "#333333"
 ---
 <!---
 ![Apple Watch: Early Thoughts](/assets/postheads/applewatch.png "Apple Watch")

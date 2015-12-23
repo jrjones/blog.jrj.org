@@ -4,7 +4,8 @@ title: Social Networking Advice and What I Do
 date: 2012-04-02 20:19
 author: jrj
 comments: true
-categories: [Facebook, JRJ Personal, LinkedIn, Privacy, privacy, Social Media, Technology, Twitter]
+tags: [Facebook, JRJ Personal, LinkedIn, Privacy, privacy, Social Media, Technology, Twitter]
+categories: [JRJ Personal, Technology]
 ---
 A lot of friends and family ask me for technology advice-- whether it's what computer to buy, how to lock down and backup their data, or whether or not to upgrade to the latest and greatest version of their favorite piece of software I'm often the primary source for their technology decision. I take this responsibility seriously, and always feel bad when they ask me a question I don't know. (Examples: "What Android phone should I buy?" I generally have no clue, because I don't have any reason to keep up on Android phones. "How do I do X on my Windows XP machine?" I don't know... I haven't used Windows XP for over 7 years-- I haven't used Windows on a personal machine for the last few years.)
 

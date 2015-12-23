@@ -4,7 +4,8 @@ title: Keep Your Systems and Accounts Secure
 date: 2012-08-09 21:16
 author: jrj
 comments: true
-categories: [Apple, hacking, Privacy, privacy, Security, security, Technology]
+tags: [Apple, hacking, Privacy, privacy, Security, security, Technology]
+category: Security
 ---
 <p><a href="http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/" target="_blank">This article</a> is very scary-- it describes <a href="http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/" target="_blank">Mat Honen's incredibly nasty experience of being hacked</a>, and the process the attackers went through to destroy his digital life. Some positive developments since this story was published: it is very likely he will be able to recover the data on the laptop, including the photos. He was smart enough to remove power from the machine before the erasure was complete, so overwrite never took place, and Apple is cooperating with a data recovery service to get the data back. Also, <a href="http://article.wn.com/view/2012/08/08/Apple_And_Amazon_Fix_The_Security_Holes_That_Caused_Wired_Ed/" target="_blank">both Amazon and Apple have changed their policies in response</a> to this story.</p>
 

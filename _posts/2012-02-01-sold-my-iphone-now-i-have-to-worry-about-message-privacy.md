@@ -4,7 +4,8 @@ title: Sold My iPhone, Now I Have to Worry About Message Privacy
 date: 2012-02-01 23:23
 author: jrj
 comments: true
-categories: [bugs, iOS, IPhone, Privacy, privacy, security, Technology]
+tags: [bugs, iOS, IPhone, Privacy, privacy, security, Technology]
+category: Technology
 ---
 Lame... I recently sold my iPhone via <a href="http://gazelle.com/" target="_blank">Gazelle.com</a> (got a decent amount for it, damn near paid for the iPhone 4S that replaced it.)
 

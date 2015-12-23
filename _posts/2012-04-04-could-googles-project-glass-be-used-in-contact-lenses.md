@@ -4,7 +4,8 @@ title: "Google's Glass: Future of Augmented Reality?"
 date: 2012-04-04 17:23
 author: jrj
 comments: true
-categories: [Augmented Reality, Google, SmartPhones, Technology]
+tags: [Augmented Reality, Google, SmartPhones, Technology]
+categories: [Technology, Virtual Reality]
 ---
 This kind of technology is years away, but when it gets here, it changes everything. The primary limiting factor of smartphones today is display size and input efficiency. With speech recognition providing better input on the go, contact lens (or glasses) based displays which overlay a giant virtual screen over reality solves display size and makes a smartphone a much more powerful device.
 

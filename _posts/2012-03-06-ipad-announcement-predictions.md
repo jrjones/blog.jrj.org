@@ -4,7 +4,8 @@ title: iPad Announcement Predictions
 date: 2012-03-06 21:40
 author: jrj
 comments: true
-categories: [Apple, iOS, iPad, Technology]
+tags: [Apple, iOS, iPad, Technology]
+category: Technology
 ---
 [box type="warning"] **Update: Wed 3/7** I just finished <a href="http://www.apple.com/apple-events/march-2012/">watching the keynote video</a> from today's keynote. I was 7 out of 7 on my predictions, 3 for 4 on my "long shots," and 4 out of 4 on my negative predictions. The one item I got wrong was the name: I said it wasn't going to be called the iPad 3 (correct) but instead the iPad HD or iPad 2 HD... wrong. Well, it has no name-- it's just the iPad. Won't know about memory until the devices are in hand, but I may have to revise "longshots" downward by one.
 

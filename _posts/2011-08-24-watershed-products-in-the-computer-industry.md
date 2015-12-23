@@ -4,7 +4,8 @@ title: Watershed products in the computer industry
 date: 2011-08-24 23:53
 author: jrj
 comments: true
-categories: [Uncategorized]
+tags: [Apple, Steve Jobs]
+category: Technology
 ---
 The watershed milestone products in the computer industry are few. You may argue with this list, but I think it’s pretty reasonable.<a href="http://blog.jrj.org/post.cfm/watershed-products-in-the-computer-industry#milestonescaveat">*</a>
 <ul>

@@ -4,7 +4,8 @@ title: Advice on Rebooting a Technical Career
 date: 2009-01-16 17:02
 author: jrj
 comments: true
-categories: [Career, Career, Development, IT Industry, Job Security, Management, Technology]
+tags: [Career, Career, Development, IT Industry, Job Security, Management, Technology]
+category: Technology
 ---
 In the last few months, I’ve had a large number of contacts get ahold of me because they were concerned about their job security, and wanted my advice on how best to proceed. It reminded me of a conversation I had with a friend much earlier this year—I thought I would share in the hopes that it will be relevant some of the techies out there who are concerned about where their next paycheck is going to come from.<!--more-->
 

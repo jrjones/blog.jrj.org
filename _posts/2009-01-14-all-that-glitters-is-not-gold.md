@@ -4,7 +4,8 @@ title: All that Glitters is not Gold
 date: 2009-01-14 14:05
 author: jrj
 comments: true
-categories: [Economics, Gold, Investing, Silver]
+tags: [Economics, Gold, Investing, Silver]
+category: Economics
 ---
 CNBC had the following commentary:
 <blockquote><a href="http://www.cnbc.com/id/15840232/?video=997237825&amp;play=1" target="_blank">Silver looks attractive</a> to Graham Bibby, managing director at Richmond Asset Management, as he believes it is slightly undervalued. He explains his investment rationale for this precious metal, as well as gold.</blockquote>

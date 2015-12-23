@@ -4,7 +4,8 @@ title: Morality and Artificial Intelligence
 date: 2012-11-27 21:29
 author: jrj
 comments: true
-categories: [AI, Artificial Intelligence, Futurism, Futurist philosophy]
+tags: [AI, Artificial Intelligence, Futurism, Futurist philosophy]
+category: Futurism
 ---
 &nbsp;
 

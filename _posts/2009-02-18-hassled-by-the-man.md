@@ -4,7 +4,8 @@ title: Hassled by the Man?
 date: 2009-02-18 01:16
 author: jrj
 comments: true
-categories: [Police, Politics, Rights]
+tags: [Police, Politics, Rights]
+categories: [JRJ Personal, Politics]
 ---
 Last night was one of the strangest experiences I've had since I relocated to the Seattle area a decade ago. I had been working late, and was headed home after 10pm. Behind me, I saw the view everyone hopes not to see while driving: a police cruiser with the lights flashing. While looking for an appropriate spot to pull over, I glanced down at the speedometer—I was going exactly 1mph under the posted limit. This is going to be a long post, so I'll put the officer's statements in <span style="color: #3366ff">blue</span>, and my own in <span style="color: #ff0000">red</span> to make it easier to read. Obviously, this is personal recollection—so I'm sure it's not 100% accurate.
 

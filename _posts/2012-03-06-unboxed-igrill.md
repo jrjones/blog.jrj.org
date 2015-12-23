@@ -4,7 +4,8 @@ title: "Unboxed: iGrill"
 date: 2012-03-06 04:48
 author: jrj
 comments: true
-categories: [grilling, iGrill, Technology, unboxed, Unboxing]
+tags: [grilling, iGrill, Technology, unboxed, Unboxing]
+category: Technology
 ---
 Rachel set my grilling thermometer on fire<span style="color: #ff0000">*</span> so I needed a new one. I figured I might as well get something fun, so I picked up the <a href="http://www.amazon.com/gp/product/B005T06H7G/ref=as_li_ss_tl?ie=UTF8&amp;tag=hyfo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005T06H7G" target="_blank">iGrill digital grilling thermometer</a>.
 

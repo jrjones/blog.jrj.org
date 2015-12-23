@@ -4,7 +4,8 @@ title: What lies beneath the surface? Profitability.
 date: 2012-06-21 17:34
 author: jrj
 comments: true
-categories: [microsoft, Surface, Tablet, Technology]
+tags: [microsoft, Surface, Tablet, Technology]
+category: Technology
 ---
 A bit partisan (as usual for Gruber) but <a href="http://daringfireball.net/2012/06/surface_between_rock_and_hardware_place" target="_blank">insightful none the less</a>. The money quote actually comes from <a href="http://www.asymco.com/2012/06/20/who-will-be-microsofts-tim-cook/" target="_blank">Horace Dediu</a>:
 <blockquote>"Microsoft faces a dilemma. Their business model of expensive software on cheap hardware is not sustainable. The future is nearly free software integrated into moderately priced hardware."</blockquote>

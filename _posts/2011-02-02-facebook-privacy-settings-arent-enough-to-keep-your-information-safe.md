@@ -4,7 +4,8 @@ title: Facebook privacy settings aren't enough to keep your information safe
 date: 2011-02-02 00:08
 author: jrj
 comments: true
-categories: [Facebook, Privacy, privacy]
+tags: [Facebook, privacy]
+category: Privacy
 ---
 Awareness of the need to tweak one's privacy settings in Facebook increased substantially in 2010 due to <a href="http://www.time.com/time/business/article/0,8599,1990582,00.html" target="_blank">mainstream press coverage of the company's whack-a-mole changes to their privacy policy and settings</a>. However, what not everyone understands is just because you've properly<a href="http://www.ehow.com/how_5083146_set-facebook-privacy-settings.html" target="_blank"> configured your privacy settings on Facebook</a> it doesn't mean that your information is safe from all prying eyes.
 

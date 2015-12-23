@@ -4,7 +4,8 @@ title: Hybrid car sales were off a bit in April
 date: 2007-05-03 15:05
 author: jrj
 comments: true
-categories: [Automotive, Hybrid]
+tags: [Automotive, Hybrid]
+category: Automotive
 ---
 <img src="http://www.hybridcars.com/images/stories/dashboard/apr07-overview.gif" alt="" align="right" hspace="5" />
 HybridCars.com has posted their monthly update on global sales of hybrid vehicles. Sales of hybrid vehicles were down 18% for April. Keep in mind that sales of cars in general were off by 13%, so relative to the rest of the market this isn't as bad as it sounds.

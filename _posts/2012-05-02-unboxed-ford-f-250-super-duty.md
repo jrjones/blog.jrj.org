@@ -4,7 +4,8 @@ title: Unboxed? Ford F-250 Super Duty
 date: 2012-05-02 17:34
 author: jrj
 comments: true
-categories: [Automotive, Ford, JRJ Personal, RV, Truck, Unboxing]
+tags: [Automotive, Ford, JRJ Personal, RV, Truck, Unboxing]
+categories: [Automotive, JRJ Personal]
 ---
 Rach and I are buying an RV (well, actually we've already bought the fifth wheel RV, but we don't get to pick it up for a while because it's being custom-built.) Consequently, we needed a truck capable of towing a pretty hefty trailer. I did tons of research, and decided to get the <a href="http://www.ford.com/trucks/superduty/" target="_blank">Ford F-250 Super Duty</a> because it was the most quiet and comfortable, had the <a href="http://www.ford.com/syncmyride/" target="_blank">best iPod/iPhone integration</a>, and I liked the <a href="http://www.ford.com/trucks/superduty/features/#page=Feature18" target="_blank">factory fifth wheel hitch readiness</a>, <a href="http://www.ford.com/trucks/superduty/features/#page=Feature22" target="_blank">trailer brake control</a>, and <a href="http://www.ford.com/trucks/superduty/features/Feature16" target="_blank">trailer sway control</a> functionality.
 

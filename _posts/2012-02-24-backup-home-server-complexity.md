@@ -4,7 +4,8 @@ title: Complexity
 date: 2012-02-24 18:35
 author: jrj
 comments: true
-categories: [Backup, JRJ Personal, security, Technology]
+tags: [Backup, JRJ Personal, security, Technology]
+categories: [JRJ Personal, Technology]
 ---
 A family member asked me if his technique of backing up his files to a thumb drive and regularly sending a copy to a safe deposit box was sufficient. My response was a reminder to me that I need to simplify my world. Nobody (including me) requires this level of complexity. What follows is my response, edited for posting.
 

@@ -4,7 +4,8 @@ title: "UNBOXED: Apple 23&#8217; Cinema Display!"
 date: 2007-08-12 12:45
 author: jrj
 comments: true
-categories: [Apple, Technology, unboxed, Unboxing, Uncategorized]
+tags: [Apple, Technology, unboxed, Unboxing, Uncategorized]
+category: Technology
 ---
 <div style="text-align: center"></div>
 I’ve used dual Dell 20” monitors for years in my home office, but I’ve been meaning to pick up a nice widescreen display. I was planning on buying a Dell 30” unit, but discovered that my video card on my PC wouldn’t support it. Rather than spend the money to buy the monitor AND a new high-end video card, I decided to splurge and buy a 23” Apple Cinema Display (which is $300 more than a comparable 24” Dell, but it’s just so pretty.)

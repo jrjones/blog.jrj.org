@@ -4,7 +4,8 @@ title: iPhone Announcement Predictions
 date: 2011-10-01 21:11
 author: jrj
 comments: true
-categories: [Apple, iOS, IPhone, Technology]
+tags: [Apple, iOS, IPhone, Technology]
+category: Technology
 ---
 [box type="warning"] Update... I was wrong about the memory bump, but it looks like I was otherwise spot-on. I was surprised they kept the Siri name, and REALLY surprised they kept the 3GS around. The iPhone line seems needlessly complex now. [/box] Next week, Apple will announce a new iPhone. Here are my predictions.
 <ul>

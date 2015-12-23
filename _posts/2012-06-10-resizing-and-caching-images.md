@@ -4,7 +4,8 @@ title: Resizing and Caching Images
 date: 2012-06-10 21:51
 author: jrj
 comments: true
-categories: [ColdFusion, Development, JRJ Personal, jrj-image-server, Open Source, Technology]
+tags: [ColdFusion, Development, JRJ Personal, jrj-image-server, Open Source, Technology]
+categories: [Technology, JRJ Personal]
 ---
 The previous version of the jrjBlog was based on the excellent open-source <a href="http://www.mangoblog.org" target="_blank">Mango ColdFusion blog engine</a>. I liked it primarily because it was easy to tweak the code and implement fun new features on the site, but in the end I finally gave up and migrated to <a href="http://wordpress.org" target="_blank">WordPress</a> because of the availability of so many wonderful plug-ins.
 

@@ -4,7 +4,8 @@ title: "@JRJ's Top 10 Twitter Posts about the Financial Crisis"
 date: 2009-01-16 16:58
 author: jrj
 comments: true
-categories: [Economics, Financial Crisis, Humor, Twitter]
+tags: [Economics, Financial Crisis, Humor, Twitter]
+category: Economics
 ---
 A little levity in honor of a crazy market, I thought I’d share my top-10 twitter comments about the economy over the last few months. For more, <a href="http://www.twitter.com/jrj">http://www.twitter.com/jrj</a>
 

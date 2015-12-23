@@ -4,7 +4,8 @@ title: "Startup Advice: Successful Delegation to Vendors"
 date: 2007-08-15 11:36
 author: jrj
 comments: true
-categories: [bootstrapping, Small Business, startup, Uncategorized, vendors]
+tags: [bootstrapping, Small Business, startup, vendors]
+category: Business
 ---
 I received a lot of great feedback about my “<a title="Startup Advice: Bootstrapping It…" href="http://blog.jrj.org/2007/04/06/startup-advice-bootstrapping-it/">Bootstrapping</a>” post in which I shared some advice I recently provided to a friend that is working in an early stage startup. I’ll try to do more of this kind of thing-- today a perfect example presented itself.
 

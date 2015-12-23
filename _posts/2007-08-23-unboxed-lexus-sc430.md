@@ -4,7 +4,8 @@ title: "UNBOXED: Lexus SC430!"
 date: 2007-08-23 12:38
 author: jrj
 comments: true
-categories: [Automotive, JRJ Personal, Unboxing]
+tags: [Automotive, JRJ Personal, Unboxing]
+categories: [Automotive, JRJ Personal]
 ---
 <div style="text-align: center"></div>
 OK, this doesn’t really fit in with the usual theme of my “unboxed!” series of new tech toys... but hey, since it has a navigation system I figured I’d get a pass.

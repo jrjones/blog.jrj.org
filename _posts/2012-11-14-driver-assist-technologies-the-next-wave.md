@@ -4,7 +4,8 @@ title: "Driver Assist Technologies: the Next Wave"
 date: 2012-11-14 20:16
 author: jrj
 comments: true
-categories: [Automotive, driverless cars, flying cars, Ford, Futurism]
+tags: [Automotive, driverless cars, flying cars, Ford, Futurism]
+categories: [Automotive, Futurism, Technology]
 ---
 Car and Driver has a column on the <a href="http://www.caranddriver.com/columns/john-phillips-how-come-no-one-calls-me-anymore-column" target="_blank">next wave of driver assist technologies</a>. This stuff started with traction control, but eventually started taking more of an active role with Mercedes' introduction of its <a href="http://en.wikipedia.org/wiki/Autonomous_cruise_control_system" target="_blank">Distronic branded laser cruise control</a> (where your cruise control maintains not only a constant speed, but a constaint distance between you and the car in front of you) but has evolved to some really amazing stuff. Most are safety-oriented (<a href="http://en.wikipedia.org/wiki/Lane_Keep_Assist" target="_blank">lane keep assist</a>, emergency braking, etc.) but some are pure convenience (<a href="http://en.wikipedia.org/wiki/Advanced_Parking_Guidance_System" target="_blank">automatic parking</a>.) This kind of tech isn't reserved for high-end luxury cars (though that's where it tends to show up first, for obvious reasons.) You can get a full load of driver assistance technologies in tech-centric cars like the Toyota Prius.
 

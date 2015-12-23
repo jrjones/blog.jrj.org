@@ -42,7 +42,7 @@ module Jekyll
     def initialize(name, params, tokens)
       # initialize default values
       @size_min, @size_max, @precision, @unit = 70, 170, 0, '%'
-      @threshold                              = 1
+      @threshold                              = 5
 
       # process parameters
       @params = Hash[*params.split(/(?:: *)|(?:, *)/)]
@@ -79,7 +79,7 @@ module Jekyll
         name, weight = tag
         size = size_min + ((size_max - size_min) * weight).to_f
         size = sprintf("%.#{@precision}f", size)
-        html << "<a style='font-size: #{size}#{unit}' href='/tags.html##{name}'>#{name}</a>\n"
+        html << "<a style='font-size: #{size}#{unit}' href='/tags/index.html##{name}'>#{name}</a>\n"
       end
     end
 

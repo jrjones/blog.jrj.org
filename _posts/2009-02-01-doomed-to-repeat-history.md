@@ -4,7 +4,8 @@ title: Doomed to Repeat History?
 date: 2009-02-01 02:15
 author: jrj
 comments: true
-categories: [Economics, FDR, Federal Reserve, National Debt, Obama, Politics]
+tags: [Economics, FDR, Federal Reserve, National Debt, Obama, Politics]
+category: Economics
 ---
 A profoundly unpopular Republican President, widely viewed as a massive failure by the populace is succeeded by a charismatic Democrat just as the country peers down the precipice of a deep and prolonged recession, following a historic crash in the stock markets. Unemployment is soaring, and deflationary forces rear their ugly head. The new President promises to put Americans back to work with sweeping public works projects, and leverages new technology to reach out to the citizenry weekly with his message of hope and change, delivered with the skill of a master orator known for his consistently poised and calm temperament.
 

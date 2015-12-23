@@ -4,7 +4,8 @@ title: The Next Chapter...
 date: 2010-02-22 01:02
 author: jrj
 comments: true
-categories: [Career, JRJ Personal, microsoft, Milestones]
+tags: [Career, JRJ Personal, microsoft, Milestones]
+category: JRJ Personal
 ---
 It's been almost 5 years to the day since I joined the Digital Media Division (which no longer exists) at Microsoft. In that time, I've had the good fortune to work on projects including Windows Vista, Windows 7, Windows Media Center, Windows Media Player, Silverlight, Zune, XBox 360, and more. I've had the opportunity to work with people who are literally an order of magnitude smarter than me, which is a huge motivator. It's been a blast.
 

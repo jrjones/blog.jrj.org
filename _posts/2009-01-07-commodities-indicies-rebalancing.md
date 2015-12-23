@@ -4,7 +4,8 @@ title: Commodities Indicies Rebalancing
 date: 2009-01-07 14:05
 author: jrj
 comments: true
-categories: [Economics, Gold, Investing]
+tags: [Economics, Gold, Investing]
+category: Economics
 ---
 The major commodities indicies are being rebalanced again, which made me decide to sell a bunch of gold shares at around 860 knowing that most indicies would be reducing their gold exposure because of its strong performance in '08. <a href="http://www.ritholtz.com/blog/2009/01/here-comes-the-commodity-index-rebalancing/" target="_blank">Barry Ritholtz is questioning the timing of this rebalancing as well as the last </a>one in 2006.
 <blockquote>"...I have no clue what the motivation is for these moves, nor do I knows what what they were in 2006. But they are looking increasingly curious and ill timed. Once is a coincidence. Twice makes you pay close attention. After the third such move, expect to see the index managers dragged before a  Congressional panel..."</blockquote>

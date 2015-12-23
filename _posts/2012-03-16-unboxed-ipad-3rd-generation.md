@@ -4,7 +4,8 @@ title: "Unboxed: iPad (3rd Generation)"
 date: 2012-03-16 21:28
 author: jrj
 comments: true
-categories: [Apple, iPad, Technology, unboxed, Unboxing]
+tags: [Apple, iPad, Technology, unboxed, Unboxing]
+category: Technology
 ---
 Yep, it arrived today. According to my wife, the FedEx guy was in a rented U-Haul. It would seem (at least in the bay area) Apple has overwhelmed FedEx.
 

@@ -4,7 +4,8 @@ title: Movember 'stache
 date: 2012-11-30 22:01
 author: jrj
 comments: true
-categories: [charity, Image, JRJ Personal]
+tags: [charity, Image, JRJ Personal]
+category: JRJ Personal
 ---
 I promised if I raised $500 on http://mo.jrj.org that I'd post a public picture. Always a man of my word, here you go.
 

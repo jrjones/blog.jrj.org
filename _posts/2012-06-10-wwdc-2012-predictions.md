@@ -4,7 +4,8 @@ title: WWDC 2012 Predictions
 date: 2012-06-10 22:47
 author: jrj
 comments: true
-categories: [Apple, Featured, iOS, Mac OS, Technology]
+tags: [Apple, Featured, iOS, Mac OS, Technology]
+category: Technology
 ---
 [box type="info"] Update, 6/11/2012: Apparently, I'm slipping. All of my negative predictions were correct (4 out of 4) but I was only 4 for 5 on my predictions, since I got only partial credit for two of them. Still, though... 8 out of 9 is a pretty good record for an Apple prediction.
 

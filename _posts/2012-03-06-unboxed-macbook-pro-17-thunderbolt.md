@@ -4,7 +4,8 @@ title: "Unboxed: MacBook Pro 17&#8217; (Thunderbolt)"
 date: 2012-03-06 05:18
 author: jrj
 comments: true
-categories: [Apple, MacBook, Technology, unboxed, Unboxing]
+tags: [Apple, MacBook, Technology, unboxed, Unboxing]
+category: Technology
 ---
 My new work laptop arrived today, it's a <a href="http://www.apple.com/macbookpro/" target="_blank">MacBook Pro 17"</a> with the following specs:
 <ul>

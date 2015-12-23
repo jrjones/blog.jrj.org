@@ -4,7 +4,8 @@ title: To buy or not to buy? The answer lies in utility value.
 date: 2007-12-16 12:56
 author: jrj
 comments: true
-categories: [Economics, economics, JRJ Personal, Kindle, Technology]
+tags: [Economics, economics, JRJ Personal, Kindle, Technology]
+categories: [Technology, Economics]
 ---
 I've thought a bit about whether or not I am going to buy a Kindle. I think I've made a decision:
 

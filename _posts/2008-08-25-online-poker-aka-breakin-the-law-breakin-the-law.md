@@ -4,7 +4,8 @@ title: Online Poker (AKA "Breakin' the law, breakin' the law...")
 date: 2008-08-25 10:44
 author: jrj
 comments: true
-categories: [online poker, Poker, poker]
+tags: [online poker, Poker, poker]
+category: Poker
 ---
 About a month ago, my wife discovered that we had a few dollars sitting in an online poker site. We thought we had cleaned out all the poker sites when the laws changed, but apparantly we forgot about this one.
 

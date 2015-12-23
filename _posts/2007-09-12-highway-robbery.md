@@ -4,7 +4,8 @@ title: Highway Robbery
 date: 2007-09-12 04:34
 author: jrj
 comments: true
-categories: [Electronics, hdmi, Humor, Humor, JRJ Personal, Technology]
+tags: [Electronics, hdmi, Humor, Humor, JRJ Personal, Technology]
+category: Technology
 ---
 I needed an HDMI cable so that I could plug my TiVo in via a digital connection instead of a component analog one. Because it’s the closest electronics store, I went to BestBuy.
 

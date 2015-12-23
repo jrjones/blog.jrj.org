@@ -4,7 +4,8 @@ title: Markets and Chaos Theory
 date: 2008-12-18 13:53
 author: jrj
 comments: true
-categories: [Economics, Gold, Mc Donalds, Starbucks, stocks]
+tags: [Economics, Gold, Mc Donalds, Starbucks, stocks]
+category: Economics
 ---
 <blockquote>*"The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design." *
 F.A. Hayek</blockquote>

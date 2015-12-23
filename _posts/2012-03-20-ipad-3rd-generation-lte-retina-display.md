@@ -4,7 +4,8 @@ title: Come for the Display, Stay for the LTE
 date: 2012-03-20 20:35
 author: jrj
 comments: true
-categories: [Apple, iPad, Technology]
+tags: [Apple, iPad, Technology]
+category: Technology
 ---
 I upgraded from my iPad 2 to an iPad 3 for one reason, and one reason only: the display. My biggest disappointment when the iPad 2 was announced was the lack of a retina display, and after a few months of experiencing the night-and-day difference between the iPhone 4 and the iPhone 3GS, I knew how much impact a retina display would have on my primary iPad use-case: reading.
 

@@ -4,7 +4,8 @@ title: "Video: Anniversary Vacation"
 date: 2007-12-19 21:16
 author: jrj
 comments: true
-categories: [JRJ Personal, personal, vacation, video]
+tags: [JRJ Personal, personal, vacation, video]
+category: JRJ Personal
 ---
 Rach and I snuck away for a few days to celebrate our 5th anniversary. (Well, one of them... our official anniversary is June 30th, but we snuck off and eloped in December before the big wedding.)
 

@@ -4,7 +4,8 @@ title: "Microsoft Stock: is Win 8 Good for MSFT?"
 date: 2012-11-15 22:19
 author: jrj
 comments: true
-categories: [Economics, Investing, microsoft, Technology, Windows]
+tags: [Economics, Investing, microsoft, Technology, Windows]
+categories: [Economics, Technology]
 ---
 A relative of mine asked me this morning about whether or not they should buy Microsoft stock right now, based on a tip he received from an investment guy that “Windows 8 was a big update.” What follows is an edited version of my response, but first, a disclaimer.
 

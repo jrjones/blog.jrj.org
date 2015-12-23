@@ -4,7 +4,8 @@ title: "UNBOXED: Jawbone Bluetooth Headset"
 date: 2007-08-15 12:41
 author: jrj
 comments: true
-categories: [bluetooth, Technology, unboxed, Unboxing, Uncategorized]
+tags: [bluetooth, Technology, unboxed, Unboxing]
+category: Technology
 ---
 <div style="text-align: center"></div>
 I’ve been a fan of bluetooth headsets for years-- I primarily use my phone while driving, so a headset is a no-brainer... but the simplicity and elegance of a wireless headset is something that appeals to me.

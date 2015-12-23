@@ -4,7 +4,8 @@ title: Unboxed? Keystone Cougar 322QBS Fifth Wheel RV
 date: 2012-11-13 21:59
 author: jrj
 comments: true
-categories: [Automotive, JRJ Personal, RV, unboxed, Unboxing]
+tags: [RV, unboxed, Unboxing]
+category: JRJ Personal
 ---
 My wife and I recently purchased a fifth wheel RV. I wasn't planning to post pictures here because it's of interest to such a small group of people, but a few friends who aren't on Facebook asked to see it, so here we are.
 

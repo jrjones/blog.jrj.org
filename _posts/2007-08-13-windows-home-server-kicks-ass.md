@@ -4,7 +4,8 @@ title: Windows Home Server Kicks Ass
 date: 2007-08-13 11:40
 author: jrj
 comments: true
-categories: [Backup, Network Infrastructure, Servers, Technology, WHS]
+tags: [Backup, Network Infrastructure, Servers, Technology, WHS]
+category: Technology
 ---
 The other day, Rachel came to me with a seemingly simple problem... her hard drive on her laptop was full. The last time this happened it was because we had recently subscribed to the MTV “Urge” service and she had proceeded to download a couple hundred gigabytes of music. However, this time it wasn’t so simple.
 

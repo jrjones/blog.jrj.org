@@ -4,7 +4,8 @@ title: Optimizing Your Mac for SSD
 date: 2012-06-25 20:47
 author: jrj
 comments: true
-categories: [JRJ Personal, Technology]
+tags: [Mac OS X, Apple, SSD, iTunes, How-To]
+category: Technology
 ---
 I use two primary machines for personal use: an **11" MacBook Air Core i5** (2011) and a** 27" iMac Core i7** (Late 2009). This is my second MacBook Air (my wife inherited the previous one) but when I first tried a MacBook Air, it was a revelation to me... not because it's a great laptop (though it is) but rather because despite the much slower processor and less RAM, it was *dramatically* faster for almost every purpose than my ostensibly more powerful iMac because of the speedy SSD. <a title="Solid State Drives cannot be securely erased? Who cares?" href="http://blog.jrj.org/2011/02/26/solid-state-drives-cannot-be-securely-erased-who-cares/">I immediately upgraded my iMac to an SSD</a>.
 
