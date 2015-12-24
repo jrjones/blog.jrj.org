@@ -12,7 +12,7 @@ image:
   thumb: "postheads/applewatch.png"
 header:
   image: "postheads/applewatch.png"
-  background-color: "#333333"
+  background-color: "#f2f3f3"
 gallery:
   - image_url: galleries/applewatch/watch-in-case.jpg
     caption: "The Apple Watch and the box it came in"
