@@ -5,8 +5,13 @@ date: 2014-02-05 11:13
 author: jrj
 tags: [Bill Gates, futurism, GPS, smartphones, technology]
 category: Futurism
-excerpt: "Looking back at Gates’ “Wallet PC” prediction twenty years later…"
-headerimg: gatespredict.png
+teaser: "Looking back at Gates’ “Wallet PC” prediction twenty years later…"
+image:
+  homepage: postheads/gatespredict.png
+  thumb: postheads/gatespredict.png
+header:
+  image: postheads/gatespredict.png
+  background-color: "#333333"
 ---
 <!---
 ![Gates Predictions](/assets/postheads/gatespredict.png "Gates Predictions")

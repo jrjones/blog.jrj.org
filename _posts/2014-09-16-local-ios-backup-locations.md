@@ -5,8 +5,12 @@ date: 2014-09-16 13:21
 category: Technology
 tags: [Apple, iOS, iTunes, JRJ personal, Mac OS, technology]
 author: jrj
-excerpt: "Changing the location where iTunes backs up your iOS devices…"
-headerimg: itunesbackuploc.png
+teaser: "Changing the location where iTunes backs up your iOS devices…"
+image: 
+  homepage: "postheads/itunesbackuploc.png"
+  thumb: "postheads/itunesbackuploc.png"
+header:
+  image_fullwidth: jrj-itunes-directory.png
 ---
 <!---
 ![Local iTunes Backups](/assets/postheads/itunesbackuploc.png "iTunes Backup Locations")

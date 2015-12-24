@@ -5,8 +5,26 @@ date: 2013-12-03 20:04
 author: jrj
 tags: [augmented reality, futurism, Google Glass, technology, unboxed, wearable computing]
 category: Technology
-excerpt: "My Google Glass Explorer pack arrived today, and was unboxed…"
-headerimg: google-glass-unboxed.png
+teaser: "My Google Glass Explorer pack arrived today, and was unboxed…"
+image: 
+  frontpage: postheads/google-glass-unboxed.png
+  thumb: postheads/google-glass-unboxed.png
+header:
+  image: postheads/google-glass-unboxed.png
+  background-color: "#000000"
+gallery:
+  - image_url: galleries/googleglass/0-unopened.jpg
+    caption: "Google Glass sites quietly and patiently in its box... I, meanwhile, was NOT patient."
+  - image_url: galleries/googleglass/1-opened.jpg
+    caption: "Open the lid, and the Google Glass sits under a cover of velum-type paper."
+  - image_url: galleries/googleglass/2-opened.jpg
+    caption: "The velum veil lifted, the Google Glass sits in its box waiting to be played with."
+  - image_url: galleries/googleglass/3-note.jpg
+    caption: "A little note on the carrying case/pouch talks about the materials and intended use."
+  - image_url: galleries/googleglass/4-accessories.jpg
+    caption: "Underneath the Google Glass device itself sits the variouis accessories."
+  - image_url: galleries/googleglass/5-device.jpg
+    caption: "This is the part of the Google Glass device that sits atop your right eye."
 ---
 <!---
 [Google Glass Unboxing](/assets/postheads/google-glass-unboxed.png "Google Glass Unboxing")
@@ -17,6 +35,7 @@ I got an invite to Google Glass Explorer program the day before Thanksgiving. I 
 <!---
 [gallery ids="1412,1413,1414,1415,1416,1417"]
 -->
+{% include gallery %}
 
 I expect to post at least a few early thoughts over the coming weeks. However, just from the unboxing and a few hours of playing around with it, some observations emerge:
 

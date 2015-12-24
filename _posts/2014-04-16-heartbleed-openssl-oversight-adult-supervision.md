@@ -5,9 +5,12 @@ date: 2014-04-16 18:49
 author: jrj
 tags: [heartbleed, open source, OpenSSL, security, SSL/TLS]
 category: Security
-excerpt: "Hearbleed demonstrated projects critical to the net’s infrastructure need help…"
+teaser: "Hearbleed demonstrated projects critical to the net’s infrastructure need help…"
 header:
   image_fullwidth: jrjhead-hearbleed.png
+image:
+  frontpage: postheads/heartbleed.png
+  thumb: postheads/heartbleed.png
 ---
 <!---
 ![Hearbleed Vulnerability](/assets/postheads/heartbleed.png "Heartbleed OpenSSL Vulnerability")

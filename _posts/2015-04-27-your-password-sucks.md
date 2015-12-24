@@ -5,8 +5,10 @@ date: 2015-04-27 13:07
 category: Security
 tags: [1Password, hacking, LastPass, passwords, privacy, security, technology]
 author: jrj
-excerpt: "Your password sucks, but every character counts…"
-image: "postheads/passwordsucks.png"
+teaser: "Your password sucks, but every character counts…"
+image:
+  homepage: "postheads/passwordsucks.png"
+  thumb: "postheads/passwordsucks.png"
 header:
   image: "postheads/passwordsucks.png"
   background-color: "#333333"
