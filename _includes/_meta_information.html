@@ -12,9 +12,9 @@
 				<time class="icon-calendar pr20" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> {{ page.date | date: "%Y-%m-%d" }}</time>
 				{% endif %}
 
-				{% if page.categories %}<span class="icon-archive pr20"> {{ page.categories | join: ' · ' | upcase }}{% endif %}</span>
+				{% if page.categories %}<span class="icon-archive pr20">{% for category in page.categories %}<a href="/categories#{{ category }}" style="text-decoration: none; border-bottom: none;"> {{ category | upcase }}</a> {% unless forloop.last == true %}·{% endunless %} {%endfor%} {% endif %}</span>
 				<br />
-				<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}</span>
+				<span class="pr20">{% for tag in page.tags %}<a href="/tags#{{tag}}" style="text-decoration: none; border-bottom: none;"><span class="icon-price-tag pr10">{{tag}}</span></a>{% endfor %}</span>
 			</p>
 
 			<div id="post-nav" class="row">
