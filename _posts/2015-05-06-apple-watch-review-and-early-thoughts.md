@@ -13,6 +13,29 @@ image:
 header:
   image: "postheads/applewatch.png"
   background-color: "#333333"
+gallery:
+  - image_url: galleries/applewatch/watch-in-case.jpg
+    caption: "The Apple Watch and the box it came in"
+  - image_url: galleries/applewatch/watch-on-wrist.jpg
+    caption: "Apple Watch on my wrist, before pairing with the phone"
+  - image_url: galleries/applewatch/watch-on-wrist2.jpg
+    caption: "Close-up of the watch on my wrist with the screen off"
+  - image_url: galleries/applewatch/watch-on-wrist-podcast.jpg
+    caption: "Close-up of the watch while listening to a podcast in Overcast"
+  - image_url: galleries/applewatch/screen-podcasts.jpg
+    caption: "The first version of Overcast, which has since been replaced with a much better version"
+  - image_url: galleries/applewatch/screen-tweets.jpg
+    caption: "The Twitteriffic app is much better than Twitter's first party app"
+  - image_url: galleries/applewatch/screen-activity.jpg
+    caption: "Concentric circles of the activity glance"
+  - image_url: galleries/applewatch/screen-mickey.jpg
+    caption: "Mickey is here, tapping his feet in unison with every other Apple Watch on the planet"
+  - image_url: galleries/applewatch/screen-modular.jpg
+    caption: "The Modular face is my daily driver during the work-day."
+  - image_url: galleries/applewatch/sport-clasp.jpg
+    caption: "The sport band is comfortable and durable/weather-resistant."
+  - image_url: galleries/applewatch/watch-stand.jpg
+    caption: "The third party stand I bought is kind of a piece of crap. Skip it."
 ---
 <!---
 ![Apple Watch: Early Thoughts](/assets/postheads/applewatch.png "Apple Watch")
@@ -32,6 +55,8 @@ Finally (after touching on a few odds and ends, and weighing in on a few common 
 
 Why’s that? Read on.
 
+![The Apple Watch in all its glory](/images/galleries/applewatch/watch-in-case.jpg)
+
 # The Device Itself…
 <!--- need to figure out a stratey for images.
 [caption id="attachment_1543" align="alignright" width="150"]<a href="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2015/05/IMG_0490.jpg"><img class="size-thumbnail wp-image-1543" src="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2015/05/IMG_0490-150x150.jpg" alt="apple watch in box" width="150" height="150" /></a> The Apple Watch and the box it came in[/caption]
@@ -42,6 +67,8 @@ Watches are fashion, which is inherently subjective. Personally, **I think the s
 <!---
 [gallery ids="1543,1544,1545,1546,1547,1548,1549,1550"]
 -->
+
+{% include gallery %}
 
 I strongly prefer the polished stainless steel “Apple Watch” to the satin finish on the aluminum “Apple Watch Sport.” **When paired with the right band, the steel watch can feel either dressy or casual, unlike the Sport, which can’t be effectively dressed up.** (Pairing the Sport with the Milanese loop or link bracelet looks bad in my opinion, due to the mismatched metals and the satin finish on the aluminum watch.) However, opinions on this will vary widely— again, fashion is highly subjective.
 
@@ -66,6 +93,9 @@ The watch faces themselves are great, and most can be customized with “complic
 <!---
 [caption id="attachment_1550" align="alignright" width="150"]<a href="http://blog.jrj.org/2015/05/06/apple-watch-review-and-early-thoughts/img_0530/" rel="attachment wp-att-1550"><img class="size-thumbnail wp-image-1550" src="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2015/05/IMG_0530-150x150.jpg" alt="Modular watch face" width="150" height="150" /></a> The "Modular" face is my daily driver during the work day.[/caption]
 -->
+
+<img src="/images/galleries/applewatch/screen-modular.jpg" align="right" style="margin-left: 15px; margin-bottom: 10px; width: 150px;" alt="Modular Face Screen Shot" title="The Modular face is my daily driver during the work-day">
+
 
 The usage pattern that has evolved for me is fairly simple: I use the extremely practical but less attractive “modular” watch face during the workday. I’ve configured it to show my next appointment, the current temperature, current Pacific time zone (where most of my colleagues are located) and the current Dow Jones Industrial Average. When 5:00 rolls around, and on weekends, I use different faces, with a particular affinity for the astronomy and chronograph faces.
 
@@ -100,6 +130,8 @@ The Apple watch is a much better fitness tracker than the Jawbone in almost ever
 <!---
 [caption id="attachment_1548" align="alignright" width="150"]<img class="wp-image-1548 size-thumbnail" src="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2015/05/IMG_0528-150x150.jpg" alt="activity glance" width="150" height="150" /> Concentric circles of the activity glance[/caption]
 -->
+<img src="/images/galleries/applewatch/screen-activity.jpg" align="right" style="margin-left: 15px; margin-bottom: 10px; width: 150px;" alt="Activity App Screen Shot" title="Concentric circles of the activity glance">
+
 
 Throughout the day, the watch uses its sensors (and, if available, the sensors on your phone) to track your movement. The basic interface for fitness tracking is the “Activity” glance. It shows 3 concentric circles. The outermost ring represents movement, and you set goals for how much. Think of this as a basic pedometer, and setting goals for steps/distance each day. The middle ring represents exercise, and the watch will try to persuade you to get 30 minutes of real exercise per day. (Good luck with that, Apple. Geeks are a sedentary bunch.) It goes beyond a simple pedometer, and includes your heart rate as part of the algorithm. **Turns out the Apple Watch is among the most accurate heart rate monitors available to consumers**— [Consumer Reports found it matched their top-rated chest strap monitor](http://www.consumerreports.org/cro/news/2015/04/the-science-behind-smartwatch-scratch-resistance/index.htm). I was surprised by this. The innermost circle shows how often you get off your butt and move around, with a default goal of standing up at least once per hour and moving around a bit. The interface is intuitive and attractive, and has just the right amount of gamification. You can score achievements for hitting your goals, and you’d be amazed how much a ring that is 90% full will bug the OCD side of you into completing it.
 
@@ -147,6 +179,7 @@ The native apps work well. Everything from messaging to calendaring to fitness t
 <!---
 [caption id="attachment_1547" align="alignright" width="150"]<a href="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2015/05/IMG_0527.jpg"><img class="size-thumbnail wp-image-1547" src="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2015/05/IMG_0527-150x150.jpg" alt="Twitteriffic app" width="150" height="150" /></a> The Twitteriffic app is much better than Twitter's first party app[/caption]
 -->
+<img src="/images/galleries/applewatch/screen-tweets.jpg" align="right" style="margin-left: 15px; margin-bottom: 10px; width: 150px;" alt="Twitteriffic Screen Shot" title="The Twitteriffic app is much better than Twitter's first-party app">
 
 Watch Kit apps, on the other hand, are limited in functionality and nearly unusably slow. First execution is often measured in tens-of-seconds, and subsequent execution of most apps isn’t much faster. The apps you download you’ll use a time or two and forget they exist because it’s almost always quicker and easier to simply pull out your phone. It really is that bad. There are two watch kit apps that are sufficiently useful that I’m willing to actually use them on a semi-regular basis: Day One and OmniFocus. Both have been smart about UI design optimized for the watch, and minimizing data transfer. (No massive PNG files flying back and forth.) However, even these are really slow. Every other app I don’t use on the watch, I simply pull out my phone. These will improve, with larger touch-targets and fewer, smaller image assets… but improvement will occur within the constraints and limitations of the platform. There’s only so good they can get without moving to native apps.
 
