@@ -5,10 +5,14 @@ date: 2013-08-26 19:18
 author: jrj
 tags: [Apple, JRJ personal, movies, technology]
 category: JRJ Personal
+teaser: "Not a great movie, but low expectations allowed me to enjoy it anyway…"
+image:
+  frontpage: postheads/jobsmovie.png
+  thumb: postheads/jobsmovie.png
+header:
+  image: postheads/jobsmovie.png
+  background-color: "#EEEEDD"
 ---
-
-![Jobs - The Movie](/assets/postheads/jobsmovie.png "Jobs - The Movie")
-
 I posted this review of the recent Ashton Kutcher movie "[Jobs](http://www.imdb.com/title/tt2357129/?ref_=fn_al_tt_1)" in a recent discussion thread with friends and family on Facebook, figured I would go ahead and share publicly.
 
 **I'll get the obvious out of the way: it's not a good movie. Felt more like a low-budget made-for-tv movie than a feature film. However, I pretty much expected that.**
@@ -17,7 +21,7 @@ I have to admit: Kutcher exceeded my (very low) expectations. Given a better scr
 
 The makeup was one of the worst parts-- I mentioned it needed more budget, this is one of the best places they could have spent it. Often broke suspension of disbelief.
 
-Some of the sets were very well done-- they clearly scoured over old photos and worked hard, and had a talented art director with a desire to get things right. Too bad the same couldn't be said for the screenplay-- would have been nice if they had cracked a book or two in the interest of historical accuracy. It's pretty obvious the primary source was ~~Kotke's~~ [Hertzfeld's (excellent) book](http://www.folklore.org/index.py) rather than the more recent [Jobs biography](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537). Pity, as that meant everything after the early 80s is practically pure fiction.
+Some of the sets were very well done-- they clearly scoured over old photos and worked hard, and had a talented art director with a desire to get things right. Too bad the same couldn't be said for the screenplay-- would have been nice if they had cracked a book or two in the interest of historical accuracy. It's pretty obvious the primary source was ~~Kotke's~~ [Hertzfeld's (excellent) book](http://www.folklore.org/index.py) rather than the more recent [Jobs biography](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/jrj-20). Pity, as that meant everything after the early 80s is practically pure fiction.
 
 Those who know me know that I LOVED "[The Social Network](http://www.imdb.com/title/tt1285016/)" even though it plays just as fast and loose with history. However, the difference here is that I grant less dramatic license to a movie that not only has less mainstream appeal, but less artistic merit. The only people who are going to see "jOBS" are people who already know-- and care about-- the story.
 

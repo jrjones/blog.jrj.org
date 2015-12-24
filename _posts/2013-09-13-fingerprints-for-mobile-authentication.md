@@ -4,7 +4,14 @@ title: Fingerprints for Mobile Authentication
 date: 2013-09-13 03:15
 author: jrj
 tags: [authentication, biometric, fingerprint, iPhone, privacy, security, technology]
-Category: Security
+category: Security
+teaser: "Busting a few myths about fingerprint authentication in the mobile space…"
+image:
+  frontpage: postheads/fingerprints-for-mobile-auth.png
+  thumb: postheads/fingerprints-for-mobile-auth.png
+header:
+  image: postheads/fingerprints-for-mobile-auth.png
+  background-color: "#EEEEEE"
 ---
 
 A couple days ago, Apple formally announced what the rumor sites had been talking about for months: **the new top-of-the-line iPhone has a fingerprint reader.** The basics are described in this brief promo video by the boys in Cupertino, embedded below.
@@ -27,6 +34,8 @@ The ideal, and what I recommend for your most secure data, is multi-factor authe
 <!---
 [caption id="attachment_1245" align="alignright" width="300"]<a href="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2013/09/Slide2.jpg"><img class="size-medium wp-image-1245" alt="Something you know, something you have, and something you are = multi factor " src="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2013/09/Slide2-300x225.jpg" width="300" height="225" /></a> Something you know, something you have, and something you are = multi factor[/caption]
 -->
+
+![2-factor authentication: Something you know, have, and are](/images/postheads/2fa-slide.jpg)
 
 - Something you know (like a password)
 - Something you have (like a smart card or cellphone)
@@ -59,6 +68,7 @@ First of all, Apple has stated clearly (and without wiggle words) that your biom
 <!---
 [caption id="attachment_1247" align="alignnone" width="1024"]<a href="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2013/09/Photo-Sep-22-1-45-36-PM-e1381172437751.jpg"><img class="size-large wp-image-1247" alt="The NSA's Utah Data Center outside Lehi, UT" src="http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2013/09/Photo-Sep-22-1-45-36-PM-e1381172437751-1024x372.jpg" width="1024" height="372" /></a> The NSA's Utah Data Center outside Lehi, UT[/caption]
 -->
+![NSA Data Center, a few miles from my office in Lehi, UT](/images/postheads/nsa-datacenter.jpg)
 
 Of course, we can't actually trust that statement. Even if you assume Apple is telling the truth (not a *completely* unreasonable assumption) then there's nothing to say that the U.S. government won't compel them to change that, and then force them under penalty of jail for their executives not to tell anyone that it changed. So **we can't trust that it will never be uploaded.**
 
@@ -66,13 +76,13 @@ However, **your fingerprints are, by definition, not a secret.** That's the diff
 
 If the NSA wants your fingerprints, believe me: they have them. If you're worried about them getting biometric information then you would have to take some pretty unreasonable steps to prevent it:
 
-1. Don't move to California, or any other state that has a fingerprint as part of driver's license.</li>
-2. Wear gloves 24/7 when outside your home, since you wouldn't want to leave your precious fingerprints on a doorknob or beerstein.</li>
-3. Don't get a passport, since it requires a biometric.</li>
-4. Always wear sunglesses, even at night, since you can get a retina scan from a high resolution photograph.</li>
-5. And steer clear of every camera that's in public, since gate detection is much more reliable a biometric than fingerprints.</li>
+1. Don't move to California, or any other state that has a fingerprint as part of driver's license.
+2. Wear gloves 24/7 when outside your home, since you wouldn't want to leave your precious fingerprints on a doorknob or beerstein.
+3. Don't get a passport, since it requires a biometric.
+4. Always wear sunglesses, even at night, since you can get a retina scan from a high resolution photograph.
+5. And steer clear of every camera that's in public, since gate detection is much more reliable a biometric than fingerprints.
 
-I could go on, but** the notion that your fingerprints should be guarded as a secret is a false premise** to anyone with any kind of security background.
+I could go on, but **the notion that your fingerprints should be guarded as a secret is a false premise** to anyone with any kind of security background.
 
 # The bottom line: This is a good first step.
 
