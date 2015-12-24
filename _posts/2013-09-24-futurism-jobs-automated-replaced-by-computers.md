@@ -6,6 +6,14 @@ author: jrj
 tags: [economics, futurism, self-driving cars]
 categories: [Futurism, Economics]
 external-url: http://singularityhub.com/2013/09/24/nearly-half-of-u-s-jobs-could-be-done-by-computers-study-says/
+header: 
+  image: postheads/automation_jobs.png
+  background-color: "#333333"
+image:
+  frontpage: postheads/automation_jobs.png
+  thumb: postheads/automation_jobs.png
+teaser: "While “half” is probably hyperbole, the issue is a real one…"
+
 ---
 
 SingularityHub quotes a study that asserts [half of jobs could be automated and/or replaced by computers](http://singularityhub.com/2013/09/24/nearly-half-of-u-s-jobs-could-be-done-by-computers-study-says/). I think “Half” is probably hyperbolic in the short run (depending on how much improvement you assume in both hardware and software.) However, the core concern is legitimate.

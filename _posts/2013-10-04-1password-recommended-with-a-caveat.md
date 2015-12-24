@@ -5,10 +5,14 @@ date: 2013-10-04 06:54
 author: jrj
 tags: [1Password, Apple, iOS, Mac OS, privacy, security, technology]
 Category: Security
+teaser: "I strongly recommend 1Password, but don’t use one feature…"
+image:
+  frontpage: postheads/1passwordsharing.png
+  thumb: postheads/1passwordsharing.png
+header:
+  image: postheads/1passwordsharing.png
+  background-color: "#CCCCCC"
 ---
-
-![1Password Item Sharing](http://jrjblog.constellationofideas.com/wp-content/uploads/sites/9/2013/10/1passwordSharing.png "1Password Item Sharing")
-
 I'm a huge fan of [1Password](https://agilebits.com/onepassword), I use it daily and recommend it to everyone. When I found out that the [new version of 1Password for Mac OS X](https://agilebits.com/onepassword/mac)shipped today, I was very excited to try it out. (Though I'm an avid user of beta software, I would never use a beta for so critical a function.)
 
 As a bit of a security geek, I review the core security tools I use for correctness from a design perspective (and implementation, where possible.) It's important to me that I fully understand how these tools work because I handle and share sensitive information in my line of work. Hence, **before I downloaded and installed version 4 of 1Password, I did a full review of their excellent architecture documentation.** I can give the new version a clean bill of health: indeed, it's even slightly more secure than the previous version. **I recommend 1Password version 4 to users looking for a password management solution, and recommend that existing users upgrade.** However, I do have one caveat that I must add to my recommendation: **Do not use the item sharing feature** to share sensitive information, including but not limited to passwords and credit cards. It should not be considered secure. To be clear, I'm not talking about the ability to have a secondary shared vault - this is fine, and I plan to set up a "household" vault to share with my wife this weekend for our shared accounts and data. It's the sharing of *individual items via iMessage or email* that I have issues with.
@@ -42,3 +46,56 @@ Indeed, I would prefer that it literally be sent in the clear (which is an optio
 **It's a fantastic product with one broken feature...** but a feature this poorly conceived reduces trust in the vendor's judgement and commitment to secure implementations.
 
 **Again, I still strongly recommend the product as long as you avoid the item sharing feature.**
+
+### Comments (archived)
+
+<div style="background-color: silver; padding: 20px; border-top: solid 2px gray; border-bottom: solid 2px gray;">
+
+
+<img src="http://1.gravatar.com/avatar/71778e2933aea1d0de7be59456b8633a?s=60&d=mm&r=g" align="left" style="margin-right: 15px;">
+
+<h5>Jeffrey Goldberg</h5>
+October 4, 2013 at 7:55 pm
+<br clear="all"/>
+(Disclosure: I work for AgileBits, the makers of 1Password)
+
+Thank you!
+
+I’m delighted that you appreciate the over all security design and the fact that we are open about it.
+
+As for your caveat, I have to fully acknowledge that the item sharing feature as it stands now does not conform to an over all design principle of trying to make it easy for people to behave securely and hard to behave insecurely.
+
+In other words, we don’t like to give people a way to shoot themselves in the foot, but the sharing feature may very well go against the grain of that approach.
+
+a feature this poorly conceived reduces trust in the vendor’s judgement and commitment to secure implementations.
+
+As you expect, I believe that our judgement and commitment remain sound, but I can’t fault you for questioning it. Indeed, it would be irresponsible not to. This is one of the reasons why we are open about our design. It is correct that you take this feature into account (along with everything else) in coming to your own conclusions.
+
+I can’t make any promises about the future of the sharing, whether it will be removed, or accompanied with a strong warnings, or whether it is redesigned entirely. But your comments are well noted. The blog post about this does, in my view, a reasonable job of educating the users who read it all the way through, but that will be only a tiny portion of 1Password users.
+
+Cheers, -j
+<br />
+
+<img src="http://1.gravatar.com/avatar/a771caefa1dcf4f219c4b4ae25f99f53?s=60&d=mm&r=g" align="left" style="margin-right: 15px;">
+
+<h5>JRJ</h5>
+October 5, 2013 at 7:38 pm
+<br clear="all">
+<blockquote>As you expect, I believe that our judgement and commitment remain sound, but I can’t fault you for questioning it. Indeed, it would be irresponsible not to. This is one of the reasons why we are open about our design. It is correct that you take this feature into account (along with everything else) in coming to your own conclusions.</blockquote>
+
+To be clear, I also think that AgileBits judgement and architecture capabilities are generally excellent, and this has not significantly eroded my trust in the company and its products. Indeed, I continue to both use and recommend 1Password. There are alternatives, and I continue to choose 1P.
+
+<blockquote>I can’t make any promises about the future of the sharing, whether it will be removed, or accompanied with a strong warnings, or whether it is redesigned entirely. But your comments are well noted. The blog post about this does, in my view, a reasonable job of educating the users who read it all the way through, but that will be only a tiny portion of 1Password users.</blockquote>
+
+Exactly– the blog post will be read by 1% of your users, the other 99% will never know. A strong warning – even if it had a “never warn me about this again” button – would go a long way towards protecting users and making sure they understand what they are doing when they click “share.”
+
+Thanks for listening – really appreciate it. Hope you’ll consider adding a warning.  :)
+<br />
+<img src="http://2.gravatar.com/avatar/55cb4e491df5406cdde36a94c3dd6853?s=60&d=mm&r=g" align="left" style="margin-right: 15px;">
+
+<h5>Josh</h5>
+December 17, 2013 at 12:18 pm
+<br clear="all"/>
+As one (also very satisfied) 1Password user who *has* read to the bottom, thank you for alerting me to the sharing weakness. I also appreciate your clarification that it’s just that one feature and the rest of the software remains strong.
+
+</div>

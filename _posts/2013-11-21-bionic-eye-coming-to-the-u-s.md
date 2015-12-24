@@ -5,7 +5,13 @@ date: 2013-11-21 12:59
 author: jrj
 tags: [futurism, Google Glass, human augmentation]
 category: Futurism
-headerimg: implantedeye.png
+teaser: "Imagine a cochlear implant, but for the visually impaired…"
+image:
+  frontpage: postheads/implantedeye.png
+  thumb: postheads/implantedeye.png
+header:
+  image: postheads/implantedeye.png
+  background-color: "#333333"
 ---
 <!---
 ![Bionic Eye](/assets/postheads/implantedeye.png)

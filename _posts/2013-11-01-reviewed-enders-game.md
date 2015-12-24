@@ -5,11 +5,16 @@ date: 2013-11-01 05:31
 author: jrj
 tags: [JRJ personal, movies, reviews, science fiction]
 category: JRJ Personal
+teaser: "I liked Ender’s Game, but it’s a 5-star book compressed into a 3.5 star movie…"
+image:
+  frontpage: postheads/endersgame.png
+  thumb: postheads/endersgame.png
+header:
+  image: postheads/endersgame.png
+  background-color: "#000000"
 ---
 
-![Ender's Game: Movie Review](/assets/postheads/endersgame.png "Enter's Game: Movie Review")
-
-I’ll start with the bottom line first: I really enjoyed [this movie](http://amzn.to/1OLV49s), and thought it did [the book](http://amzn.to/1P1H0JN) justice. My primary complaint is that it felt rushed— the pacing was off, and it compressed time too much. Ender moves from raw cadet to seasoned leader in a blink of an eye. Timelines aren’t really shown in the movie, but you get the sense it was over the course of weeks or months, not years. This could have easily been two or maybe even three movies instead of cramming it into one— but barring that, they could have at least gone for three hours instead of two. I feel like slowing the pace a bit would have helped tell the story. None of the scenes themselves were problematic per se, but rather the lack of transition or indication of time passing between them.
+I’ll start with the bottom line first: I really enjoyed [this movie](http://amzn.to/1NMZmfv), and thought it did [the book](http://amzn.to/1NMZqMw) justice. My primary complaint is that it felt rushed— the pacing was off, and it compressed time too much. Ender moves from raw cadet to seasoned leader in a blink of an eye. Timelines aren’t really shown in the movie, but you get the sense it was over the course of weeks or months, not years. This could have easily been two or maybe even three movies instead of cramming it into one— but barring that, they could have at least gone for three hours instead of two. I feel like slowing the pace a bit would have helped tell the story. None of the scenes themselves were problematic per se, but rather the lack of transition or indication of time passing between them.
 
 Most (not all) of the delta from the book is in the form of omission. Given the time constraints, that's not surprising. I do feel they hit most of the right beats and managed to pretty much keep the story intact.
 

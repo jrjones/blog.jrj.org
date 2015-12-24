@@ -5,12 +5,31 @@ date: 2013-09-20 23:42
 author: jrj
 tags: [Apple, iOS, iPhone, unboxed, video]
 category: Technology
+image: 
+  frontpage: postheads/iphone-5s-unboxed.png
+  thumb: postheads/iphone-5s-unboxed.png
+header:
+  image: postheads/iphone-5s-unboxed.png
+  background-color: "#000000"
+teaser: "Pics and vids of my new iPhone 5s, and why I chose it…"
+gallery:
+  - image_url: galleries/iphone5s/0-box.jpg
+    caption: "iPhone in the box"
+  - image_url: galleries/iphone5s/1-opened.jpg
+    caption: "Opening the box"
+  - image_url: galleries/iphone5s/2-accessories.jpg
+    caption: "Accessories"
+  - image_url: galleries/iphone5s/3-case-unopened.jpg
+    caption: "Tan leather case"
+  - image_url: galleries/iphone5s/4-case-front.jpg
+    caption: "Inside of the case"
+  - image_url: galleries/iphone5s/5-case-back.jpg
+    caption: "back of the case"
 ---
-![iPhone 5s Unboxing](/assets/postheads/iphone-5s-unboxed.png "iPhone 5s Unboxing")
-
 I had a difficult time choosing a phone this generation - more on that later... but for now, suffice it to say I wound up going with an iPhone 5s in "I refuse to call it space" gray, Verizon, 64 gig. Behold the obligatory unboxing photos below (sorry for the crappy photos-- they were taken with my ancient iPhone 4 that I use for testing purposes because I traded in my iPhone 4S.) That's right, I skipped the iPhone 5, so this is a big upgrade for me - bigger screen, dramatically better camera, etc. (My wife has an iPhone 5, so I'm familiar with it and was able to compare.)
 
 <!--- [gallery columns="6" ids="1178,1179,1180,1181,1182,1183"] -->
+{% include gallery %}
 
 As you can see from the pictures, I wound up getting a tan leather case, which I actually really like. The case adds so little to the thickness that it's still the same as the 4S it replaced, it feels great in the hand, and it should protect the phone from scratches reasonably well. The video down below is a bit better than the pictures.
 
