@@ -5,8 +5,13 @@ date: 2013-11-27 20:52
 author: jrj
 tags: [economics, Mc Donalds, minimum wage, Walmart]
 category: Economics
-excerpt: "A back-of-the-envelope hypothetical, re: raising minimum wage…"
-headerimg: minimumwage.png
+teaser: "A back-of-the-envelope hypothetical, re: raising minimum wage…"
+header:
+  image: postheads/minimumwage.png
+  background-color: "#333333"
+image: 
+  frontpage: postheads/minimumwage.png
+  thumb: postheads/minimumwage.png
 ---
 <!---
 ![Exploring Minimum Wage](/assets/postheads/minimumwage.png "Exploring Minimum Wage")
