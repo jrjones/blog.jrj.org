@@ -5,11 +5,14 @@
 - title: about
   url: "/about/"
   side: left
-
+  dropdown:
+  - title: "JRJ Bio"
+    url: /about#bio"
+  - title: "Colophon"
+    url: /about/colophon/
 - title: "what i use"
   url: "/what-i-use/"
   side: left
-
 - title: blog
   url: "/blog/"
   side: left

@@ -2,6 +2,7 @@
 layout: page
 title: "About Joseph R. Jones (JRJ)"
 permalink: /about/
+breadcrumb: true
 header:
   title: ""
   image_fullwidth: joe-work-wide.jpg
@@ -17,7 +18,7 @@ Prior to Adobe, I worked at [**Microsoft**](http://microsoft.com) on security, c
 **This site is my personal blog.** It’s primarily about technology and the future, and security/privacy. However, since this is a personal blog I reserve the right to stray from these topics on a regular basis… basically whatever I’m passionate about at the moment that isn’t related to my work. (Also, since it’s a personal blog **the opinions expressed are my own**, and any resemblance they may have to my employer’s is purely coincidental.)
 
 I post infrequently, typically a couple times a month. To be sure to receive the latest, you can subscribe via RSS.
-
+<a name="bio"></a>
 # JRJ Bio
 
 I’ve been working in technology for 20 years, the last decade or so mostly **focused on digital media, cryptography, security, and incident response.** I’m currently a **Principal Product Manager at Adobe**, working on **Adobe Primetime** – a suite of products and services that enables programmers (like broadcast and cable networks) and operators (like cable and satellite companies) bring video content online, monetize it, and monitor the results across computers, tablets, phones, and connected TVs. My main focus is **Security** (incident response, managing our Public Key Infrastructure,) **working with content owners** like motion picture studios and networks, and **Video Compression Technologies**. I’ve been with Adobe for a little over 5 years now.
@@ -34,60 +35,4 @@ I ostensibly “retired” after the Expedia acquisition, staying on for a few w
 
 ## Microsoft
 After MarketMatrix (and while earning about 60% of my income from playing poker,) I started a few small companies, including a small online publishing house, a software consultancy, and even an early video podcast called [PokerStreams](http://www.youtube.com/watch?v=fB_qOpwVH2Y). I wound up shuttering all of them before they got off the ground when an exciting opportunity to work at **[Microsoft](http://microsoft.com) in the Media Technology Group** (part of the Windows division) came along. I was a **Sr. Lead Program Manager** in the team that developed digital media technologies for Xbox, Zune, Windows, and third party products. I started up and developed all the processes for an **incident response** team, and got to work with some incredibly advanced **cryptography** and **A/V codec** technologies. I lead the team’s **engagements with standards bodies** for a while, and got to work with folks who were easily an order of magnitude smarter than me. I left that group to work as a **Sr. Program Manager** on the **[Xbox](http://xbox.com/) security team**, which I did for about a year before leaving for Adobe. I spent a little over 5 years at Microsoft, and had a great time working with some truly brilliant people.  I look back fondly on my time there, and made many life-long friends. One of those friends had left the ‘soft for greener pastures at Adobe, and he convinced me to come on board… the rest is history!
-
-# Colophon
-This site is built using the Jekyll static blog engine. The current layout/template is a slightly customized version of <a href="https://phlow.github.io/feeling-responsive/" target="_blank">Feeling Responsive theme by Phlow</a> It was migrated from an old WordPress installation, which itself included posts migrated from a variety of blog platforms dating back to 2002. 
-
-The site is hosted on Amazon's S3 storage system and CloudFront caching engine. 
-
-
-
-
-
-## Lato – A Sans Serif Typeface Family
-
-[<dfn>Lato</dfn>][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google. 
-
-The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at [www.latofonts.com][6]
-
-## About Volkhov &lt;h2&gt; 
-
-<dfn>Volkhov</dfn> is a low-contrast seriffed typeface with a robust character, intended for providing a motivating reading experience. Volkhov was designed by Ivan Petrov.
-
-### Feeling Responsive uses Volkhov for...  &lt;h3&gt;
-
-* &lt;h1&gt;-headings
-* &lt;h2&gt;-headings
-* &lt;h3&gt;-headings
-* &lt;h4&gt;-headings
-* &lt;h5&gt;-headings
-* &lt;h6&gt;-headings
-
-
-#### Heading in Volkhov &lt;h4&gt;
-
-As a four-weight family it is well-suited for complex text environments being economic and legible, contemporary and prominent. Many of its design solutions relate to this purpose: large open counters, rather short descenders, and brutal asymmetric serifs.
-
-##### Heading in Volkhov &lt;h5&gt;
-
-Spacing in Bold is slightly increased compared to the normal weight, because the bold mass is mostly grown inwards. The Italic has a steep angle and a distinctive calligraphically reminiscent character, as a counterpart to the rigorous Regular.
-
-
-
-## Modular Scale
-
-The site's base template, *Feeling Responsive*, explores the *2:3 perfect fifth* modular scale created with [www.modular-scale.com][7]. This is the modular scale of  *Feeling Responsive*.
-
-44px @ 1:1.5 – Ideal text size  
-16px @ 1:1.5 – Important number
-
-| Modular Scale
------- | ----- | ----- | -------
-44.000 | 1     | 2.75  | 338.462
-36.000 | 0.818 | 2.25  | 276.923
-29.333 | 0.667 | 1.833 | 225.638
-24.000 | 0.545 | 1.5   | 184.615
-19.555 | 0.444 | 1.222 | 150.423
-16.000 | 0.364 | 1     | 123.077
-
 
