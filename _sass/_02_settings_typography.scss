@@ -16,7 +16,7 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 /* Fonts
 ------------------------------------------------------------------- */
 
-$base-font-size: 18px;
+$base-font-size: 16px;
 $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
 $base-line-height: 1.5 !default;
@@ -24,7 +24,7 @@ $base-line-height: 1.5 !default;
 
 $font-family-sans-serif: "jaf-facitweb", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif: "garamond-premier-pro-display", Georgia, Times, serif;
-$font-family-monospace: "Lucida Console", Monaco, monospace;
+$font-family-monospace: "source-code-pro", Monaco, monospace;
 
 $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;
@@ -46,11 +46,11 @@ $font-weight-bold: bold;
 ------------------------------------------------------------------- */
 
 $font-size-p:    	$base-font-size;
-$font-size-h1:      3em;
-$font-size-h2:      2.441em;
-$font-size-h3:      1.953em;
-$font-size-h4:      1.563em;
-$font-size-h5:      1.25em;
+$font-size-h1:      2.441em;
+$font-size-h2:      1.953em;
+$font-size-h3:      1.563em;
+$font-size-h4:      1.25em;
+$font-size-h5:      1.11em;
 $font-size-small:   0.8em;
 
 .font-size-h1   { font-size: $font-size-h1; }
