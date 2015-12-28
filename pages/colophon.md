@@ -2,6 +2,7 @@
 layout: page
 title: "Colophon"
 permalink: /about/colophon/
+breadcrumb: true
 # header:
 #  title: ""
 #  image_fullwidth: joe-work-wide.jpg
