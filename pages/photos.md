@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "photos"
+title: "Photos"
 permalink: /about/photos/
 breadcrumb: true
-# header:
-#  title: ""
-#  image_fullwidth: joe-work-wide.jpg
-#  caption: "JRJ circa 2013"
+header:
+  image_fullwidth: joe-work-wide.jpg
+  caption: "JRJ circa 2013"
+  title: ""
 gallery:
   - image_url: galleries/jrjheadshots/jrj-headshot-2015.jpg
     caption: "2015 official JRJ headshot"
@@ -20,8 +20,8 @@ gallery:
     caption: "2013 office/meeting photo"
   - image_url: galleries/jrjheadshots/jrj-speaking.jpg
     caption: "2013 JRJ speaking photo"
-  - image_url: galleries/jrjheadshots/jrj-toon.jpg
-    caption: "JRJ Toon Avatar"
+  - image_url: galleries/jrjheadshots/jrj-toon.png
+    caption: "JRJ Toon Avatar (by JRJ)"
 ---
 These photos are made available with full use permission, so long as any stories point back to this site with an indexible link.
 
