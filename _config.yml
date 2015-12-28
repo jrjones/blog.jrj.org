@@ -24,7 +24,7 @@ author: jrj
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://127.0.0.1:4000'
+url: 'http://origin.jrj.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://127.0.0.1:4000/images/'
+urlimg: 'http://origin.jrj.org/images/'
 
 
 # Logo size is 600x80 pixels
