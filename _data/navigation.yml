@@ -6,16 +6,20 @@
   url: "/about/"
   side: left
   dropdown:
+  - title: "About JRJ"
+    url: /about/
   - title: "JRJ Bio"
-    url: /about#bio"
-  - title: "Colophon"
-    url: /about/colophon/
+    url: /about/bio/"
   - title: "What I Use"
     url: /about/what-i-use/
+  - title: "Colophon"
+    url: /about/colophon/
 - title: blog
   url: "/blog/"
   side: left
   dropdown:
+  - title: "jrjBlog"
+    url: /blog/
   - title: "blog archive"
     url: "/blog/archive/"
   - title: "security"
