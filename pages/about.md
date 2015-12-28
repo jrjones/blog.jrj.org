@@ -20,6 +20,7 @@ Prior to Adobe, I worked at [**Microsoft**](http://microsoft.com) on security, c
 I post infrequently, typically a couple times a month. To be sure to receive the latest, you can subscribe via RSS.
 
 * [Professional Bio](/about/bio/)
+* [Frequently Asked Questions (FAQ)](/about/faq/)
 * [Photos](/about/photos/)
 * [Connect with JRJ](/connect/)
 * [Site design and implementation](/about/colophon/)

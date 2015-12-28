@@ -10,6 +10,8 @@
     url: /about/bio/"
   - title: "What I Use"
     url: /about/what-i-use/
+  - title: "FAQ"
+    url: /about/faq/
   - title: "Photos"
     url: /about/photos/
   - title: "Colophon"
