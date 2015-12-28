@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "What I Use"
-permalink: /what-i-use/
+permalink: /about/what-i-use/
+redirect_from: 
+  - /what-i-use/
 ---
 
 Coming soon: What I use page.

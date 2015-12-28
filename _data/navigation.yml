@@ -10,9 +10,8 @@
     url: /about#bio"
   - title: "Colophon"
     url: /about/colophon/
-- title: "what i use"
-  url: "/what-i-use/"
-  side: left
+  - title: "What I Use"
+    url: /about/what-i-use/
 - title: blog
   url: "/blog/"
   side: left
