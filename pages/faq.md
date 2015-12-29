@@ -4,7 +4,6 @@ title: "Frequently Asked Questions"
 permalink: /about/faq/
 breadcrumb: true
 header:
-  title: ""
   image_fullwidth: joe-work-wide.jpg
   caption: "JRJ circa 2013"
 ---

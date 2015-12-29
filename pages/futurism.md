@@ -3,6 +3,9 @@ permalink: /blog/futurism/
 layout: page
 title: "Futurism"
 breadcrumb: true
+header:
+   image_fullwidth: jrj-florence.jpg
+   caption: "JRJ's 2015 trip to Florence, Italy"
 ---
 
 <p>One of my hobbies is thinking about and attempting to better understand the future. I'm a fan of futurists like Kurzweil, and a lover of hard science fiction.</p>

@@ -11,17 +11,17 @@ widget1:
   title: "About JRJ"
   url: '/about/'
   image: jrj-headshot2015.jpg
-  text: 'Everything you never wanted to know about Joseph R. Jones but didnt care enough to ask.'
+  text: "Everything you never wanted to know about Joseph R. Jones but didn't care enough to ask."
 widget2:
   title: "What I use"
-  url: '/what-i-use/'
+  url: '/about/what-i-use/'
   image: jrjlaptop.jpg
   text: 'An overview of the tools and toys I love and use. Hardware, software, and more.'
 widget3:
   title: "The jrjBlog"
   url: '/blog/'
   image: jrjblog-promo1.png
-  text: 'JRJs personal blog, with a focus on security, privacy, technology, and the future.'
+  text: "JRJ's personal blog, with a focus on security, privacy, technology, and the future."
 #
 # Use the call for action to show a button on the frontpage
 #

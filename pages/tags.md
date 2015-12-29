@@ -2,6 +2,9 @@
 permalink: /tags/
 layout: page
 title: "Tags"
+header:
+   image_fullwidth: jrj-florence.jpg
+   caption: "JRJ's 2015 trip to Florence, Italy"
 ---
 
 <p>Jekyll doesn't have functionality for listing categories and tags, so this is just a weakly implemented dump for now, I plan on doing somethiung a bit nicer at some point. In the mean-time, there is a full  list of tags with associated posts below.</p>

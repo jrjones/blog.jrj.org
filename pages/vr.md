@@ -3,6 +3,9 @@ permalink: /blog/vr/
 layout: page
 title: "Virtual Reality"
 breadcrumb: true
+header:
+   image_fullwidth: jrj-florence.jpg
+   caption: "JRJ's 2015 trip to Florence, Italy"
 ---
 
 <p>2016 is the year we get to find out whether or not Virtual Reality is going to be a thing. Personally, I believe it will be a successful niche in 2016, reaching mainstream adoption within the decade. </p>

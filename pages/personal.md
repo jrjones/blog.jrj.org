@@ -3,6 +3,9 @@ permalink: /blog/personal/
 layout: page
 title: "JRJ Personal"
 breadcrumb: true
+header:
+   image_fullwidth: jrj-florence.jpg
+   caption: "JRJ's 2015 trip to Florence, Italy"
 ---
 
 <p>Even though this blog has a few key topics (Security and Privacy, Technology and the Future) it's still a personal blog. Hence, I post personal stuff here from time to time that may or may not fit into one of the core topics.</p>

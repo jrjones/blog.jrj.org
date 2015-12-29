@@ -2,6 +2,9 @@
 permalink: /categories/
 layout: page
 title: "Categories"
+header:
+   image_fullwidth: jrj-florence.jpg
+   caption: "JRJ's 2015 trip to Florence, Italy"
 ---
 
 This site is mainly about <a href="#Security">Security</a> and <a href="#Privacy">Privacy, <a href="#Technology">Technology</a> and <a href="#Futurism">the Future</a>. However, there are other major post categories, including <a href="#Economics">Economics</a>, <a href="#Poker">Poker</a>, and <a href="#JRJ Personal">JRJ Personal</a>. A full list of all categories (and posts within each category) is included below.

@@ -3,10 +3,9 @@ layout: page
 title: "Colophon"
 permalink: /about/colophon/
 breadcrumb: true
-# header:
-#  title: ""
-#  image_fullwidth: joe-work-wide.jpg
-#  caption: "JRJ circa 2013"
+header:
+  image_fullwidth: joe-work-wide.jpg
+  caption: "JRJ circa 2013"
 ---
 
 ## Jekyll Static Site Generator

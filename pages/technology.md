@@ -3,6 +3,9 @@ permalink: /blog/technology/
 layout: page
 title: "Technology"
 breadcrumb: true
+header:
+   image_fullwidth: jrj-florence.jpg
+   caption: "JRJ's 2015 trip to Florence, Italy"
 ---
 
 <p>I'm obsessed with technology of all sorts. Eveyrthing from smartphones and tablets to PCs and consumer electronics is covered here.</p>
