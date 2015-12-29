@@ -18,6 +18,8 @@ I use several Jekyll plug-ins:
  
  I've also created a few of my own, which I may release at some point (mostly around category and tag handling, wordpress import clean-up, and CDN friendliness.) 
 
+The [entire source tree is available on GitHub](https://github.com/jrjones/blog.jrj.org) so you can take a look at how things are set up for yourself. I'm also documenting the dev and hosting environments, tools and procedures, and roadmap in detail on the [jrjblog github wiki](https://github.com/jrjones/blog.jrj.org/wiki).
+
 ## "Feeling Responsive" Template
 The current layout/template is a slightly customized version of <a href="https://phlow.github.io/feeling-responsive/" target="_blank">Feeling Responsive theme by Phlow</a> (with more customizations on the way.) I chose this theme because it was simple and typography-centric, optimized for performance, and provided the hooks I needed for more advanced customizations. (Once I have a few of my customizations stabilized, I'll be doing a pull request to offer them back to the original theme creator-- especially the specialized post types that I use.) 
 
