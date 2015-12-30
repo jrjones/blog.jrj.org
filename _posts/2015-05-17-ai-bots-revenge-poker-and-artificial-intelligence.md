@@ -3,7 +3,7 @@ layout: post
 title: "Revenge of the Bots: Poker &amp; AI"
 date: 2015-05-17 22:18
 categories: [Poker, Futurism, Technology]
-tags: [artificial intelligence, futurism, game theory, poker, research, technology]
+tags: [artificial intelligence, machine learning, futurism, game theory, poker, research, technology]
 author: jrj
 teaser: "A look at trends in poker AI, and predictions on impact over the next decade…"
 image:
