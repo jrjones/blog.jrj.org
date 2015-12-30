@@ -3,7 +3,7 @@ layout: post
 title: Bill Gates on Mobile Computing
 date: 2014-02-05 11:13
 author: jrj
-tags: [Bill Gates, futurism, GPS, smartphones, technology]
+tags: [Bill Gates, futurism, GPS, smartphones, predictions, mobile payments, sensors, books, Microsoft, technology]
 category: Futurism
 teaser: "Looking back at Gates’ “Wallet PC” prediction twenty years later…"
 image:
@@ -11,7 +11,7 @@ image:
   thumb: postheads/gatespredict.png
 header:
   image: postheads/gatespredict.png
-  background-color: "#333333"
+  background-color: "#b8b8b8"
 ---
 <!---
 ![Gates Predictions](/assets/postheads/gatespredict.png "Gates Predictions")

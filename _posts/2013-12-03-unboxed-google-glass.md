@@ -3,7 +3,7 @@ layout: post
 title: "Unboxed: Google Glass"
 date: 2013-12-03 20:04
 author: jrj
-tags: [augmented reality, futurism, Google Glass, technology, unboxed, wearable computing]
+tags: [augmented reality, futurism, Google Glass, technology, unboxed, wearables, Google]
 category: Technology
 teaser: "My Google Glass Explorer pack arrived today, and was unboxed…"
 image: 
