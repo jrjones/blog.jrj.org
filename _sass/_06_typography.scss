@@ -209,7 +209,7 @@ li {
 li {
     > ul,
     > ol {
-         margin-bottom: 0;
+         margin-bottom: 0.5em;
     }
 }
 
@@ -234,33 +234,37 @@ article dl dd   { line-height: 1.6; margin-bottom: rem-calc(12); margin-left: re
 ------------------------------------------------------------------- */
 
 blockquote {
+    font-family: $font-family-serif;
     font-style: italic;
     position: relative;
     border: none;
     margin: 0 30px 30px 30px;
     color:  $grey-11;
+    background-color: $grey-1;
 }
 
-    blockquote p {font-style: italic; color: $grey-10; }
+    blockquote p {font-style: italic; color: $grey-10; font-size: 1.3em; }
 
     blockquote:before {
-        display:block;content:"\00BB";
-        font-size:80px;
+        display:block;content:open-quote;
+        font-size:120px;
+        font-style: normal;
         line-height: 0;
         position:absolute;
-        left:-25px;
-        top: auto;
-        color: $grey-11;
+        left:-20px;
+        top: 45px;
+        color: $grey-7;
     }
     blockquote:after {
         display:block;
-        content:"\00AB";
-        font-size:80px;
+        content:close-quote;
+        font-size:120px;
+        font-style: normal;
         line-height: 0;
         position:absolute;
-        right:-10px;
-        bottom: 20px;
-        color: $grey-11;
+        right:-20px;
+        bottom: -40px;
+        color: $grey-7;
     }
     blockquote cite:before {
         content:"\2014 \0020"
