@@ -3,7 +3,7 @@ layout: post
 title: Job Hunting
 date: 2005-02-09 11:57
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 After several years of being "out on my own" I've decided it's time to look for an honest-to-goodness "Job." I've been frustrated for the last year or two by a couple of consulting clients who have... ahem... neglected to pay invoices, and I'm tired of wondering where my next paycheck is coming from. Although profitable, my web sites (<a href="http://www.pokerstreams.com">here</a> and <a href="http://www.small-biz-advisor.com">here</a>) just don't generate enough revenue to pay the bills.

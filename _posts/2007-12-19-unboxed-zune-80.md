@@ -3,7 +3,7 @@ layout: post
 title: "Unboxed: Zune 80!"
 date: 2007-12-19 21:02
 author: jrj
-comments: true
+comments: false
 tags: [digital media, microsoft, Technology, unboxed, Unboxing, zune]
 category: Technology
 ---

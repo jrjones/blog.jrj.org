@@ -3,7 +3,7 @@ layout: post
 title: Great support from Full Tilt
 date: 2008-08-27 13:21
 author: jrj
-comments: true
+comments: false
 tags: [online poker, Poker, poker, support]
 category: Poker
 ---

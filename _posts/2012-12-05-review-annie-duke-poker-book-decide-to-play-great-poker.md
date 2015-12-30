@@ -3,7 +3,7 @@ layout: post
 title: "Quick Review: Annie Duke&#8217s Poker Book"
 date: 2012-12-05 18:19
 author: jrj
-comments: true
+comments: false
 tags: [books, poker, reviews]
 category: Poker
 header: 

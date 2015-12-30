@@ -3,7 +3,7 @@ layout: post
 title: "Inbox to Empty: the holy grail of modern productivity"
 date: 2006-03-30 00:51
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <div>Merlin Mann of 43Folders (one of my faborite personal productivity sites) has a great series of articles (with more to come) about <a href="http://www.43folders.com/izero">getting your email inbox to empty</a>, and dealing with the overwhelming amount of email some technology professionals receive.</div>

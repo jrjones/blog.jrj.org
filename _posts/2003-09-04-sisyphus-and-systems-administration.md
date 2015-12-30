@@ -3,7 +3,7 @@ layout: post
 title: Sisyphus and Systems Administration
 date: 2003-09-04 21:11
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 I was talking the other day to Rachel about the fact that one of the most effective and horrific torture techniques known to man was to force someone to dig enormous holes, and then fill them up with the debris created by digging the next hole... on and on, you keep creating new holes, filling them in with dirt from the next hole. The reason this is so cruel is because people hate to do useless work. I used the word "Sisyphean," an aligorical reference to the <a href="http://www.mythweb.com/encyc/entries/sisyphus.html" target="_blank">Corinthian king</a> of Greek mythology, condemned to forever roll a huge stone up a hill in Hades only to have it roll down again upon nearing the top.

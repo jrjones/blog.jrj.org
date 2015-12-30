@@ -3,7 +3,7 @@ layout: post
 title: Facebook privacy settings aren't enough to keep your information safe
 date: 2011-02-02 00:08
 author: jrj
-comments: true
+comments: false
 tags: [Facebook, privacy]
 category: Privacy
 ---

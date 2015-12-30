@@ -3,7 +3,7 @@ layout: post
 title: I've seen the future...
 date: 2003-11-06 18:46
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Software pioneer Dan Bricklin, inventor of the first spreadsheet software (VisiCalc) says that when he would demonstrate the software to accountants back in the day they would start shaking-- "That's what I do all week! I could do it... in an HOUR!" and then shove their credit cards in his face.

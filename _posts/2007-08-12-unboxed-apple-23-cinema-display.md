@@ -3,7 +3,7 @@ layout: post
 title: "UNBOXED: Apple 23&#8217; Cinema Display!"
 date: 2007-08-12 12:45
 author: jrj
-comments: true
+comments: false
 tags: [Apple, Technology, unboxed, Unboxing, Uncategorized]
 category: Technology
 ---

@@ -3,7 +3,7 @@ layout: post
 title: MyDoom has me beat...
 date: 2004-01-29 12:57
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 No, I didn't open the attachment.  :)

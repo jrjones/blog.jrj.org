@@ -3,7 +3,7 @@ layout: post
 title: If you want something done right, do it yourself.
 date: 2004-03-08 00:26
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Frustrated with Internet Explorer's pathetic support for the current Cascading Style Sheets specification, Dean Edwards decided to take matters into his own hands: he created <a href="http://dean.edwards.name/IE7/" target="_blank">an add-on for IE that dynamically rewrites any CSS-2 code </a>it encounters so that IE can understand it and render it "correctly."

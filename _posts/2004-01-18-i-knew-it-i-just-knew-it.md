@@ -3,7 +3,7 @@ layout: post
 title: I knew it. I just knew it.
 date: 2004-01-18 05:14
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <img src="http://www.jrj.org/mars_seattlehumor.jpg" />

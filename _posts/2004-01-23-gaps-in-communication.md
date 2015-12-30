@@ -3,7 +3,7 @@ layout: post
 title: Gaps in Communication...
 date: 2004-01-23 17:07
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 **Engineer 1:**   Does *[so-and-so]* have a contingency plan if *[the thing]* isn't done by *[the deadline]*?

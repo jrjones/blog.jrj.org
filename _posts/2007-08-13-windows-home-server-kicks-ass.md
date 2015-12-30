@@ -3,7 +3,7 @@ layout: post
 title: Windows Home Server Kicks Ass
 date: 2007-08-13 11:40
 author: jrj
-comments: true
+comments: false
 tags: [Backup, Network Infrastructure, Servers, Technology, WHS]
 category: Technology
 ---

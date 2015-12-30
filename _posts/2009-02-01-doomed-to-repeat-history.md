@@ -3,7 +3,7 @@ layout: post
 title: Doomed to Repeat History?
 date: 2009-02-01 02:15
 author: jrj
-comments: true
+comments: false
 tags: [Economics, FDR, Federal Reserve, National Debt, Obama, Politics]
 category: Economics
 ---

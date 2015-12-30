@@ -3,7 +3,7 @@ layout: post
 title: Come for the Display, Stay for the LTE
 date: 2012-03-20 20:35
 author: jrj
-comments: true
+comments: false
 tags: [Apple, iPad, Technology]
 category: Technology
 ---

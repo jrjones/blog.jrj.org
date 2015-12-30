@@ -3,7 +3,7 @@ layout: post
 title: "Biometrics in the home: does this really make sense?"
 date: 2004-05-05 14:46
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 One of the big themes in what Microsoft has been talking about in the home is personalization through biometrics. I think this is a flawed philosphical construct in many ways. Allow me to explain...

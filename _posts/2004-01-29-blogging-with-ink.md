@@ -3,7 +3,7 @@ layout: post
 title: Blogging with Ink
 date: 2004-01-29 01:46
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Loren has some <a href="http://journals.tuxreports.com/lch/archives/001271.html" target="_blank">insights into the state of ink-enabled blogging </a>software: "Will there be blogs 100% in ink, such as Microsoft's InkLog? A few. Most people, however, will still probably want to type their blog entries. I know I do."

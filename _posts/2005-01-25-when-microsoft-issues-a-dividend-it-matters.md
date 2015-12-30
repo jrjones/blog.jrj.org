@@ -3,7 +3,7 @@ layout: post
 title: When Microsoft issues a dividend, it matters.
 date: 2005-01-25 04:02
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Microsoft's record-setting dividend last year had a profound impact on the financial state of many of my friends, as anyone living in the Seattle area has at least a dozen friends that work at Microsoft. (I also got some money out of the deal, but it wasn't even enough to cover my latte budget for the year.)

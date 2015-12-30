@@ -3,7 +3,7 @@ layout: post
 title: WinHEC a bust
 date: 2004-05-04 17:53
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 OK, so WinHEC has been a bit of a bust so far-- nothing terribly exciting to report. I'm really excited about Lonhwait... er... Longhorn, but I haven't seen anything today that's a dramatic departure from what was shown at the PDC. In fact the thing that WinHEC has impressed upon me the most is just how early-stage this stuff is. There are a lot of very low-level design decisions that clearly have not been made yet-- the kind of design decisions that are foundation level and have an impact all the way up the chain.

@@ -3,7 +3,7 @@ layout: post
 title: "MyDoom: OK, this is clever"
 date: 2004-01-29 14:18
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 My favorite virus research site <a href="http://www.sarc.com/avcenter/venc/data/w32.mydoom.b@mm.html" target="_blank">SARC</a> is reporting that the latest variant of MyDoom (W32.Mydoom.B@mm) actually prevents the user from accessing a number of popular antivirus sites, including McAffee, Symantec, and many Microsoft domains. I have to admit-- that's pretty clever.

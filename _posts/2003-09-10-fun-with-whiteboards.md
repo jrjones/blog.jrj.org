@@ -3,7 +3,7 @@ layout: post
 title: Fun with whiteboards
 date: 2003-09-10 17:19
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 I had a marathon 7-hour meeting with a client yesterday, and a huge amount of data was captured on the white board, as often is the case in discussions of software architecture. As usual, I used my digital camera to take pictures of the whiteboard at various points in the conversation-- a trick I pretty much thought I had invented a couple years ago because I hated copying down data into paper notes. (I got the idea because a consulting client of mine had really cool digital whiteboards based on plasma screens. I was jealous.)

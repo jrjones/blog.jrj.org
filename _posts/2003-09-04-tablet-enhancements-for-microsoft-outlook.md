@@ -3,7 +3,7 @@ layout: post
 title: Tablet Enhancements for Microsoft Outlook
 date: 2003-09-04 22:00
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Josh Einstein, of <a href="http://www.einsteinware.com/" target="_blank">Einstein Technologies</a>, has done what Microsoft was too lazy to do: Make Outlook work well on a Tablet PC.

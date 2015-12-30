@@ -3,7 +3,7 @@ layout: post
 title: "Tablets as drugs: your first one's free.  :)"
 date: 2004-05-01 18:36
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Loren has some <a href="http://journals.tuxreports.com/lch/archives/001612.html" target="_blank">truly inspired ideas for increasing the mindshare of the Tablet PC</a> platform...

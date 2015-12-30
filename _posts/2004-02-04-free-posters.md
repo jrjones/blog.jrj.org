@@ -3,7 +3,7 @@ layout: post
 title: Free Posters
 date: 2004-02-04 18:30
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <a href="http://www.microsoft.com/education/?ID=SecurityPosters" target="_blank"><img src="http://www.jrj.org/HackersAhead.jpg" border="0" align="left" /></a>Microsoft is giving away some very cool <a href="http://www.microsoft.com/education/?ID=SecurityPosters" target="_blank">security posters</a>. You can get a pack of these free of charge.

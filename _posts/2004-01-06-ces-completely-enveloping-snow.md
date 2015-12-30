@@ -3,7 +3,7 @@ layout: post
 title: CES - Completely Enveloping Snow
 date: 2004-01-06 14:40
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 I live in Seattle... the Emerald City. Here in Seattle it snows MAYBE once every two to three years. And even then, we're not talking REAL snow-- we're talking about a few flakes that melt a few seconds after they hit the ground. An actual measurable snowfall with acumulation on the ground is really rare-- a couple times per decade, maybe.

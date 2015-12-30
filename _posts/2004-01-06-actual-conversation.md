@@ -3,7 +3,7 @@ layout: post
 title: Actual Conversation
 date: 2004-01-06 19:31
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Overheard at the airport: (Yes, really.)

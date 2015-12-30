@@ -3,7 +3,7 @@ layout: post
 title: MacBook... Unboxed!
 date: 2007-12-19 20:55
 author: jrj
-comments: true
+comments: false
 tags: [Apple, laptop, Mac OS, Technology, unboxed, Unboxing]
 category: Technology
 ---

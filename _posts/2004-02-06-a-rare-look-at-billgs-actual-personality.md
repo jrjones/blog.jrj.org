@@ -3,7 +3,7 @@ layout: post
 title: A rare look at BillG's actual personality
 date: 2004-02-06 11:56
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 I know that sounds like an oxymoron, but this is a rare look at BillG showing his real personality...

@@ -3,7 +3,7 @@ layout: post
 title: Why Microsoft wants a lawsuit against them to succeed...
 date: 2003-10-10 12:20
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 As many of you know, there's a woman in California suing Microsoft, claiming that they bear some liability as a result of the constant barrage of security vulnerabilities. Here's a thought: losing this lawsuit could be the best thing that ever happened to Microsoft, as it could kill Linux.

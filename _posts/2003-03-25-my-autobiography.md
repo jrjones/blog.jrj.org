@@ -3,7 +3,7 @@ layout: post
 title: My Autobiography
 date: 2003-03-25 09:12
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Was talking to DaveGi, and decided that if I ever write an autobiography, the title will be...   

@@ -3,7 +3,7 @@ layout: post
 title: Hassled by the Man?
 date: 2009-02-18 01:16
 author: jrj
-comments: true
+comments: false
 tags: [Police, Politics, Rights]
 categories: [JRJ Personal, Politics]
 ---

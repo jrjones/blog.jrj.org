@@ -3,7 +3,7 @@ layout: post
 title: No Secrets
 date: 2004-03-07 17:47
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 From Slashdot:

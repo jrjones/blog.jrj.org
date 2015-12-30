@@ -3,7 +3,7 @@ layout: post
 title: "UNBOXED: Jawbone Bluetooth Headset"
 date: 2007-08-15 12:41
 author: jrj
-comments: true
+comments: false
 tags: [bluetooth, Technology, unboxed, Unboxing]
 category: Technology
 ---

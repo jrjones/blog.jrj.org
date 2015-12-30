@@ -3,7 +3,7 @@ layout: post
 title: Plug in your Prius?
 date: 2007-05-02 15:13
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, Hybrid]
 category: Automotive
 ---

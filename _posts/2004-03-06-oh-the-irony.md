@@ -3,7 +3,7 @@ layout: post
 title: Oh, the Irony...
 date: 2004-03-06 15:51
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 From the <a href="http://blog.seattlepi.nwsource.com/microsoft/archives/001787.html" target="_blank">Seattle PI Microsoft Blog</a>:

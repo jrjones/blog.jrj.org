@@ -3,7 +3,7 @@ layout: post
 title: Facebook... pretty fun stuff
 date: 2007-12-01 22:13
 author: jrj
-comments: true
+comments: false
 tags: [Facebook, JRJ Personal, Technology]
 category: [Technology, JRJ Personal]
 ---

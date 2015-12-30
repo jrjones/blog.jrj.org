@@ -3,7 +3,7 @@ layout: post
 title: "[CES] Best of show (so far...)"
 date: 2004-01-08 23:18
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 OK, so by far the most exciting thing I've seen at CES so far has to be the portable media centers from Microsoft (and their hardware partners.) I can totally see myself using one of these. Also, the price point they are targeting is very reasonable. (Not sure if I'm under NDA on that or not, so I can't provide exact numbers until I confirm.) The UI is beautiful, and they've done a great job of subsetting the Media Center Edition functionality in a way that makes sense for the form factor.

@@ -3,7 +3,7 @@ layout: post
 title: Complexity
 date: 2012-02-24 18:35
 author: jrj
-comments: true
+comments: false
 tags: [Backup, JRJ Personal, security, Technology]
 categories: [JRJ Personal, Technology]
 ---

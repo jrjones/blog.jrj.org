@@ -3,7 +3,7 @@ layout: post
 title: Homebrew Segway
 date: 2003-09-28 16:36
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 And now for something completely different...

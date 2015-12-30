@@ -3,7 +3,7 @@ layout: post
 title: "Unboxed: MacBook Pro 17&#8217; (Thunderbolt)"
 date: 2012-03-06 05:18
 author: jrj
-comments: true
+comments: false
 tags: [Apple, MacBook, Technology, unboxed, Unboxing]
 category: Technology
 ---

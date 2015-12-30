@@ -3,7 +3,7 @@ layout: post
 title: 100 million dollars?
 date: 2004-02-03 02:02
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 The scuttlebut is that the EU's probe into Microsoft will result in approximately 100 million dollars in fines.

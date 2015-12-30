@@ -3,7 +3,7 @@ layout: post
 title: The Next Chapter...
 date: 2010-02-22 01:02
 author: jrj
-comments: true
+comments: false
 tags: [Career, JRJ Personal, microsoft, Milestones]
 category: JRJ Personal
 ---

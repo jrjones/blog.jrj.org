@@ -3,7 +3,7 @@ layout: post
 title: "Microsoft: No harm, no foul..."
 date: 2004-03-21 15:16
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 The SeattlePI ran a poll asking whether <a href="http://blog.seattlepi.nwsource.com/microsoft/archives/002425.html" target="_blank">Microsoft's anti-competitive practices has actually caused any consumer harm</a>. The result was that a significant majority said "no."

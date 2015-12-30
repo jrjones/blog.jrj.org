@@ -3,7 +3,7 @@ layout: post
 title: All that Glitters is not Gold
 date: 2009-01-14 14:05
 author: jrj
-comments: true
+comments: false
 tags: [Economics, Gold, Investing, Silver]
 category: Economics
 ---

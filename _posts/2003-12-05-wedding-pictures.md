@@ -3,7 +3,7 @@ layout: post
 title: Wedding Pictures
 date: 2003-12-05 18:19
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 First of all, the whole wedding industry is a total racket... people spend obscene amounts of money on weddings, due large in part to an industry ready and waiting to take advantage of them. Want a professional photographer? That will be $100 an hour. Oh... it's for a wedding? That will be $300 an hour. Yes, really.

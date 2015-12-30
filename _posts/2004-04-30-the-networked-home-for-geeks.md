@@ -3,7 +3,7 @@ layout: post
 title: The networked home for geeks
 date: 2004-04-30 13:31
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Toshiba might be taking this "connected home" thing a little too seriously, but I commend them for it...

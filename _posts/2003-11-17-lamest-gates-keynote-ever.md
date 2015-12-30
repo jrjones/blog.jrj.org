@@ -3,7 +3,7 @@ layout: post
 title: Lamest.Gates.Keynote.Ever
 date: 2003-11-17 05:23
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 The Gates keynote at Comdex was the lamest in recent memory... the last few years have consistently had great demos of some amazing technologies that I've been able to get excited about. However, this year they just didn't have much to talk about. The only piece that made it worth watching was a demonstration of a project inside Microsoft Research called "Stuff I've Seen" that integrates search functionality across a wide variety of data types into a single (and wicked-fast) interface. This isn't a product at this point, but if they ever produced it EVERYONE would buy it. (I think it would be impossible to implement without WinFS infrastructure underneath, so don't expect to see MS or third parties do anything like this until the Longhorn timeframe-- we're talking 2006 here.)

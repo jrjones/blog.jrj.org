@@ -3,7 +3,7 @@ layout: post
 title: Valenti on Fair Use
 date: 2004-04-28 11:21
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 MPAA's Jack Valenti (of "the VCR is the Boston Strangler" fame) was interviewed by a MIT student regarding fair use law. The result was <a href="http://web.mit.edu/comm-forum/forums/valenti.html" target="_blank">a fascinating look at two opposing viewpoints</a>.

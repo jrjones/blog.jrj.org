@@ -3,7 +3,7 @@ layout: post
 title: Who picks up the tab?
 date: 2003-03-06 15:36
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 An <a href="http://ask.slashdot.org/askslashdot/03/03/06/204235.shtml?tid=95" target="_blank">interesting discussion</a> going on over at Slashdot regarding a new issue in ISP billing. The question is this:

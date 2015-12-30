@@ -3,7 +3,7 @@ layout: post
 title: So what needs to be added to MSN Direct / SPOT watches?
 date: 2004-01-19 23:01
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 A few features Microsoft should add to the MSN Direct (SPOT) watches...

@@ -3,7 +3,7 @@ layout: post
 title: Zip subterfuge
 date: 2003-09-08 06:14
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <a href="http://www.microsoft.com" target="_blank">Microsoft</a> caused me a pretty major headache this morning...

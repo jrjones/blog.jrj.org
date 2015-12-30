@@ -3,7 +3,7 @@ layout: post
 title: Tablet Tidbits
 date: 2004-05-05 15:42
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 OK, a couple little tidbits from this presentations...

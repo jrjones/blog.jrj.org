@@ -3,7 +3,7 @@ layout: post
 title: Best of the PDC
 date: 2003-12-16 07:30
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <a href="http://www.winsupersite.com/reviews/pdc2003.asp" target="_blank"><img src="http://www.jrj.org/pdc2003_gates_sm_01.jpg" border="0" align="right" /></a>Whenever there's a PDC, the WSA puts on a full-day event called "<a href="http://www.wsa.org/events/event.asp?EventID=346" target="_blank">The best of the PDC</a>" where some of the best speakers from the PDC put on encore presentations. I'll be at this event all day, and it looks like I'll have internet access.

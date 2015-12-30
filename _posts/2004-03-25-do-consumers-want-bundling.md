@@ -3,7 +3,7 @@ layout: post
 title: Do consumers want bundling?
 date: 2004-03-25 14:49
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 I think he's on to something... Todd Bishop at the Seattle PI's Microsoft blog is talking about <a href="http://blog.seattlepi.nwsource.com/microsoft/archives/002494.html" target="_blank">consumer expectations with regards to Microsoft's bundling practices</a>...

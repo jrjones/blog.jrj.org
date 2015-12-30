@@ -3,7 +3,7 @@ layout: post
 title: Upcoming SPOT features leaked by Fossil
 date: 2004-03-18 01:52
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Peter has a juicy tidbit for both of the people still interested in SPOT watches. (Sorry, couldn't resist. I love my SPOT watch.)

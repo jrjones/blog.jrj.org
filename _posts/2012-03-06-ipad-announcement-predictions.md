@@ -3,7 +3,7 @@ layout: post
 title: iPad Announcement Predictions
 date: 2012-03-06 21:40
 author: jrj
-comments: true
+comments: false
 tags: [Apple, iOS, iPad, Technology]
 category: Technology
 ---

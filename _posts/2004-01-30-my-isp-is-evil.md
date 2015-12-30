@@ -3,7 +3,7 @@ layout: post
 title: My ISP is evil...
 date: 2004-01-30 07:25
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 What an oddessy my connectivity has been over the last 24 hours... First, my ISP (I won't say who it is, but it starts with a "C," ends in a "T," and has "omCas" in the middle) suspended traffic on ports 25 and 465 for about 16 hours. Yes, that means no SMTP and no POP3. I know there is a major virus going around, but come on... you can't just cut people's email off. (support's answer: "if you're using our servers you won't have a problem.")

@@ -3,7 +3,7 @@ layout: post
 title: refactoring.net
 date: 2003-09-11 02:51
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <a href="http://dotnetrefactoring.com">This </a>looks like a really good tool… it automates a few standard refactoring operations in C# code.

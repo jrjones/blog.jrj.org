@@ -3,7 +3,7 @@ layout: post
 title: Open Letter to Rep. Lofgren
 date: 2012-01-22 23:31
 author: jrj
-comments: true
+comments: false
 tags: [Congress, Legislation, Politics, Privacy]
 categories: [Politics, Privacy]
 ---

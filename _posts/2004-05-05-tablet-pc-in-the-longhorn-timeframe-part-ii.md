@@ -3,7 +3,7 @@ layout: post
 title: "Tablet PC in the Longhorn Timeframe: Part II"
 date: 2004-05-05 19:00
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Microsoft's Hardware Engineering Conference (WinHEC) was, to me, pretty much a bust, except for one truly exceptional presentation by Matti Suokko, which focused on Microsoft's strategy for Tablet PC in the Longhorn timeframe. I'd like to share with you some of the revelations from this presentation.

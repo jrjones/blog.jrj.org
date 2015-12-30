@@ -3,7 +3,7 @@ layout: post
 title: Living with MSN Direct
 date: 2004-01-18 04:29
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Now that I've had the <a href="http://direct.msn.com" target="_blank">MSN Direct watch </a>(AKA"Microsoft's SPOT technology") for a while, I figured I'd update everyone on how things are going.

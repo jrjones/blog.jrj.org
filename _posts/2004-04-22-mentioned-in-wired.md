@@ -3,7 +3,7 @@ layout: post
 title: Mentioned in Wired
 date: 2004-04-22 11:27
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 An article in Wired about the Virtual MDA scumware I tested the other day (see <a href="http://www.jrj.org/2004_04_01_archive.cfm#108198563761410048">this post</a>) mentions me as a source. You can <a href="http://www.wired.com/news/business/0,1367,63146,00.html?tw=wn_tophead_1" target="_blank">read the article here</a>.

@@ -3,7 +3,7 @@ layout: post
 title: "Unboxed: iPad (3rd Generation)"
 date: 2012-03-16 21:28
 author: jrj
-comments: true
+comments: false
 tags: [Apple, iPad, Technology, unboxed, Unboxing]
 category: Technology
 ---

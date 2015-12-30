@@ -3,7 +3,7 @@ layout: post
 title: Office decorations
 date: 2007-11-21 10:36
 author: jrj
-comments: true
+comments: false
 tags: [Humor, Humor, Image, JRJ Personal, microsoft]
 category: JRJ Personal
 ---

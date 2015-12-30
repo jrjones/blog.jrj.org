@@ -3,7 +3,7 @@ layout: post
 title: "[CES] Gates Keynote"
 date: 2004-01-07 23:05
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 BillG was the keynote speaker at CES for the 6th year in a row. He had lots to talk about. I'm not going to talk about everything-- for in depth coverage, I'd check out <a href="http://www.winsupersite.com/reviews/ces04.asp" target="_blank">Paul Thurrott's full CES coverage</a>-- I'm just covering the stuff that I'm personally interested in. (After all, this is a blog, not a news site.)

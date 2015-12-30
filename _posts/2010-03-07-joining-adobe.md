@@ -3,7 +3,7 @@ layout: post
 title: Joining Adobe
 date: 2010-03-07 05:54
 author: jrj
-comments: true
+comments: false
 tags: [Adobe, Career, JRJ Personal, microsoft, Milestones]
 category: JRJ Personal
 ---

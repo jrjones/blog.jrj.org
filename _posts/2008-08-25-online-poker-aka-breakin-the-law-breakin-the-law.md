@@ -3,7 +3,7 @@ layout: post
 title: Online Poker (AKA "Breakin' the law, breakin' the law...")
 date: 2008-08-25 10:44
 author: jrj
-comments: true
+comments: false
 tags: [online poker, Poker, poker]
 category: Poker
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Unboxed: iGrill"
 date: 2012-03-06 04:48
 author: jrj
-comments: true
+comments: false
 tags: [grilling, iGrill, Technology, unboxed, Unboxing]
 category: Technology
 ---

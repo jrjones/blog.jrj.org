@@ -3,7 +3,7 @@ layout: post
 title: Movember 'stache
 date: 2012-11-30 22:01
 author: jrj
-comments: true
+comments: false
 tags: [charity, Image, JRJ Personal]
 category: JRJ Personal
 header: 

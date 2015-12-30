@@ -3,7 +3,7 @@ layout: post
 title: Talking about new technology with really old technology
 date: 2004-02-25 11:24
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Morse Code is a critical piece of our history-- especially if you're interested in computer and communication technology. In the 1800s, it allowed the nation to communicate instantly over great distances with the telegraph.

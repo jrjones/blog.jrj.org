@@ -3,7 +3,7 @@ layout: post
 title: Trouble in SPOT Paradise...
 date: 2004-02-07 23:59
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 As regular readers know, I'm cautiously excited about SPOT technology (MSN Direct watches are the first commercial application of this technology.)

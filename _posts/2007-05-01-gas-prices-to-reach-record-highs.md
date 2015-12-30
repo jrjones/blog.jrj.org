@@ -3,7 +3,7 @@ layout: post
 title: Gas prices to reach record highs?
 date: 2007-05-01 15:17
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, Hybrid, Oil]
 category: Automotive
 ---

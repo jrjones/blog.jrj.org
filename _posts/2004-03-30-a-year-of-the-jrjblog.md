@@ -3,7 +3,7 @@ layout: post
 title: A year of the jrjBlog
 date: 2004-03-30 16:00
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Although my first blog started in June of 2002, this blog started out in March of '03. In that time it's seen a lot of changes, and varying levels of posting activity.

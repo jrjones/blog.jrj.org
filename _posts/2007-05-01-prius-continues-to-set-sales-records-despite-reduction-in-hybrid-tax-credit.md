@@ -3,7 +3,7 @@ layout: post
 title: Prius continues to set sales records despite reduction in hybrid tax credit
 date: 2007-05-01 15:13
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, Hybrid]
 category: Automotive
 ---

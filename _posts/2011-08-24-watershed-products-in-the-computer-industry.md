@@ -3,7 +3,7 @@ layout: post
 title: Watershed products in the computer industry
 date: 2011-08-24 23:53
 author: jrj
-comments: true
+comments: false
 tags: [Apple, Steve Jobs]
 category: Technology
 ---

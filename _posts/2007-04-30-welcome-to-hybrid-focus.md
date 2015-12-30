@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Hybrid Focus...
 date: 2007-04-30 15:18
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, Hybrid]
 category: Automotive
 ---

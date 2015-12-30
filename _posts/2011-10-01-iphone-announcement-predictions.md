@@ -3,7 +3,7 @@ layout: post
 title: iPhone Announcement Predictions
 date: 2011-10-01 21:11
 author: jrj
-comments: true
+comments: false
 tags: [Apple, iOS, IPhone, Technology]
 category: Technology
 ---

@@ -3,7 +3,7 @@ layout: post
 title: The Tyranny of Email...
 date: 2003-03-19 00:05
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Yet another item on the long list of things I know damn well I should be doing, but can't seem to force myself to do...

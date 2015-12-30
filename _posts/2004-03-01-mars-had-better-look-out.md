@@ -3,7 +3,7 @@ layout: post
 title: Mars had better look out...
 date: 2004-03-01 04:35
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <a href="http://www.space.com/scienceastronomy/opportunity_evidence_040229.html" target="_blank">Space.com is reporting </a>that chances are very good that a press conference next week will reveal compelling evidence that Mars once contained large quantities of water...

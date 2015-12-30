@@ -3,7 +3,7 @@ layout: post
 title: OneNote Wonder
 date: 2004-04-20 10:29
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 A preview edition of OneNote SP1 is available for <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=9107473a-74ca-4113-9392-0dfb092dfa72&amp;DisplayLang=en" target="_blank">download</a>. Peter's Tabula blog has some excellent commentary <a href="http://www.kstati.com/tabula/archive/2004/04/20/1587.aspx" target="_blank">here</a>, <a href="http://www.kstati.com/tabula/archive/2004/04/20/1589.aspx" target="_blank">here</a>, <a href="http://www.kstati.com/tabula/archive/2004/04/20/1590.aspx" target="_blank">here</a>, and <a href="http://www.kstati.com/tabula/archive/2004/04/20/1591.aspx" target="_blank">here</a>. Oh... and <a href="http://www.kstati.com/tabula/archive/2004/04/20/1594.aspx" target="_blank">here</a>. Peter's never been one to post just a single entry about something he's excited about.  :)

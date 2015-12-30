@@ -3,7 +3,7 @@ layout: post
 title: "UNBOXED: Lexus SC430!"
 date: 2007-08-23 12:38
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, JRJ Personal, Unboxing]
 categories: [Automotive, JRJ Personal]
 ---

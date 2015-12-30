@@ -3,7 +3,7 @@ layout: post
 title: The pen is mightier than the... aw, screw it.
 date: 2004-03-17 07:24
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 I forgot to mention that my wife bought me a nifty new <a href="http://www.cross.com/penabled_promo.asp" target="_blank">Cross stylus for my Tablet PC</a>. Very cool. It has a nice weight to it, and a feeling of quality that was missing from the OEM model that came with my Acer. (I have the one without the cap.)

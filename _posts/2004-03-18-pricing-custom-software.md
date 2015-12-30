@@ -3,7 +3,7 @@ layout: post
 title: Pricing Custom Software
 date: 2004-03-18 01:49
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Normally, this would show up on the new Small Biz Advisor blog, but I don't want to have too much tech stuff there.

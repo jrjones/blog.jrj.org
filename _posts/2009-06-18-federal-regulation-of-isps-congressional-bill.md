@@ -3,7 +3,7 @@ layout: post
 title: Federal Regulation of ISPs - Congressional Bill
 date: 2009-06-18 01:04
 author: jrj
-comments: true
+comments: false
 tags: [Bandwidth, ISP, Politics, Regulation, Technology]
 categories: [Technology, Politics]
 ---

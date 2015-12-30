@@ -3,7 +3,7 @@ layout: post
 title: Hybrid car sales were off a bit in April
 date: 2007-05-03 15:05
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, Hybrid]
 category: Automotive
 ---

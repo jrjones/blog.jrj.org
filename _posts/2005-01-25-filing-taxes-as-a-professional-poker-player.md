@@ -3,7 +3,7 @@ layout: post
 title: Filing taxes as a professional poker player
 date: 2005-01-25 15:08
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 MarketWatch has <a href="http://www.marketwatch.com/news/yhoo/story.asp?guid=%7B9CCF933D-B45A-4D15-8D8D-777EA0BDD3A9%7D&amp;siteid=myyahoo&amp;dist=myyahoo

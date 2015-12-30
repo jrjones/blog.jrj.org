@@ -3,7 +3,7 @@ layout: post
 title: "Needs vs. Wants and Belated Commentary, Re: Tax Protests"
 date: 2009-04-25 01:10
 author: jrj
-comments: true
+comments: false
 tags: [Economics, Politics, Protests, Sense of Entitlement, Taxes]
 category: Economics
 ---

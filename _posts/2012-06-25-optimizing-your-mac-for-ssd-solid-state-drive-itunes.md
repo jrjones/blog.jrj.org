@@ -3,7 +3,7 @@ layout: post
 title: Optimizing Your Mac for SSD
 date: 2012-06-25 20:47
 author: jrj
-comments: true
+comments: false
 tags: [OS X, Apple, SSD, iTunes, howto]
 category: Technology
 header:

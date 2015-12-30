@@ -3,7 +3,7 @@ layout: post
 title: Magazine Advertising for ISVs
 date: 2004-01-29 22:42
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Eric Sink (of <a href="http://www.sourcegear.com" target="_blank">SourceGear </a>fame) takes <a href="http://software.ericsink.com/Magazine_Advertising.html" target="_blank">a look at magazine advertising</a> from the viewpoint of a small ISV (independant software vendor.) His insights are not only accurate, but funny as hell...

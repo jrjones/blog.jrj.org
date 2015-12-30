@@ -3,7 +3,7 @@ layout: post
 title: Comcast to acquire TechTV
 date: 2004-03-25 14:43
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Slashdot is reporting that <a href="http://slashdot.org/article.pl?sid=04/03/25/1838233" target="_blank">Comcast has put in a bid to acquire TechTV</a>, which I must confess to watching more often than I'd like to admit. (God, I'm such a geek.)  Apparantly, they will be merging it with their existing "G2" gaming channel, which I have never seen.

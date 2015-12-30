@@ -3,7 +3,7 @@ layout: post
 title: A big ol' box o' stoopid
 date: 2003-09-17 12:30
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Where do I even begin? Well, let me tell you a little story about organizational stupidity.

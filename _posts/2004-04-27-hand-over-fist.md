@@ -3,7 +3,7 @@ layout: post
 title: Hand over Fist
 date: 2004-04-27 00:50
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Microsoft's cache hoarde increased this quarter to a total of 53 billion dollars. It's hard to conceive of an amount like that. The Seattle PI's Todd Bishop provided an interesting analogy on the <a href="http://blog.seattlepi.nwsource.com/microsoft/archives/002615.html" target="_blank">always excellent Seattle PI Microsoft Blog</a>:

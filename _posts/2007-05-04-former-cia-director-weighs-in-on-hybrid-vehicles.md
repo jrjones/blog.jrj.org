@@ -3,7 +3,7 @@ layout: post
 title: Former CIA director weighs in on Hybrid vehicles
 date: 2007-05-04 14:50
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, Cars, CIA, Hybrid]
 category: Automotive
 ---

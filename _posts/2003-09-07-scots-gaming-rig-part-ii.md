@@ -3,7 +3,7 @@ layout: post
 title: Scot's Gaming Rig, part II
 date: 2003-09-07 15:43
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 OK, so I am *finally* done with the gaming rig for my brother-in-law Scot. I had a lot of fun building it out and getting everything set up right. Here are the specs:

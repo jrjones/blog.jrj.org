@@ -3,7 +3,7 @@ layout: post
 title: These flogits are grommited without any damn fleezum!
 date: 2003-03-26 21:15
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Some people (non-developers) didn't understand my last post. Here's a brief snippet of the IM conversation on which the post was based (heavily obsfucated for NDA reasons.)

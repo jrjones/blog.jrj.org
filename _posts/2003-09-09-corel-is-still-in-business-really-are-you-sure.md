@@ -3,7 +3,7 @@ layout: post
 title: Corel is still in business? Really? Are you sure?
 date: 2003-09-09 09:52
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 OK, so the title is a little mean-spirited... but the product is excellent. Corel released the 2.0 version of their <a href="http://www.corel.com/servlet/Satellite?pagename=Corel/Products/productInfo&amp;id=1047022154101" target="_blank">Grafigo</a> software yesterday, and I took a few minutes to try it out.

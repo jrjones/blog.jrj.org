@@ -3,7 +3,7 @@ layout: post
 title: "Brace Yourselves: MyDoom"
 date: 2004-01-27 09:48
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 OK, this is the most copies of a virus I've ever gotten (180) on its first day in the wild... and it is not even 10:00am! MyDoom is going to be huge.

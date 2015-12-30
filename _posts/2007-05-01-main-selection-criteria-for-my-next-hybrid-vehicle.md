@@ -3,7 +3,7 @@ layout: post
 title: Main Selection Criteria for my next hybrid vehicle...
 date: 2007-05-01 15:16
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, Hybrid]
 category: Automotive
 ---

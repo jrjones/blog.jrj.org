@@ -3,7 +3,7 @@ layout: post
 title: "Java: The HUMMER of Programming Languages"
 date: 2003-09-22 09:42
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <img src="http://www.jrj.org/Hummer.jpg" align="right" hspace="12" vspace="5" /><a href="http://philip.greenspun.com/">Philip Greenspun</a>'s post about Java literally made me spit coffee out my nose this morning.

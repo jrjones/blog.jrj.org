@@ -3,7 +3,7 @@ layout: post
 title: Smart Phones to outsell PDAs
 date: 2004-01-29 01:41
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 IDC is saying that, in 2004, Smart Phones will outsell PDAs... specifically, they estimate that 2 smart phones will be sold for every PDA. Not coincidentally, PalmOne announced that they are laying off 100 workers, and their shares are down 14%. There's a good <a href="http://www.usatoday.com/tech/news/2004-01-28-pda_x.htm" target="_blank">article about this in USA Today</a>.

@@ -3,7 +3,7 @@ layout: post
 title: To buy or not to buy? The answer lies in utility value.
 date: 2007-12-16 12:56
 author: jrj
-comments: true
+comments: false
 tags: [Economics, economics, JRJ Personal, Kindle, Technology]
 categories: [Technology, Economics]
 ---

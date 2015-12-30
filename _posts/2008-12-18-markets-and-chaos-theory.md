@@ -3,7 +3,7 @@ layout: post
 title: Markets and Chaos Theory
 date: 2008-12-18 13:53
 author: jrj
-comments: true
+comments: false
 tags: [Economics, Gold, Mc Donalds, Starbucks, stocks]
 category: Economics
 ---

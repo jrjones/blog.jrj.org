@@ -3,7 +3,7 @@ layout: post
 title: "[CES] Back from CES"
 date: 2004-01-12 07:11
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Well, I'm back from CES. (Actually, I got back a couple days ago, but I've been vegging out over the weekend.) It was a great show-- a lot of companies showing some really cool technologies. A couple highlights:

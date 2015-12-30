@@ -3,7 +3,7 @@ layout: post
 title: Sold My iPhone, Now I Have to Worry About Message Privacy
 date: 2012-02-01 23:23
 author: jrj
-comments: true
+comments: false
 tags: [bugs, iOS, IPhone, Privacy, privacy, security, Technology]
 category: Technology
 ---

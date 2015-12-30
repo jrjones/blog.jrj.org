@@ -3,7 +3,7 @@ layout: post
 title: "SmartPhones: the good, the bad, and the ugly"
 date: 2004-01-20 00:24
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 (Wow... I've been quite the blogger-boy tonight, haven't I?)

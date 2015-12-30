@@ -3,7 +3,7 @@ layout: post
 title: Commodities Indicies Rebalancing
 date: 2009-01-07 14:05
 author: jrj
-comments: true
+comments: false
 tags: [Economics, Gold, Investing]
 category: Economics
 ---

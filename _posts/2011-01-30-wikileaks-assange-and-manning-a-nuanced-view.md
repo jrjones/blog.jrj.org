@@ -3,7 +3,7 @@ layout: post
 title: WikiLeaks, Assange, and Manning - a Nuanced View
 date: 2011-01-30 00:45
 author: jrj
-comments: true
+comments: false
 tags: [civil disobedience, News and Links, Politics, Technology, WikiLeaks, wikileaks]
 category: Politics
 ---

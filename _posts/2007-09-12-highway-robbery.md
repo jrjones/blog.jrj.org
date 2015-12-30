@@ -3,7 +3,7 @@ layout: post
 title: Highway Robbery
 date: 2007-09-12 04:34
 author: jrj
-comments: true
+comments: false
 tags: [Electronics, hdmi, Humor, Humor, JRJ Personal, Technology]
 category: Technology
 ---

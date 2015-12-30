@@ -3,7 +3,7 @@ layout: post
 title: Your Mileage May Vary...
 date: 2007-05-01 19:56
 author: jrj
-comments: true
+comments: false
 tags: [Automotive, Hybrid]
 category: Automotive
 ---

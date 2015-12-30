@@ -3,7 +3,7 @@ layout: post
 title: "MikeRoweSoft: Resolved"
 date: 2004-01-23 16:13
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 From the <a href="http://blog.seattlepi.nwsource.com/microsoft/archives/001313.html" target="_blank">SeattlePI Microsoft Blog</a>:

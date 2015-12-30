@@ -3,7 +3,7 @@ layout: post
 title: Don't you hate it when your idol turns out to be imperfect?
 date: 2003-09-23 10:34
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 The software industry has modeled itself after building construction in many ways-- things like the metaphors and analogies we use to describe things, to the general way we create, communicate, and execute on a detailed plan. Heck, we even call the primary phases of development "Architecture" and "Construction."

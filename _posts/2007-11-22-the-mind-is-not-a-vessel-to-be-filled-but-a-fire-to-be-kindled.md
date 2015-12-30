@@ -3,7 +3,7 @@ layout: post
 title: The mind is not a vessel to be filled, but a fire to be kindled
 date: 2007-11-22 02:24
 author: jrj
-comments: true
+comments: false
 tags: [Kindle, Technology]
 category: Technology
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "UNBOXED: iPhone!"
 date: 2007-09-15 05:35
 author: jrj
-comments: true
+comments: false
 tags: [IPhone, JRJ Personal, Technology, unboxed]
 category: Technology
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Microsoft's Open Source Offensive...
 date: 2004-04-28 21:31
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 Cofounder of Ximian (one of Novell's recent acquisitions in the Open Source space) and one of the guys behind the Gnome project Miguel de Icaza was asked in a <a href="http://news.netcraft.com/archives/2004/04/28/interview_with_miguel_de_icaza_cofounder_of_gnome_ximian_and_mono.html" target="_blank">recent interview </a>what the biggest threat to the Free/Open software movement was. His answer: Avalon.

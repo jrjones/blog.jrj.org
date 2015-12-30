@@ -3,7 +3,7 @@ layout: post
 title: SmartPhone
 date: 2004-01-17 22:56
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 I just picked up a <a href="http://www.microsoft.com/smartphone/" target="_blank">Motorola/Microsoft SmartPhone</a>. These things are pretty slick-- sort of a hybrid PDA/Cell Phone with an emphasis on the phone (as opposed to the <a href="http://www.microsoft.com/pocketpc" target="_blank">PocketPC phone edition</a>, which has an emphasis on the PDA functionality.)

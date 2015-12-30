@@ -3,7 +3,7 @@ layout: post
 title: Solid State Drives cannot be securely erased? Who cares?
 date: 2011-02-26 00:00
 author: jrj
-comments: true
+comments: false
 tags: [privacy, Security, security, SSD, Technology]
 categories: [Security, Privacy]
 ---

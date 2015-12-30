@@ -3,7 +3,7 @@ layout: post
 title: "Video: Anniversary Vacation"
 date: 2007-12-19 21:16
 author: jrj
-comments: true
+comments: false
 tags: [JRJ Personal, personal, vacation, video]
 category: JRJ Personal
 ---

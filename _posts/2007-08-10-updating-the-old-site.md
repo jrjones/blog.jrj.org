@@ -3,7 +3,7 @@ layout: post
 title: Updating the Old Site
 date: 2007-08-10 11:41
 author: jrj
-comments: true
+comments: false
 tags: [jrj.org, Metablog, SharePoint]
 category: JRJ Personal
 ---

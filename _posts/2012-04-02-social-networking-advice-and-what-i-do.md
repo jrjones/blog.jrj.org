@@ -3,7 +3,7 @@ layout: post
 title: Social Networking Advice and What I Do
 date: 2012-04-02 20:19
 author: jrj
-comments: true
+comments: false
 tags: [Facebook, JRJ Personal, LinkedIn, Privacy, privacy, Social Media, Technology, Twitter]
 categories: [JRJ Personal, Technology]
 ---

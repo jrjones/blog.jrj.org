@@ -3,7 +3,7 @@ layout: post
 title: Olympians not allowed to blog
 date: 2004-08-21 13:19
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 <a href="http://www.cnn.com/2004/TECH/internet/08/20/olympic.diaries.ap/index.html" target="_blank">CNN is reporting</a> that the Olympic Committee is barring competitors, coaches, and support personnel from writing firsthand accounts of their Olympic experience, on the web or in print, for the duration of the Games. Why? Well, to protect its lucrative media contracts, of course.

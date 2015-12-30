@@ -3,7 +3,7 @@ layout: post
 title: Advice on Rebooting a Technical Career
 date: 2009-01-16 17:02
 author: jrj
-comments: true
+comments: false
 tags: [Career, Career, Development, IT Industry, Job Security, Management, Technology]
 category: Technology
 ---

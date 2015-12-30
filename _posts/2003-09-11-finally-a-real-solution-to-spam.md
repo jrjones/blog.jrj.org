@@ -3,7 +3,7 @@ layout: post
 title: Finally, a real solution to Spam...
 date: 2003-09-11 01:17
 author: jrj
-comments: true
+comments: false
 categories: [Uncategorized]
 ---
 I get a lot of email-- about 250 emails a day. However, only about 50-75 of these are actually real, the rest is spam.

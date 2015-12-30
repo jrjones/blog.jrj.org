@@ -3,7 +3,7 @@ layout: post
 title: PokerStreams
 date: 2012-01-02 00:58
 author: jrj
-comments: true
+comments: false
 tags: [JRJ Personal, Podcasts, Poker, poker, video, Video]
 categories: [JRJ Personal, Poker]
 ---

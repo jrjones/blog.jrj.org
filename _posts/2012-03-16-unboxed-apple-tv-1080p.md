@@ -3,7 +3,7 @@ layout: post
 title: "Unboxed: Apple TV 1080p"
 date: 2012-03-16 01:34
 author: jrj
-comments: true
+comments: false
 tags: [Apple, Apple TV, Technology, unboxed, Unboxing]
 category: Technology
 ---
