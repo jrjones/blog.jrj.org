@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Reviewed: Ender&apos;s Game"
+title: "Ender&apos;s Game"
+subheadline: "Spoiler-free Review"
 date: 2013-11-01 05:31
 author: jrj
-tags: [JRJ personal, movies, reviews, science fiction]
+tags: [JRJ personal, movies, reviews, science fiction, books]
 category: JRJ Personal
 teaser: "I liked Ender’s Game, but it’s a 5-star book compressed into a 3.5 star movie…"
 image:

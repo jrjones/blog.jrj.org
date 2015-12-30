@@ -3,7 +3,7 @@ layout: post
 title: "&quot;Bionic Eye&quot; Coming to the U.S."
 date: 2013-11-21 12:59
 author: jrj
-tags: [futurism, Google Glass, human augmentation]
+tags: [futurism, Google Glass, human augmentation, research, medicine, augmented reality]
 category: Futurism
 teaser: "Imagine a cochlear implant, but for the visually impaired…"
 image:
@@ -11,7 +11,7 @@ image:
   thumb: postheads/implantedeye.png
 header:
   image: postheads/implantedeye.png
-  background-color: "#333333"
+  background-color: "#205976"
 ---
 <!---
 ![Bionic Eye](/assets/postheads/implantedeye.png)
