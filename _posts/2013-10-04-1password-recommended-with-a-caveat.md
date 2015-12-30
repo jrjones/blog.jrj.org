@@ -3,7 +3,7 @@ layout: post
 title: "1Password: Recommended with a Caveat"
 date: 2013-10-04 06:54
 author: jrj
-tags: [1Password, Apple, iOS, Mac OS, privacy, security, technology]
+tags: [1Password, Apple, iOS, Mac OS, passwords, cryptography, privacy, security, technology]
 category: Security
 teaser: "I strongly recommend 1Password, but don’t use one feature…"
 image:
@@ -11,7 +11,7 @@ image:
   thumb: postheads/1passwordsharing.png
 header:
   image: postheads/1passwordsharing.png
-  background-color: "#CCCCCC"
+  background-color: "#E2E2E2"
 ---
 I'm a huge fan of [1Password](https://agilebits.com/onepassword), I use it daily and recommend it to everyone. When I found out that the [new version of 1Password for Mac OS X](https://agilebits.com/onepassword/mac)shipped today, I was very excited to try it out. (Though I'm an avid user of beta software, I would never use a beta for so critical a function.)
 

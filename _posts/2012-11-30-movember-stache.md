@@ -6,8 +6,18 @@ author: jrj
 comments: true
 tags: [charity, Image, JRJ Personal]
 category: JRJ Personal
+header: 
+  image: postheads/jrj-movember.jpg
+  background-color: "#6d7625"
+  
+teaser: "A promise is a promise, and it's for a good cause... so I'll embarass myself for posterity..."
+image:
+  thumb: postheads/jrj-movember.jpg
+
 ---
 I promised if I raised $500 on http://mo.jrj.org that I'd post a public picture. Always a man of my word, here you go.
+
+![Humilliating JRJ Mustache picture](/images/jrj-movember.jpg)
 
 The total money raised is as follows:
 

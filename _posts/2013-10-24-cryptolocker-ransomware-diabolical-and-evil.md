@@ -24,7 +24,7 @@ Cryptolocker infects your machine, typically via an email phishing attack, and t
 I heard about Cryptolocker via [Steve Gibson](http://twitter.com/sg_grc), and he has a great discussion about it in his most recent [SecurityNow podcast](http://twit.tv/sn). (The [video below is set up to start right at the point where they are talking about Cryptolocker](http://youtu.be/ipaHgMedao4?t=39m6s).) His discussion goes into more depth, and is worth a listen if you're interested.
 
 <!--- http://youtu.be/ipaHgMedao4?t=39m6s -->
-<iframe src="https://www.youtube.com/embed/ipaHgMedao4?t=39m6s" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ipaHgMedao4?t=39m6s" frameborder="0" allowfullscreen width="100%" height="280"></iframe>
 
 We can't effectively go after the perpetrators by tracking the payments because they're accepting their ransom payments via bitcoin - totally anonymous. Though they have some clever countermeasures to prevent their domain names from being taken down, it's still possible... but it does no good, and only hurts the threatened users by deleting the only copy of the decryption key.
 
@@ -44,7 +44,6 @@ However, if they start buying up zero-day vulnerabilities then only that last on
 
 Stay safe out there!
 
-> **Update:** [This site has incredibly detailed information](http://www.bleepingcomputer.com/virus-removal/cryptolocker-ransomware-information), including removal and threat avoidance. Update 2: Some good [advice and coverage from Krebs](http://krebsonsecurity.com/2013/11/how-to-avoid-cryptolocker-ransomware/). To be clear, while "removal" is trivial, it doesn't get your data back. For that, you still have to pay. Also, a friend of mine was infected, and paid. Her data is currently decrypting and it's looking like a full recovery is likely... but the bad news is that she gave $300 to bad guys who will use it to steal from others.
+{% include alert text="**Update:** [This site has incredibly detailed information](http://www.bleepingcomputer.com/virus-removal/cryptolocker-ransomware-information), including removal and threat avoidance. Update 2: Some good [advice and coverage from Krebs](http://krebsonsecurity.com/2013/11/how-to-avoid-cryptolocker-ransomware/). To be clear, while *removal* is trivial, it doesn't get your data back. For that, you still have to pay. Also, a friend of mine was infected, and paid. Her data is currently decrypting and it's looking like a full recovery is likely... but the bad news is that she gave $300 to bad guys who will use it to steal from others." %}
 
-> **Update:** Gibson has posted a victim's story of getting their data back. Worth a read.
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">CRYPTOLOCKER (Take Two): Here&#39;s a PDF of Rob&#39;s experience with CryptoLocker that MY site is hosting: <a href="http://t.co/LZQ5DvVLy8">http://t.co/LZQ5DvVLy8</a></p>&mdash; Steve Gibson (@SGgrc) <a href="https://twitter.com/SGgrc/status/394938865107992576">October 28, 2013</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% include alert text="**Update:** Gibson has posted a victim's story of getting their data back. Worth a read. &quot;CRYPTOLOCKER (Take Two): Here&#39;s a PDF of Rob&#39;s experience with CryptoLocker that MY site is hosting: http://t.co/LZQ5DvVLy8&quot; &mdash; Steve Gibson (@SGgrc) [view tweet](https://twitter.com/SGgrc/status/394938865107992576)" %}

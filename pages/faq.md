@@ -6,6 +6,7 @@ breadcrumb: true
 header:
   image_fullwidth: joe-work-wide.jpg
   caption: "JRJ circa 2013"
+  title: ""
 ---
 <ul class="accordion" data-accordion>
   <li class="accordion-navigation">

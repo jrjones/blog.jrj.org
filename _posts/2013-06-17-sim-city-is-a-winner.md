@@ -3,11 +3,16 @@ layout: post
 title: Sim City is a Winner
 date: 2013-06-17 23:41
 author: jrj
-tags: [gaming, JRJ personal, Sim City, technology]
+tags: [gaming, JRJ personal, Sim City]
 category: JRJ Personal
+header:
+  image: postheads/simcity5.png
+  background-color: "#c2181c"
+  
+teaser: "After all these years, Sim City is still fun, but the latest edition is not without flaws..."
+image: 
+  thumb: postheads/simcity5.png
 ---
-![Sim City](/assets/postheads/simcity5.png "Sim City")
-
 Last night I downloaded a copy of Sim City. I loved this game as a kid, and have played every version that's come out. This new version is exactly what I hoped it would be: everything I love about Sim City, but taking advantage of modern hardware capabilities with deeper, more granular simulation and beautiful graphics. A few observations:
 
 My iMac (running Windows 8 via Bootcamp) was more than capable of running with every setting fully maxed out, always at full frame rate. (For reference, it's the Core i7 with 32GB RAM and has the upgraded video card with 2GB RAM.)

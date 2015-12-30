@@ -3,12 +3,17 @@ layout: post
 title: Google Glass Availability
 date: 2013-02-22 18:22
 author: jrj
-tags: [augmented reality, futurism, Google, technology]
+tags: [augmented reality, futurism, Google, Google Glass, wearables]
 categories: [Futurism, Technology]
+header: 
+  image: postheads/googleglass.png
+  background-color: "#eaf2f5"
+  
+teaser: "Google Glass looks interesting, and now we have some timelines from Mountain View..."
+image:
+  thumb: postheads/googleglass.png
+
 ---
-
-![Google Glass Availability](/assets/postheads/googleglass.png "Google Glass Availability")
-
 I have to admit: Google Glass has captured my imagination in a way that no other technology has since the smartphone. The difference between this and the boom in mobile over the last ~5 years or so, though, is that it's made me want to start digging back into development so I could build stuff for it-- a desire I haven't really had with the mobile space. (To be clear, I'm not ready to make a career change, but I am seriously considering adding a new hobby.)
 
 There's something extremely compelling about an always-available camera and unobtrusive transparent screen that opens up a huge number of possible scenarios that I've been dreaming about for decades, which has been fed by my love of science fiction.

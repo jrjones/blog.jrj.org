@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Jobs Movie - Exceeded Low Expectations"
+subheadline: "Spoiler-free Review"
 date: 2013-08-26 19:18
 author: jrj
-tags: [Apple, JRJ personal, movies, technology]
+tags: [Apple, Steve Jobs, reviews, JRJ personal, movies]
 category: JRJ Personal
 teaser: "Not a great movie, but low expectations allowed me to enjoy it anyway…"
 image:

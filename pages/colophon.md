@@ -4,8 +4,8 @@ title: "Colophon"
 permalink: /about/colophon/
 breadcrumb: true
 header:
-  image_fullwidth: joe-work-wide.jpg
-  caption: "JRJ circa 2013"
+  image_fullwidth: postheads/typography.jpg
+  title: ""
 ---
 
 ## Jekyll Static Site Generator
