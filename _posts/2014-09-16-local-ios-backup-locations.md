@@ -3,7 +3,7 @@ layout: post
 title: Local iOS Backup Locations
 date: 2014-09-16 13:21
 category: Technology
-tags: [Apple, iOS, iTunes, JRJ personal, Mac OS, technology]
+tags: [backup, howto, Apple, iOS, iTunes, JRJ personal, Mac OS, technology]
 author: jrj
 teaser: "Changing the location where iTunes backs up your iOS devices…"
 image: 
@@ -26,7 +26,7 @@ The problem is that my iMac has a 128GB SSD, my iPad has 128GB of storage, and 
 
 2. Move the folder called **~/Library/Application Support/MobileSync/Backup/ **to the new locations you want backups to live. In my case, this is a secondary internal hard drive, but it could just as easily be an external drive or a share on my NAS device.
 
-3. Launch Terminal `Applications/Utilities/Terminalnd` type in the following command line:
+3. Launch Terminal `Applications/Utilities/Terminal` and type in the following command line:
 
 ```
 ln -s /Volumes/JRJHDD/Backup/ ~/Library/Application\ Support/MobileSync/Backup
