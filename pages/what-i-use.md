@@ -7,8 +7,8 @@ redirect_from:
 breadcrumb: true
 header:
   title: ""
-  image_fullwidth: joe-work-wide.jpg
-  caption: "JRJ circa 2013"
+  image_fullwidth: whatiuse.jpg
+  caption: "JRJ's Home Office, 2015"
 ---
 
 <p>As the “resident geek advisor” to most of my friends and family, I get a lot of questions about what tools and tech I use and recommend. Inspired by [Paul Thurrott’s “What I Use” series](http://www.thurrott.com/tag/what-i-use), I decided to document everything I use on a daily basis in one handy place. (Current as of December 2015.)</p>
@@ -20,21 +20,29 @@ header:
         <p> I use a variety of computers for both work and personal tasks. My primary platform of choice is Mac OS X, but I use Windows on a daily basis as well.</p>
         
         <h2>Home Desktop: <em>Apple 27" iMac</em></h2>
+        
+        <img src="/images/galleries/whatiuse/imac27.jpg" align="right" hspace="10" alt="Photo - iMac 27">
+        
         <p>My primary machine (named "Gustav") is a <a href="https://support.apple.com/kb/SP667?locale=en_US">27" iMac (mid-2012)</a> 3.4GHz Core i7 with 16GB of memory, a 128GB SSD for OS and applications, and a 1TB SSD for files. (The machine was originally a 3TB "Fusion Drive" but I replaced the hard drive with an SSD.) The iMac also has the optional 2GB graphics card (GeForce GTX 680MX) and an attached <a href="https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display">27" Thunderbolt display</a>.</p>
         <p>The iMac (like all my Macs) is running Mac OS X 10.11 "El Capitan."</p>
         <p>The input devices I use on my main machine are a <a href="http://www.daskeyboard.com/daskeyboard-4-professional/">Das Keyboard 4 Professional</a> and an <a href="http://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2">Apple Magic Trackpad 2</a>. (I've fully transitioned from the mouse to all trackpads... not because I think they are better, but because I got tired of switching back and forth between desktop and laptop.)</p>
+        <p>The system's name is "<a href="http://dilbert.com/strip/1995-06-22">Gustav</a>."
         
         <h2>Home Desktop: <em>Custom-Built Gaming/Development Machine</em></h2>
-        <p>The newest addition (is a gaming and development rig (named "Gunter") that I built in late 2015. This system has a Skylake Core i7 6700K with a mild overclock to 4.6GHz, 32 GB of DDR4 memory, and a <a href="http://www.intel.com/content/www/us/en/solid-state-drives/solid-state-drives-750-series.html">400GB Intel 750 PCIe SSD</a>. For graphics, it uses an Nvidia GeForce 980TI. (The CPU and GPU are independently water-cooled.) <a href="http://pcpartpicker.com/user/jrj102/saved/ZycnTW">The parts list can be found on PC Parts Picker.</a></p>
+        
+        <a href="/images/galleries/whatiuse/gunter.jpg"><img src="/images/galleries/whatiuse/gunter_thumb.jpg" align="right" hspace="10" alt="Gaming rig photo - click for full size"></a>
+        <p>The newest addition (is a gaming and development rig (named "<a href="http://readyplayerone.wikia.com/wiki/Gunter">Gunter</a>") that I built in late 2015. This system has a Skylake Core i7 6700K with a mild overclock to 4.6GHz, 32 GB of DDR4 memory, and a <a href="http://www.intel.com/content/www/us/en/solid-state-drives/solid-state-drives-750-series.html">400GB Intel 750 PCIe SSD</a>. For graphics, it uses an Nvidia GeForce 980TI. (The CPU and GPU are independently water-cooled.) <a href="http://pcpartpicker.com/user/jrj102/saved/ZycnTW">The parts list can be found on PC Parts Picker.</a></p>
         <p>The machine is connected to a <a href="http://www.monoprice.com/product?p_id=12156">Monoprice 28" 4K display</a> that handles full 4K resolution at 60fps.</p>
         <p>The gaming/development rig is running the latest version of Windows 10 Professional (I've now transitioned completely to Windows 10, I no longer have any Windows 8 or 7 workstations or VMs.)</p>
         <p>The input devices I use on the gaming/development machine are a <a href="http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow-chroma">Razer BlackWidow Chroma</a> keyboard and <a href="http://www.razerzone.com/gaming-mice/razer-mamba">Razer Mamba Tournament Edition</a> wired mouse. And, of course, its primary reason for existing, an <a href="https://www.oculus.com/en-us/dk2/">Oculus Rift DK2</a> (which I plan to replace with a <a href="https://www.oculus.com/en-us/rift/">CV1</a> as soon as I can order one.)</p>
 
         <h2>Work Laptop: <em>Apple 15" MacBook Pro Retina</em></h2>
+        <img src="/images/galleries/whatiuse/retina15.jpg" align="right" hspace="10" alt="Photo - MacBook Pro Retina 15">
         <p>My main work machine is a <a href="http://www.apple.com/macbook-pro/">15" MacBook Pro Retina</a> (mid-2014) 2.5GHz Core i7 with 16GB of memory, a 720GB SSD, and an Nvidia GeForce GT 750M 2GB graphics card. When I'm in my office, it's connected to two 27" Thunderbolt displays.</p>
         <p>The MBP runs Mac OS X 10.11 "El Capitan" and uses a <a href="http://www.daskeyboard.com/daskeyboard-4-professional-for-mac/">Das Keyboard 4 Professional (Mac)</a> and Magic Trackpad 2 for input.</p>
         
         <h2>Home Hybrid Laptop: <em>Surface Pro 3</em></h2>
+        <img src="/images/galleries/whatiuse/surfacepro3.jpg" align="right" hspace="10" alt="Photo: Surface Pro 3">
         <p>My main home laptop is a <a href="http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-3/productID.300190600">Microsoft Surface Pro 3</a> 1.9 GB Core i5 with 8GB of memory and a 256GB SSD. This machine serves three primary purposes: First, it sits in a docking station to act as a standing workstation in my home office. Second, it's used around the house when I want a mobile Windows PC. Finally, it's used occsionally for drawing and ink-based notes.</p>
         <p>The Surface runs the latest version of Windows 10, and uses a <a href="https://www.microsoft.com/hardware/en-us/d/bluetooth-mobile-keyboard-6000">Microsoft Bluetooth Mobile Keyboard 6000</a> and previous-generation Apple Magic Trackpad for input when docked at the standing workstation, and a new <a href="https://www.microsoft.com/surface/en-us/accessories/surface-pro-4-type-cover-fingerprint">Surface Pro 4 keyboard with fingerprint reader</a> when mobile.</p>
         
