@@ -65,8 +65,11 @@ header:
         <h2>Smartphone (Secondary/Development): <em>Samsung Galaxy S6</em></h2>
         <p>My secondary phone is a <a href="http://www.samsung.com/us/explore/galaxy-s-6-features-and-specs/?cid=ppc-">Galaxy S6</a>, which is used primarily for development/testing (and virtual reality via a <a href="http://www.samsung.com/us/explore/gear-vr/?cid=ppc-">Samsung Gear VR</a>) has been great. I've been frustrated by the slow dribble of software updates and lack of a removable battery, but the performance and camera are truly top notch. In general, I would recommend most users skip this device in favor of a Google Nexus device unless VR is important to you.</p>
         
-        <h2>Tablet: <em>Apple iPad Mini Retina II</em></h2>
-        <p>My main tablet is a couple-generations-old <a href="http://www.apple.com/shop/buy-ipad/ipad-mini-2">iPad Mini Retina 2</a> that's due for replacement (I have my eye on an iPad Pro.) While it's served me well, it's starting to feel really slow. However, it continues to be the device I reach for when I want to read or watch a quick video.</p>
+        <h2>Tablet (Primary): <em>Apple iPad Pro</em></h2>
+        <p>My main tablet is a 128GB <a href="http://www.apple.com/shop/buy-ipad/ipad-pro">iPad Pro</a> (WiFi) in "I refuse to call it Space" gray. I just got the device, so I haven't formed much of an opinion other than the screen is gorgeous, it's huge, and it's crazy fast for a tablet. Time permitting, I'll post my thoughts on the blog after using it for a week or two. I bought the logitech keyboard for it (which I prefer to the Apple unit for both keyboard feel and illumination) and I have a pencil on backorder.</p>
+        
+        <h2>Tablet (Secondary): <em>Apple iPad Mini Retina II</em></h2>
+        <p>My secondary tablet is a couple-generations-old <a href="http://www.apple.com/shop/buy-ipad/ipad-mini-2">iPad Mini Retina 2</a> It's served me well, but it's starting to feel really slow. However, it's still the device I reach for when I want to read or watch a quick video since the 13" pro is a bit big and bulky for certain scenarios. Interestingly, this device is not configured with access to my work email or certain other accounts so I can leave it passcode-free since it lacks TouchID and never leaves the house anymore.</p>
         
         <h2>E-Reader: <em>Amazon Kindle Paperwhite</em></h2>
         <p>I read a lot (in 2011, I read over 100 books… a record I’ve not come close to since.) Much of this is on my beloved (previous generation) Kindle Paperwhite, which replaced an old Kindle Touch. I love this reader– it’s a fantastic device. However, it’s a bit beat up, and is due for replacement this year, I’m probably going to end up with a Voyager.</p>
