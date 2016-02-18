@@ -11,7 +11,9 @@ header:
   caption: "JRJ's Home Office, 2015"
 ---
 
-<p>As the “resident geek advisor” to most of my friends and family, I get a lot of questions about what tools and tech I use and recommend. Inspired by [Paul Thurrott’s “What I Use” series](http://www.thurrott.com/tag/what-i-use), I decided to document everything I use on a daily basis in one handy place. (Current as of December 2015.)</p>
+<p>As the “resident geek advisor” to most of my friends and family, I get a lot of questions about what tools and tech I use and recommend. Inspired by [Paul Thurrott’s “What I Use” series](http://www.thurrott.com/tag/what-i-use), I decided to document everything I use on a daily basis in one handy place. (Current as of mid-February 2016.)</p>
+
+(Click on each section to expand.)
 
 <ul class="accordion" data-accordion>
   <li class="accordion-navigation">
