@@ -52,6 +52,8 @@ For some reason, one simple fact seems to not be obvious to some people: U.S. La
 
 **Personally, I'm on the side of Apple, the [ACLU][30], the [EFF][40], and others on this fight. I'm not confident they can win it, but I commend them for trying.**
 
+Update: I wanted to add a couple links that do a great job of explaining some of the technical and legal issues here. First, [one in plain English from Wired][51], and the second [more focused on security and crypto nerds by Matt Green][52].
+
 [^1]: Files are encrypted with AES 256 (Cipher Block Chaining) using a unique key per file. The initialization vector is calculated with a block offset into the file, encrypted with a SHA-1 hash of the file key. The key is then wrapped (using AES key wrapping compliant with RFC 3394 and stored in the file's metadata.
 
 [^2]: The "Secure Enclave" is a separate security coprocessor that is part of Apple's System on a Chip (SoC) A7 and above. It has its own secure boot, registers, and processing capability that is separate and explicitly segmented from the main CPU and memory, and it performs cryptographic and security operations on behalf of the user without making information available to the rest of the system. The concept of a secure enclave is not new-- it's included in the ARM specifications for TrustZone-- but Apple's implementation is subtly different and optimized for slightly different scenarios. The Secure Enclave has a feature called "Effacable Storage" designed to mitigate the difficulty of securely erasing flash storage so that keys can be securely erased at the request of the user or in response to a security event.
@@ -73,3 +75,7 @@ For some reason, one simple fact seems to not be obvious to some people: U.S. La
 [45]: https://en.m.wikipedia.org/wiki/Crypto_Wars
 
 [50]: http://www.macworld.com/article/3034355/ios/why-the-fbis-request-to-apple-will-affect-civil-rights-for-a-generation.html
+
+[51]: http://www.wired.com/2016/02/apples-fbi-battle-is-complicated-heres-whats-really-going-on/
+
+[52]: http://blog.cryptographyengineering.com/2014/10/why-cant-apple-decrypt-your-iphone.html
