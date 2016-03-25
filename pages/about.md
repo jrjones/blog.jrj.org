@@ -9,7 +9,7 @@ header:
   caption: "JRJ circa 2013"
 ---
 
-My name is Joseph R. Jones (AKA “JRJ”) and I’m a **Principal Product Manager** working in [**Adobe’s Primetime Video**](http://www.adobe.com/solutions/primetime.html) team where I'm responsible for Security (cryptography, incident and vulnerability management, compliance and audits, etc.) and **Video Compression Technologies**.
+My name is Joseph R. Jones (AKA “JRJ”) and I’m a **Principal Product Manager** working in [**Adobe’s Primetime Video**](http://www.adobe.com/solutions/primetime.html) team where I'm responsible for **Security** (cryptography, incident and vulnerability management, compliance and audits, etc.) and some new **Video Compression Technologies**. Most recently, I've had the oportunity to explore Immersive Technologies including **Virtual Reality** and **Augmented Reality**.
 
 I live with my wife **Rachel** and my dog Loki in Pleasant Grove, UT (I was raised in Scottsdale, Arizona, and spent most of my adult life in Seattle.)
 
