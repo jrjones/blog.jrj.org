@@ -15,5 +15,5 @@ I gave a talk to the Exponential Entrepreneuers group in late March about Immers
 | [ImmersiveTechJRJ.pptx][1] | PowerPoint | 215 MB |
 | [ImmersiveTechJRJ.pdf][2]  | PDF        | 63 MB  |
 
-[1]: http://jrj.io/ImmersiveTechJRJ.pptx
-[2]: http://jrj.io/ImmersiveTechJRJ.pdf
+[1]: http://www.jrj.io/ImmersiveTechJRJ.pptx
+[2]: http://www.jrj.io/ImmersiveTechJRJ.pdf
