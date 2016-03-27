@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Immersive Technologies Presentation by Joseph R. Jones"
-permalink: /labs/talks/ImmersiveTech-VR-AR/
+permalink: /labs/ImmersiveTech-VR-AR/
 breadcrumb: true
 header:
   image_fullwidth: postheads/ImmersiveTech-slide.jpg

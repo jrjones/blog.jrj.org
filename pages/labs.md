@@ -21,4 +21,4 @@ Also, there's [a recent talk I gave about Immersive Technologies][2].
 To be clear: jrjLabs is not a business, not a company, and will not be selling stuff. It's purely a place to share stuff (for free) that I'm working on.
 
 [1]: /labs/devsimulator/
-[2]: /labs/talks/ImmersiveTech-VR-AR/
+[2]: /labs/ImmersiveTech-VR-AR/
