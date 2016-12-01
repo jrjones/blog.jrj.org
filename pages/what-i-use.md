@@ -11,7 +11,7 @@ header:
   caption: "JRJ's Home Office, 2015"
 ---
 
-As the “resident geek advisor” to most of my friends and family, I get a lot of questions about what tools and tech I use and recommend. Inspired by [Paul Thurrott’s “What I Use” series](http://www.thurrott.com/tag/what-i-use), I decided to document everything I use on a daily basis in one handy place. (Current as of mid-February 2016.)
+As the “resident geek advisor” to most of my friends and family, I get a lot of questions about what tools and tech I use and recommend. Inspired by [Paul Thurrott’s “What I Use” series](http://www.thurrott.com/tag/what-i-use), I decided to document everything I use on a daily basis in one handy place. (Current as of late November 2016.)
 
 (Click on each section to expand.)
 
@@ -23,72 +23,90 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         
         <h2>Home Desktop: <em>Apple 27" iMac</em></h2>
         
-        <img src="/images/galleries/whatiuse/imac27.jpg" align="right" hspace="10" alt="Photo - iMac 27">
+        <img src="/images/galleries/whatiuse/imac27.jpg" align="right" hspace="10" alt="Photo - iMac 27" />
         
-        <p>My primary machine (named "Gustav") is a <a href="https://support.apple.com/kb/SP667?locale=en_US">27" iMac (mid-2012)</a> 3.4GHz Core i7 with 16GB of memory, a 128GB SSD for OS and applications, and a 1TB SSD for files. (The machine was originally a 3TB "Fusion Drive" but I replaced the hard drive with an SSD.) The iMac also has the optional 2GB graphics card (GeForce GTX 680MX) and an attached <a href="https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display">27" Thunderbolt display</a>.</p>
-        <p>The iMac (like all my Macs) is running Mac OS X 10.11 "El Capitan."</p>
+        <p>My (due for replacement) primary machine (named &quot;<a href="http://dilbert.com/strip/1995-06-22">Gustav</a>&quot;) is a <a href="https://support.apple.com/kb/SP667?locale=en_US">27" iMac (mid-2012)</a> 3.4GHz Core i7 with 16GB of memory, a 128GB SSD for OS and applications, and a 1TB SSD for files. (The machine was originally a 3TB "Fusion Drive" but I replaced the hard drive with an SSD.) The iMac also has the optional 2GB graphics card (GeForce GTX 680MX) and an attached <a href="https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display">27" Thunderbolt display</a>.</p>
+        <p>The iMac (like all my Macs) is running Mac OS X 10.12 "Sierra."</p>
         <p>The input devices I use on my main machine are a <a href="http://www.daskeyboard.com/daskeyboard-4-professional/">Das Keyboard 4 Professional</a> and an <a href="http://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2">Apple Magic Trackpad 2</a>. (I've fully transitioned from the mouse to all trackpads... not because I think they are better, but because I got tired of switching back and forth between desktop and laptop.)</p>
-        <p>The system's name is "<a href="http://dilbert.com/strip/1995-06-22">Gustav</a>."
+
+        <p>Current plan is to retire this machine in Q1-2017, and replace it with a docking station and monitor(s) for the PC laptop listed below.</p>
         
         <h2>Home Desktop: <em>Custom-Built Gaming/Development Machine</em></h2>
         
-        <a href="/images/galleries/whatiuse/gunter.jpg"><img src="/images/galleries/whatiuse/gunter_thumb.jpg" align="right" hspace="10" alt="Gaming rig photo - click for full size"></a>
-        <p>The newest addition (is a gaming and development rig (named "<a href="http://readyplayerone.wikia.com/wiki/Gunter">Gunter</a>") that I built in late 2015. This system has a Skylake Core i7 6700K with a mild overclock to 4.6GHz, 32 GB of DDR4 memory, and a <a href="http://www.intel.com/content/www/us/en/solid-state-drives/solid-state-drives-750-series.html">400GB Intel 750 PCIe SSD</a>. For graphics, it uses an Nvidia GeForce 980TI. (The CPU and GPU are independently water-cooled.) <a href="http://pcpartpicker.com/user/jrj102/saved/ZycnTW">The parts list can be found on PC Parts Picker.</a></p>
-        <p>The machine is connected to a <a href="http://www.monoprice.com/product?p_id=12156">Monoprice 28" 4K display</a> that handles full 4K resolution at 60fps.</p>
-        <p>The gaming/development rig is running the latest version of Windows 10 Professional (I've now transitioned completely to Windows 10, I no longer have any Windows 8 or 7 workstations or VMs.)</p>
-        <p>The input devices I use on the gaming/development machine are a <a href="http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow-chroma">Razer BlackWidow Chroma</a> keyboard and <a href="http://www.razerzone.com/gaming-mice/razer-mamba">Razer Mamba Tournament Edition</a> wired mouse. And, of course, its primary reason for existing, an <a href="https://www.oculus.com/en-us/dk2/">Oculus Rift DK2</a> (which will be replaced with a <a href="https://www.oculus.com/en-us/rift/">CV1</a> when my pre-order arrives at the end of March.)</p>
-
-        <h2>Work Laptop: <em>Apple 15" MacBook Pro Retina</em></h2>
-        <img src="/images/galleries/whatiuse/retina15.jpg" align="right" hspace="10" alt="Photo - MacBook Pro Retina 15">
-        <p>My main work machine is a <a href="http://www.apple.com/macbook-pro/">15" MacBook Pro Retina</a> (mid-2014) 2.5GHz Core i7 with 16GB of memory, a 720GB SSD, and an Nvidia GeForce GT 750M 2GB graphics card. When I'm in my office, it's connected to two 27" Thunderbolt displays.</p>
-        <p>The MBP runs Mac OS X 10.11 "El Capitan" and uses a <a href="http://www.daskeyboard.com/daskeyboard-4-professional-for-mac/">Das Keyboard 4 Professional (Mac)</a> and Magic Trackpad 2 for input.</p>
+        <a href="/images/galleries/whatiuse/gunter.jpg"><img src="/images/galleries/whatiuse/gunter_thumb.jpg" align="right" hspace="10" alt="Gaming rig photo - click for full size" /></a>
         
+        <p>My gaming and development rig (named "<a href="http://readyplayerone.wikia.com/wiki/Gunter">Gunter</a>") that I built in late 2015 lives in my basement "nerd cave/holodeck." This system has a Skylake Core i7 6700K with a mild overclock to 4.6GHz, 32 GB of DDR4 memory, and a <a href="http://www.intel.com/content/www/us/en/solid-state-drives/solid-state-drives-750-series.html">400GB Intel 750 PCIe SSD</a> for system and apps, and a generic 1TB SSD for data and games. For graphics, it uses an Nvidia GeForce 980Ti. (The CPU and GPU are independently water-cooled.) <a href="http://pcpartpicker.com/user/jrj102/saved/ZycnTW">The parts list of the original build can be found on PC Parts Picker.</a></p>
+        
+        <p>The machine is connected to a 43" Vizio 4K TV that does full 4K resolution at 60fps, and it all sits atop an Ikea sit/stand desk.</p>
+        
+        <p>The gaming/development rig is running the latest version of Windows 10 Professional (I've transitioned completely to Windows 10, I no longer have any Windows 8 or 7 workstations or VMs.)</p>
+        
+        <p>The input devices I use on the gaming/development machine are a <a href="http://www.razerzone.com/gaming-keyboards-keypads/razer-blackwidow-chroma">Razer BlackWidow Chroma</a> keyboard and <a href="http://www.razerzone.com/gaming-mice/razer-mamba">Razer Mamba Tournament Edition</a> wired mouse. And, of course, its primary reason for existing, an <a href="https://www.oculus.com/en-us/rift/">Oculus Rift CV1</a> and <a href="http://www.vive.com/us/">HTC Vive</a> with a 14x16 padded play area for room scale VR.</p>
+
+        <h2>Mac Laptop: <em>Apple 15" MacBook Pro Retina</em></h2>
+        <img src="/images/galleries/whatiuse/retina15.jpg" align="right" hspace="10" alt="Photo - MacBook Pro Retina 15">
+        
+        <p>My main work machine is a <a href="http://www.apple.com/macbook-pro/">15" MacBook Pro Retina</a> (mid-2014) 2.5GHz Core i7 with 16GB of memory, a 720GB SSD, and an Nvidia GeForce GT 750M 2GB graphics card. When I'm in my office, it's connected to two 27" Thunderbolt displays.</p>
+        
+        <p>The MBP runs Mac OS X 10.12 "Sierra" and uses a <a href="http://www.daskeyboard.com/daskeyboard-4-professional-for-mac/">Das Keyboard 4 Professional (Mac)</a> and Magic Trackpad 2 for input.</p>
+        
+        <h2> PC Laptop: <em>Razer Blade 14"</em></h2>
+        
+        <img src="/images/galleries/whatiuse/razerblade.png" align="right" hspace="10" alt="Photo - Razer Blade 2016 1060" width="180" />
+        
+        <p>My work PC laptop is a Razer Blade 14" with an Nvidia GTX 1060 and 3800x1800 QHD+ screen that I lovingly refer to as my "BlackBook Pro." I use this as a portable gaming and development rig, and for VR demos, and I highly recommend it. Great fit-and-finish, and a lot of power in a great form factor. It's uncanny how much this looks like a 2015-era 13 and 15 inch MacBook Pro got together and had a black anodized love child. </p>
+
         <h2>Home Hybrid Laptop: <em>Surface Pro 3</em></h2>
-        <img src="/images/galleries/whatiuse/surfacepro3.jpg" align="right" hspace="10" alt="Photo: Surface Pro 3">
-        <p>My main home laptop is a <a href="http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-3/productID.300190600">Microsoft Surface Pro 3</a> 1.9 GB Core i5 with 8GB of memory and a 256GB SSD. This machine serves three primary purposes: First, it sits in a docking station to act as a standing workstation in my home office. Second, it's used around the house when I want a mobile Windows PC. Finally, it's used occsionally for drawing and ink-based notes.</p>
+
+        <img src="/images/galleries/whatiuse/surfacepro3.jpg" align="right" hspace="10" alt="Photo: Surface Pro 3"/>
+
+        <p>My secondary home laptop is a <a href="http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-3/productID.300190600">Microsoft Surface Pro 3</a> 1.9 GB Core i5 with 8GB of memory and a 256GB SSD. This machine serves two primary purposes: First, it sits in a docking station to act as a standing workstation in my home office. Second, it's used occasionally for drawing and ink-based notes. (It's also the machine that I run Windows Insider preview builds on. Fast Ring FTW!)</p>
+
         <p>The Surface runs the latest version of Windows 10, and uses a <a href="https://www.microsoft.com/hardware/en-us/d/bluetooth-mobile-keyboard-6000">Microsoft Bluetooth Mobile Keyboard 6000</a> and previous-generation Apple Magic Trackpad for input when docked at the standing workstation, and a new <a href="https://www.microsoft.com/surface/en-us/accessories/surface-pro-4-type-cover-fingerprint">Surface Pro 4 keyboard with fingerprint reader</a> when mobile.</p>
         
         <h2>Home Server: <em>Custom-built Machine</em></h2>
+
         <p>My home server is a Custom-built rig that's getting very long in the tooth, and is due for replacement. It has a second-generation Core i7 2700 quad-core CPU, 16 GB of memory, and a 1TB SSD. It's running Windows Server 2012 Hyper-V. (I plan to replace the machine and upgrade to Windows Server 2016 some time next year.) This has several virtual servers running with various operating systems (including Windows and Ubuntu Linux.)</p>
    
         <h2>Home Server: <em>Synology DS-412+ NAS</em></h2>
-        <p>My storage needs are currently taken care of by a <a href="https://www.synology.com/en-global/">Synology NAS device</a> with a 3x4TB hard drive array and 128GB SSD cache. I'm really quite fond of this little device, which has been fantastic. I've had to replace a drive or two, but it always told me in advance. It's never lost data, and has been chugging along at a solid 3-nines (99.9%) uptime over the last 3+ years. I have no plans to replace it, but I am planning to upgrade to 6 or 8TB drives at some point. </p>
+
+        <p>My storage needs are currently taken care of by a <a href="https://www.synology.com/en-global/">Synology NAS device</a> with a 3x4TB hard drive array and 128GB SSD cache. I'm really quite fond of this little device, which has been fantastic. I've had to replace a drive or two, but it always told me in advance. It's never lost data, and has been chugging along at a solid 3-nines (99.9%) uptime over the last 3+ years. I have no plans to replace it, but I recently upgraded to 6TB drives, giving me some headroom. </p>
     </div>
   </li>
 
   <li class="accordion-navigation">
     <a href="#panelMobile">Mobile</a>
     <div id="panelMobile" class="content">
-        <p>Tablets and smartphones have become a huge part of our every-day computing reality. Outside my day-job, my iOS devices are used an order of magnitude more than my traditional computers, and fewer and fewer tasks are requiring me to go to a desktop or laptop.</p>
+        <p>Tablets and smartphones have become a huge part of our every-day computing reality. Outside my day-job, my iOS devices are used an order of magnitude more than my traditional computers, and fewer and fewer tasks are requiring me to go to a desktop or laptop.</p> 
         
-        <h2>Smartphone (Primary): <em>Apple iPhone 6 Plus</em></h2>
-        <p>My primary phone is a 128GB <a href="http://www.apple.com/shop/buy-iphone/iphone6">iPhone 6 Plus</a> (the 5.5 "Phablet") in "I refuse to call it Space" gray. Pleasantly surprised by the camera's capabilities, and I'm quite happy with the fingerprint reader. This device has exceeded my expectations; is it too big for one-handed use? Absolutely, but then again so is the 4.7" iPhone 6. However, the larger screen, better battery life, and optical image stabilization make it the best phone for my needs. So good, in fact, that i skipped the 6S Plus this year-- the first time I've skipped an iPhone generation in quite a while.</p>
+        <h2>Smartphone (Primary): <em>Apple iPhone 7 Plus </em> </h2>
+        <p>My primary phone is a 128GB iPhone 7 Plus (the 5.5 "Phablet") in black. Pleasantly surprised by the dual camera's capabilities, and I'm quite happy with the fingerprint reader. This device has exceeded my expectations; is it too big for one-handed use? Absolutely, but then again so is the 4.7" iPhone 6. However, the larger screen, better battery life, and awesome camera make it the best phone for my needs. </p>
         
-        <h2>Smartphone (Secondary/Development): <em>Samsung Galaxy S6</em></h2>
-        <p>My secondary phone is a <a href="http://www.samsung.com/us/explore/galaxy-s-6-features-and-specs/?cid=ppc-">Galaxy S6</a>, which is used primarily for development/testing (and virtual reality via a <a href="http://www.samsung.com/us/explore/gear-vr/?cid=ppc-">Samsung Gear VR</a>) has been great. I've been frustrated by the slow dribble of software updates and lack of a removable battery, but the performance and camera are truly top notch. In general, I would recommend most users skip this device in favor of a Google Nexus device unless VR is important to you.</p>
+        <h2>Smartphone (Secondary/Development): <em>Samsung Galaxy S7 Edge</em></h2>
+        <p>My secondary phone is a Samsung Galaxy S7 Edge, which is used primarily for development/testing (and virtual reality via a <a href="http://www.samsung.com/us/explore/gear-vr/?cid=ppc-">Samsung Gear VR</a>) has been great. I've been frustrated by the slow dribble of software updates and lack of a removable battery, but the performance and camera are truly top notch, and the SD card slot is a huge benefit for a VR device. I've been meaning to pick up a Google Pixel phone, but haven't had a chance yet.</p>
         
-        <h2>Tablet (Primary): <em>Apple iPad Pro</em></h2>
-        <p>My main tablet is a 128GB <a href="http://www.apple.com/ipad-pro/">iPad Pro</a> (WiFi) in "I refuse to call it Space" gray. I just got the device, so I haven't formed much of an opinion other than the screen is gorgeous, it's huge, and it's crazy fast for a tablet. Time permitting, I'll post my thoughts on the blog after using it for a week or two. I bought the logitech keyboard for it (which I prefer to the Apple unit for both keyboard feel and illumination) and I finally received a backordered pencil after a couple weeks.</p>
+        <h2>Tablet (Primary): <em>Apple iPad Pro (12.9")</em></h2>
+        <p>My main tablet is a 128GB <a href="http://www.apple.com/ipad-pro/">iPad Pro</a> (WiFi) in "I refuse to call it Space" gray. The screen is gorgeous, it's huge, and it's crazy fast for a tablet. I have the Pencil (great) and keyboard (meh) as well.</p>
         
-        <h2>Tablet (Secondary): <em>Apple iPad Mini Retina II</em></h2>
-        <p>My secondary tablet is a couple-generations-old <a href="http://www.apple.com/shop/buy-ipad/ipad-mini-2">iPad Mini Retina 2</a> It's served me well, but it's starting to feel really slow. However, it's still the device I reach for when I want to read or watch a quick video since the 13" pro is a bit big and bulky for certain scenarios. Interestingly, this device is not configured with access to my work email or certain other accounts so I can leave it passcode-free since it lacks TouchID and never leaves the house anymore.</p>
+        <h2>Tablet (Secondary): <em>Apple iPad Pro (9.7")</em></h2>
+        <p>My secondary tablet is a an iPad Pro as well, but the 9.7" variant with only 32GB. Nice when I want something smaller than the 12.9, and useful for me to have dual devices for testing beta OS versions and the like. I kinda wish I had gotten more storage, though-- I didn't expect to use this as much as I do. You'd be surprised how useful it is to use two tablets at once, given the limited multitasking capabilties inherent to the platform.</p>
         
-        <h2>E-Reader: <em>Amazon Kindle Paperwhite</em></h2>
-        <p>I read a lot (in 2011, I read over 100 books… a record I’ve not come close to since.) Much of this is on my beloved (previous generation) Kindle Paperwhite, which replaced an old Kindle Touch. I love this reader– it’s a fantastic device. However, it’s a bit beat up, and is due for replacement this year, I’m probably going to end up with a Voyager.</p>
+        <h2>E-Reader: <em>Amazon Kindle Oasis</em></h2>
+        <p>I read a lot (in 2011, I read over 100 books… a record I’ve not come close to since.) Much of this is on my beloved Kindle Oasis, which replaced an old Kindle Paperwhite. I love this reader– it's insanely compact and light, and the battery life is truly exceptional.</p>
     </div>
   </li>
 
   <li class="accordion-navigation">
     <a href="#panelSoftware">Software</a>
     <div id="panelSoftware" class="content">
-        <h2>Primary OS: <em>Mac OS X 10.11 "El Capitan"</em></h2>
-        <p>All of my Macs are running 10.11, and I consider it my "primary" operating system despite the fact that I use both Mac and PC machines on a daily basis. This has been the case since around 2004 (and through most of the late 80s and early 90s.) The main thing that keeps me coming back to Mac OS X is the fantastic hardware, Unix command line, and general lack of malware (though I continue to assert the latter is due more to being a smaller target than being inherently more secure.) Regardless, it's what I use for probably 70% of my desktop/laptop computing.</p> 
+        <h2>Primary OS: <em>Mac OS X 10.12 "Sierra"</em></h2>
+        <p>All of my Macs are running 10.12, and I consider it my "primary" operating system despite the fact that I use both Mac and PC machines on a daily basis. This has been the case since around 2004 (and through most of the late 80s and early 90s) but that might just change in 2017. The main thing that keeps me coming back to Mac OS X is the fantastic hardware, Unix command line, and general lack of malware (though I continue to assert the latter is due more to being a smaller target than being inherently more secure.) Regardless, it's what I use for probably 70% of my desktop/laptop computing... for now.</p> 
         
         <h2>Secondary OS: <em>Windows 10 Professional and Enterprise</em></h2>
-        <p>I have a personal gaming/development workstation and personal hybrid laptop that run Windows 10 Professional, and several work-related virtual machines running Windows 10 Enterprise (one of which is running all day when working.) I mostly skipped Windows 8, but I prefer Windows 10 (when configured to my preferences) to Windows 7.</p>
+        <p>I have a personal gaming/development workstation and two laptops that run Windows 10 Professional, and several work-related virtual machines running Windows 10 Enterprise (one of which is running all day when working.) I mostly skipped Windows 8, but I prefer Windows 10 (when configured to my preferences) to Windows 7.</p>
         
         <h2>Server OS: <em>Windows Server 2012 Hyper-V</em></h2>
-        <p>I have a Windows Hyper-V box running in the basement that handles a number of workloads, including some home and system automation tasks, development server, etc. The (production) VMs are all either Windows Server 2012 or Ubuntu Server 12, but there are test machines running other operating systems (I'm planning to migrate to Windows Server 2016 and Ubuntu 14 or 15 at some point in 2016.)</p>
+        <p>I have a Windows Hyper-V box running in the basement that handles a number of workloads, including some home and system automation tasks, development server, etc. The (production) VMs are all either Windows Server 2012 or Ubuntu Server 12, but there are test machines running other operating systems (I'm planning to migrate to Windows Server 2016 and Ubuntu 14 or 15 at some point in 2017.)</p>
         
         <h2>Virtualization: <em>VMWare Workstation Pro 12 and VMWare Fusion 8 Pro</em></h2>
         <p>I use <a href="https://www.vmware.com/products/fusion-pro/features">VMWare Fusion 8 Pro</a> on the Mac, and <a href="http://www.vmware.com/products/workstation/features">VMWare Workstatin Pro 12</a> on the PC to run virtual machines for everyday productivity, secure browsing, and testing.</p>  
@@ -104,11 +122,11 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         <p>For notes, I use a combination of tools. <a href="https://www.onenote.com"> Microsoft OneNote</a> is my personal wiki, and where I take meeting notes and develop ideas on Mac, Windows, and mobile. Quick throw-away notes (hotel room numbers, where I’m parked, etc.) live in <a href="http://evernote.com">Evernote</a>, which I also use for archived articles. I use <a href="http://dayoneapp.com">DayOne</a> as a Daily Record of Events (DRE) and personal/professional journal. (My strong preference is <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a>, but it's fallen hopelessly out of repair-- I'm hoping Brett makes good on his promise to release a commercial version-- shut up and take my money, Terpstra!)</p>
 
         <h2>Creative Tools</h2>
-        <p>I have a <a href="http://creative.adobe.com">Creative Cloud subscription</a> for free as an Adobe employee, I find that I use Photoshop, Illustrator, and Dreamweaver most frequently, followed distantly by Premier and AfterEffects. I also use Acrobat Document Cloud a lot.</p>
+        <p>I have a <a href="http://creative.adobe.com">Creative Cloud subscription</a> for free as an Adobe employee, I find that I use Photoshop and Illustrator most frequently, followed distantly by Premier and AfterEffects. I also use Acrobat Document Cloud a lot.</p>
         
         <h2>Browsers</h2>
-        <p>Many people are surprised to learn that <a href="http://www.apple.com/safari/">Apple’s Safari</a> is my daily driver on the Mac, and the browser I use the most. This is primarily because using Safari drastically improves battery use, and it’s convenient to have bookmarks synced with my iOS devices. Also, I tend to upgrade to new versions of Mac OS X quickly, and Chrome doesn’t do a great job of resolving issues pre-launch.</p>
-        <p>On Windows I use <a href="https://chrome.google.com">Google Chrome</a> most of the time, but it’s bloated and getting worse every day. There are situations where I use <a href="https://mozilla.org">Firefox</a> (examples: some internal tools, and situations where privacy matters more to me than convenience or productivity. More on that under “Security.”) I’m interested in <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge (AKA "Project Spartan")</a> on Windows 10, but it needs to mature a bit. It may wind up becoming my default on Windows once it supports extensions.</p>
+        <p>Many people are surprised to learn that <a href="http://www.apple.com/safari/">Apple’s Safari</a> is my daily driver on the Mac, and the browser I wind up using the most. This is primarily because using Safari drastically improves battery use, and it’s convenient to have bookmarks synced with my iOS devices. Also, I tend to upgrade to new versions of Mac OS X quickly, and Chrome doesn’t do a great job of resolving issues pre-launch.</p>
+        <p>On Windows I use <a href="https://chrome.google.com">Google Chrome</a> most of the time, but it’s bloated and getting worse every day. There are situations where I use <a href="https://mozilla.org">Firefox</a> (examples: some internal tools, and situations where privacy matters more to me than convenience or productivity. More on that under “Security.”) I’m interested in <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Edge (AKA "Project Spartan")</a> on Windows 10, but it needs to mature a bit. It may wind up becoming my default on Windows eventually now that it supports extensions.</p>
         
         <h2>Tools and Utilities</h2>
         <p>While I try to keep my Mac and Windows machines relatively stock because I use so many different computers, there are a number of neat little software utilities I have come to rely on.</p>
@@ -239,7 +257,7 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         
         <h2>Books: <em>Amazon Kindle and Audible</em></h2>
         <p>I buy e-books pretty much exclusively from Amazon's Kindle store (which I consume primarily on a Kindle, occasionally on an phone or tablet.)</p>
-        <p>I buy audiobooks exclusively from Audible.com, which I absolutely love. I have around 600 audiobooks in my library, and have been a subscriber for 15 years now.</p>
+        <p>I buy audiobooks exclusively from Audible.com, which I absolutely love. I have over 600 audiobooks in my library, and have been a subscriber for 15 years now.</p>
         
         <h2>Podcasts</h2>
         <p>I love podcasts. My podcast player of choice is Overcast-- a great app with a thoughtful (read: opinionated) minimalist design, and meaningful differentation in terms of audio quality and features.</p>
@@ -250,6 +268,7 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
             <li>Accidental Tech Podcast</li>
             <li>Voices of VR</li>
             <li>Planet Money</li>
+            <li>FiveThirtyEight Podcast</li>
         </ul>
         <p>Then there are "occasional" podcasts that I subscribe to, and listen to selectively based on time and interest in the topics covered in the show notes:</p>
         <ul>
@@ -261,7 +280,6 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
             <li>Back To Work</li>
             <li>EconTalk</li>
             <li>Fix It Home Improvement</li>
-            <li>The Ihnatko Almanac</li>
             <li>The Talk Show</li>
             <li>Mac Power Users</li>
             <li>The Random Show</li>
@@ -285,24 +303,29 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         <p>I am no longer a developer by trade, but I still try to keep my skills (reasonably) sharp. Software development is a tool-heavy hobby, and here’s what’s in my toolbox:</p>
         
         <h2>Programming Languages</h2>
-        <p>My favorite language is C# - it’s the one that I enjoy most, and best fits my own aesthetic and architectural sensibilities. However, I don’ really get a chance to write C# code anymore. I used C# for the first time in 2000, and promised on that day I would never write another line of C or C++, a promise I have thus far managed to keep. (However, still frequently need to read or perform static and dynamic analysis of C/C++ code.)</p>
-        <p>I’m currently ramping up on Swift, which I’m really impressed by so far. I wrote some Objective C back in college, and a couple more recent small iOS projects. I’m very pleased to see Objective C have a modern successor, and am pretty much just waiting for an interesting project to catch my eye to force me to learn it in earnest.</p>
-        <p>I’ve written more JavaScript in my time than I would like to admit. Tens, probably hundreds of thousands of lines of JavaScript. My shrink and I are still working through the PTSD caused by writing so much JavaScript. I haven’t really had much need to play around with any of the JS frameworks (like Node, Angular, etc.) but I’m really quite enamored with jQuery, which makes DOM manipulation ridiculously easy.</p>
-        <p>Historically, I’ve worked with a number of languages. Some I really enjoyed (ColdFusion, Perl, Ruby) and some were torture (Z-80 Assembler, Cobol.) I’ve had to do a little PHP to keep my WordPress install humming along, but I do not consider myself even moderately proficient.</p>
+        <p>My favorite language is C# - it’s the one that I enjoy most, and best fits my own aesthetic and architectural sensibilities. However, I don’t really get a chance to write much C# code anymore. I used C# for the first time in 2000, and promised on that day I would never write another line of C or C++, a promise I have thus far managed to keep. (However, still frequently need to read or perform static and dynamic analysis of C/C++ code.) One of the nice benefits of working with VR and AR for over the last year + is that I've had a chance to play around with C# again.</p>
+
+        <p>I’m currently ramping up on Swift, which I’m really impressed by so far. I wrote some Objective C back in college, and a couple more recent small iOS projects and am not a fan, so I’m very pleased to see Objective C have a modern successor; I'm pretty much just waiting for an interesting project to catch my eye to force me to learn it in earnest.</p>
+
+        <p>I’ve written more JavaScript in my time than I would like to admit. Hundreds of thousands of lines of JavaScript. My shrink and I are still working through the PTSD caused by writing so much JavaScript. I haven’t really had much need to play around with any of the JS frameworks (like Node, Angular, etc.) but I’m really quite enamored with jQuery, which makes DOM manipulation ridiculously easy.</p>
+
+        <p>Historically, I’ve worked with a number of languages. Some I really enjoyed (ColdFusion, Perl, Ruby) and some were torture (Z-80 Assembler, Cobol.) And, of course, pre-2000 I spent a lot of time sweating over C/C++ code. I had to do a little PHP to keep my (now retired) WordPress install humming along, but I do not consider myself even moderately proficient.</p>
         
         <h2>IDE: <em>VisualStudio</em></h2>
         <p>My favorite IDE, by a wide margin, is Visual Studio (I’m currently using 2015 Ultimate.) It’s an incredibly powerful tool, and one that is an absolute joy to use.</p>
+
         <p>I occasionally use Xcode, which is pretty damn good. It’s not quite up to VisualStudio standards, but it’s dramatically better than any other tool I’ve used.</p>
+        
         <p>I have, on occasion, been forced against my will to use Eclipse. Those occasions filled me with sadness and frustration.</p>
 
         <h2>Game Engine: <em>Unity 5</em></h2>
-        <p>I've been playing around quite a bit with virtual reality of late, and I've been really impressed by Unity 5. It's incredibly polished and mature. If I were working on large-scale projects with more than a handfull of collaborators I'd probably need to move to Unreal, but as an individual or for 2-3 person projects, it's tough to beat Unity.</p>
+        <p>I've been working in virtual reality and augmented reality for a while now, and I've been really impressed by Unity 5. It's incredibly polished and mature. If I were working on large-scale projects with more than a handfull of collaborators I'd probably consider moving to Unreal, but as an individual or for 2-5 person projects, it's tough to beat Unity.</p>
         
         <h2>Text Editor: <em>VisualStudio Code</em></h2>
         <p>When not in an IDE, my text editor of choice is VisualStudio Code. (I'm a recent convert from SublimeText, which I still use occsaionally. I also still find myself dipping into BBEdit from time to time.) In case you're wondering, the answer is Vi. Emacs is for communists. I'd rather use Pico than Emacs.</p>
         
         <h2>Source Control: <em>Git</em></h2>
-        <p>For source control, I use Git exclusively for personal projects (and am occasionally forced to use Perforce against my will at work. Obeyed under protest.) For public projects, that means GitHub, and for personal projects that aren't open source, I'm using Git-flavored Visual Studio Team Services. I usually use either the command-line Git or the built-in integration in VisualStudio and/or VisualStudio Code.</p>
+        <p>For source control, I use Git exclusively for personal projects (and am occasionally forced to use Perforce against my will at work, obeyed under protest.) For public projects, that means GitHub, and for personal projects that aren't open source, I'm using Git-flavored Visual Studio Team Services and a local git server on my NAS. I usually use either the command-line Git or the built-in integration in VisualStudio and/or VisualStudio Code.</p>
         
 
     </div>
@@ -311,13 +334,13 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
   <li class="accordion-navigation">
     <a href="#panelPoker">Poker</a>
     <div id="panelPoker" class="content">
-        <p>While at one time I was a semi-professional poker player (I earned about 60% of my income from the game before Microsoft) now I’m just a passionate hobbyist. Still, though, I take the game seriously, and leverage several tools to improve my game.</p>
+        <p>While at one time I was a semi-professional poker player (I earned about 60% of my income from the game before Microsoft ate all my mental bandwidth and online poker legality shifted in Washington state) now I’m just a passionate hobbyist. Still, though, I take the game seriously, and leverage several tools to improve my game.</p>
         
-        <h2>Online Poker Room: <em>Bovada</em></h2>
-        <p>Bovada has the worst software, disallows most helper tools, and has other policies that discourage serious players. As a result, the players here are attrocious-- much worse than players at the same level on other sites.</p>
+        <h2>Online Poker Room: <em>Ignition</em></h2>
+        <p>Ignition (formerly Bovada) has the worst software, disallows most helper tools, and has other policies that discourage serious players. As a result, the players here are attrocious-- much worse than players at the same level on other sites. Hence, this is where I play. :)</p>
         
         <h2>Hand History Review: <em>PokerTracker</em></h2>
-        I do post-session analysis in PokerTracker even though it requires some massaging to get the hand histories in from Bovada. It's worth it-- the tool provides excellent hand analysis and statistical analysis tools. A must have for any serious player. I don't use a HUD because Bovada discourages it and because I play more offline than online, so I don't want to become dependent on it.</p>
+        I do post-session analysis in PokerTracker even though it requires some massaging to get the hand histories in from Ignition. It's worth it-- the tool provides excellent hand analysis and statistical analysis tools. A must have for any serious player. I don't use a HUD because Ignition discourages it and because I play more offline than online, so I don't want to become dependent on it.</p>
     </div>
   </li>
 
@@ -329,17 +352,19 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         <h2>Password Management: <em>1Password</em></h2>
         <p>I use 1Password by AgileBits to generate secure passwords and keep track of them.</p>
         <p>To friends and family who ask, my recommendation varies by the user’s primary platform of choice. For Windows/Android users, I recommend LastPass, and for Mac/iOS users I recommend 1Password. Both 1Password and LastPass are available for all major mainstream platforms, but Mac users will be happier with 1P (even if they use Windows and/or Android on occasion like me) and Windows users will be happier with LastPass (even if they occasionally dip their toes in the Apple ecosystem.)</p>
-        <p>The other option here is Dashlane, which I mention because they seem to be very well funded, and have a neat password rotation feature. However, I have not yet had a chance to review their security architecture in depth, so I cannot recommend them yet.</p>
         
         <h2>Whole Disk Encryption: <em>BitLocker and FileVault</em></h2>
         <p>I strongly recommend the use of whole disk encryption technology for laptop and desktop computers. This will encrypt the entire contents of your drive with a key derived from your password so that if your hard drive falls into the wrong hands it is computationally infeasible to extract any of its contents.</p>
+
         <p>On Mac OS X, I use FileVault (though I only recommend this for Mac OS X version 10.6 and newer.) On Windows, I recommend BitLocker. Both are great technology, completely transparent to the user.</p>
-        <p>There are other solutions, but none are as reliable and transparent as FileVault/Bitlocker. Unless your adversary is governmental (and even then, unless you are a MAJOR target) these will do their jobs.</p>
-        <p>Both have options for backing up your decryption key to the cloud. In general, I recommend against doing this. You should back up your data so that if you find yourself unable to decrypt the drive you can simply restore from backup. Handing over your decryption keys to Apple or Microsoft to some extent defeats the purpose of encrypting your drive, and drastically reduces the security of the overall solution.</p>
+
+        <p>There are other solutions, but none are as reliable and transparent as FileVault/Bitlocker. Unless your adversary list includes nationstate actors (and even then, unless you are a MAJOR target) these will do their jobs.</p>
+        
+        <p>Both have options for backing up your decryption key to the cloud. In general, I recommend against doing this. You should back up your data so that if you find yourself unable to decrypt the drive you can simply restore from backup. Handing over your decryption keys to Apple or Microsoft to some extent defeats the purpose of encrypting your drive, and drastically reduces the security of the overall solution. There is nobody I trust to keep encryption keys safe in the cloud, sorry.</p>
         
         <h2>Anti-Malware</h2>
-        <p>I use Windows Defender on Windows 8/10, and Windows Security Essentials on Windows 7. It’s free, updates through Windows Update, and has minimal impact on system performance and resource utilization. In my experience, Microsoft does a good enough job of discovering threats. The default configuration is fine for most users (myself included.) Is it the best? Nope... however, it's free and low-impact, and at the risk of pissing a lot of people off, anti-malware just isn't that important, especially for more advanced users.</p>
-        <p>On Mac OS X, I am reluctantly starting to use anti-malware tools, at least on work machines. Currently, I’m using McAffee. I’m not thrilled with it, but I haven’t found anything I like better yet. At some point, I will discuss the configuration options I have selected to strike a balance between performance and security.</p>
+        <p>I use Windows Defender on Windows 8/10, and Windows Security Essentials on Windows 7. It’s free, updates through Windows Update, and has minimal impact on system performance and resource utilization. In my experience, Microsoft does a good enough job of discovering threats. The default configuration is fine for most users (myself included.) Is it the best? Nope, not even close... however, it's free and low-impact, and at the risk of pissing a lot of people off, <em>anti-malware just isn't that important</em>, especially for more advanced users.</p><p>I use McAfee on my work PCs to stay compliant with corporate IT standards, but I don't recommend it.</p>
+        <p>On Mac OS X, I am reluctantly starting to use anti-malware tools, at least on work machines. Currently, I’m using McAfee. I’m not thrilled with it, but I haven’t found anything I like better yet. At some point, I will discuss the configuration options I have selected to strike a balance between performance and security.</p>
         <p>I have previously recommended against anti-malware tools for Mac users— not because the Mac is inherently more secure, but because it was less of a target. That’s changing, and you can’t ignore the threat any more. Welcome to the world Windows users have inhabited for the last couple decades, Mac users.</p>
         
         <h2>File and Directory Encryption</h2>
@@ -362,6 +387,4 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         <p>This is listed mostly as a place-holder. I was a long-time user of SafeMonk, which allowed me to encrypt a dropbox subdirectory on the client-side so Dropbox didn't hold the keys. Unfortunately, they went away and I haven't yet had time to vet alternatives.</p>
     </div>
   </li>
-
-
 </ul>
