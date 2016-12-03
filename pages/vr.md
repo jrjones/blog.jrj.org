@@ -8,8 +8,7 @@ header:
    caption: "JRJ's 2015 trip to Florence, Italy"
 ---
 
-<p>2016 is the year we get to find out whether or not Virtual Reality is going to be a thing. Personally, I believe it will be a successful niche in 2016, reaching mainstream adoption within the decade. </p>
-<p>Most of my discussion will be about VR, but I'll also occasionally talk about related immersive technologies like Augmented Reality (AR.)</p>
+<p>2016 was the year the new generation of Virtual Reality headsets launched for consumers. Personally, I believe Immersive Technologies like VR and Augmented Reality/Mixed Realitty will be a successful niche in 2017 and 2018, reaching mainstream adoption within the decade. </p>
 
 <h3>Projects and Presentations</h3>
 <ul>
