@@ -9,7 +9,12 @@ header:
   caption: "JRJ circa 2013"
 ---
 
-My name is Joseph R. Jones (AKA “JRJ”) and I’m a **Principal Product Manager** working in [**Adobe’s Primetime Video**](http://www.adobe.com/solutions/primetime.html) team where I'm responsible for **Security** (cryptography, incident and vulnerability management, compliance and audits, etc.) and some new **Video Compression Technologies**. Most recently, I've had the oportunity to explore Immersive Technologies including **Virtual Reality** and **Augmented Reality**.
+My name is Joseph R. Jones (AKA “JRJ”) and I’m the Chief Technology Officer at 
+[Virtual Neural, LLC](https://virtualneural.net), a stealth-mode startup that's 
+exploring the intersection between spatial computing (VR/AR/MR) and Artificial
+Intelligence. 
+
+Before Virtual Neural, I was the **Group Product Manager** for the Adobe Experience PLatform Identity Service. Before that, I was on the [**Adobe Primetime Video**](http://www.adobe.com/solutions/primetime.html) team. 
 
 I live with my wife **Rachel** and my dog Loki in Pleasant Grove, UT (I was raised in Scottsdale, Arizona, and spent most of my adult life in Seattle.)
 
@@ -23,4 +28,4 @@ I post infrequently, typically a couple times a month. To be sure to receive the
 * [Frequently Asked Questions (FAQ)](/about/faq/)
 * [Photos](/about/photos/)
 * [Connect with JRJ](/connect/)
-* [Site design and implementation](/about/colophon/)
+* [Site design and implementation](/about/colophon/) 
