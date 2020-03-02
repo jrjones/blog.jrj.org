@@ -23,8 +23,8 @@ description: "The personal blog of Joseph R. Jones, with an emphasis on security
 author: jrj
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'http://origin.jrj.org'
+# NOTE: This used to be origin.jrj.org, so will need to maintain that CNAME
+url: 'http://blog.jrj.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
