@@ -32,7 +32,7 @@ header:
   <li class="accordion-navigation">
     <a href="#panel3a">Why Utah/Utah County?</a>
     <div id="panel3a" class="content">
-        I started at Adobe in 2010. A few years ago, my wife Rachel wanted to be closer to her family in Colorado for various reasons, so we relocated near Adobe's Lehi office. (Adobe has offices in San Francisco, San Jose, Lehi, and New York, as well as several international offices. Lehi was the closest.) We've enjoyed the access to outdoors/nature that Utah provides, as well as the central location that's a short drive to a number of places we like to visit (Colorado, Arizona, Vegas, etc.) 
+        I started at Adobe in 2010. A few years ago, my wife Rachel wanted to be closer to her family in Colorado for various reasons, so we relocated near Adobe's Lehi office. (Adobe has offices in San Francisco, San Jose, Lehi, and New York, as well as several international offices. Lehi was the closest.) We've enjoyed the access to outdoors/nature that Utah provides, as well as the central location that's a short drive to a number of places we like to visit (Colorado, Arizona, Vegas, etc.) For these reasons, we decided to stay when I started [Virtual Neural](https://virtualneural.net).
     </div>
   </li>
   <li class="accordion-navigation">

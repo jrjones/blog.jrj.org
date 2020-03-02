@@ -9,8 +9,8 @@ header:
   caption: "JRJ circa 2013"
 ---
 
-My name is Joseph R. Jones (AKA “JRJ”) and I’m the Chief Technology Officer at 
-[Virtual Neural, LLC](https://virtualneural.net), a stealth-mode startup that's 
+My name is Joseph R. Jones (AKA “JRJ”) and I’m the **Chief Technology Officer at 
+[Virtual Neural, LLC](https://virtualneural.net)**, a stealth-mode startup that's 
 exploring the intersection between spatial computing (VR/AR/MR) and Artificial
 Intelligence. 
 

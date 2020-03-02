@@ -7,7 +7,6 @@ header:
   caption: "View from JRJ's back yard in the spring"
 ---
 
-You can find my PGP Public Key and other secure contact information at <a href="https://secure.jrj.org">https://secure.jrj.org</a>
 For convenience, you can find my social media profiles at the following shortcut URLs:
 <ul style="font-size: 2em; list-style: none;" >
  <li class="icon-facebook">&nbsp;<a href="http://facebook.jrj.org">Facebook</a></li>
