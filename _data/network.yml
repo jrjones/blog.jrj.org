@@ -5,7 +5,7 @@
   class: "network"
   title: "jrj.io - xfer and short-links"
 
-- name: "secure.jrj.org"
-  url: "https://secure.jrj.org/"
+- name: "Virtual Neural, LLC"
+  url: "https://virtualneural.net/"
   class: "network"
-  title: "secure.jrj.org - TLS/SSL resources"
+  title: "Virtual Neural - my company"
