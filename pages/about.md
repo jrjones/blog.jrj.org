@@ -14,7 +14,7 @@ My name is Joseph R. Jones (AKA “JRJ”) and I’m the **Chief Technology Offi
 exploring the intersection between spatial computing (VR/AR/MR) and Artificial
 Intelligence. 
 
-Before Virtual Neural, I was the **Group Product Manager** for the Adobe Experience PLatform Identity Service. Before that, I was on the [**Adobe Primetime Video**](http://www.adobe.com/solutions/primetime.html) team. 
+Before Virtual Neural, I was the **Group Product Manager** for the Adobe Experience Platform Identity Service. Before that, I was on the [**Adobe Primetime Video**](http://www.adobe.com/solutions/primetime.html) team. 
 
 I live with my wife **Rachel** and my dog Loki in Pleasant Grove, UT (I was raised in Scottsdale, Arizona, and spent most of my adult life in Seattle.)
 
