@@ -11,7 +11,7 @@ header:
   caption: "JRJ's Home Office, 2015"
 ---
 
-As the “resident geek advisor” to most of my friends and family, I get a lot of questions about what tools and tech I use and recommend. Inspired by [Paul Thurrott’s “What I Use” series](http://www.thurrott.com/tag/what-i-use), I decided to document everything I use on a daily basis in one handy place. (Current as of late November 2016.)
+As the “resident geek advisor” to most of my friends and family, I get a lot of questions about what tools and tech I use and recommend. Inspired by [Paul Thurrott’s “What I Use” series](http://www.thurrott.com/tag/what-i-use), I decided to document everything I use on a daily basis in one handy place. (Current as of late March 2020.)
 
 (Click on each section to expand.)
 
@@ -153,10 +153,10 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         
         <h2>TV: <em>Vizio M Series</em></h2>
         <p>I did a lot of research before buying a TV, and wound up settling on the Vizio M series because I wanted the active LED backlight zones. There are slightly better TVs for two or three times more money, but there wasn’t anything that approached the picture quality of the Vizio M anywhere near the same price point. Given the layout of our living room, we went with 55” and I’m extremely happy with the purchase.</p>
-        <p>Why not 4K? Mainly because there’s no content yet. By the time content starts showing up it will be time for me to buy a new TV. Also, given screen size vs. the distance we sit from the set, we would not see a material improvement moving to 4K. 4K just doesn’t survive cost/benefit analysis… yet. Indeed, I doubt I will be interested in the first generation of 4K content unless it’s very high bitrate.</p>
+        <p>Why not 4K? Mainly because when I bought there was no content yet. Also, given screen size vs. the distance we sit from the set, we would not see a material improvement moving to 4K. (I do have a 4K TV in my office, but it's larger (65" instead of 55") and I often view it from a closer distance than in the living room.</p>
         <p>I do not use any of the Smart TV features. Indeed, I strongly prefer to have this kind of functionality in a separate box which can be replaced and upgraded far more frequently than the TV itself. I think Smart TVs are dumb, but it’s getting hard to buy a decent TV that doesn’t have this functionality. At least it’s easy to ignore.</p>
         <p>Downstairs in the basement, we have a 40” Samsung hooked up to the Xbox, and with a Vizeo soundbar. It gets used for gaming and playing music while we play billiards.</p>
-        <p>In my home office I have a Sony 4K HDR TV that is hooked up to a Comcast X1 box and an Apple TV.</p>
+        <p>In my home office I have a Sony 4K HDR TV that is hooked up to a Comcast X1 box and an Apple TV. It's definitely the best TV in the house... at some point I plan to buy an 4K OLED for the living room, I just haven't gotten around to it yet.</p>
         
         <h2>Home Theater Sound: <em>Bose Acoustamass 15</em></h2>
         <p>When we moved into the house, the previous owner had left a set of Bose Acoustimass 15 speakers hooked up in the living room (left/right, center, surround, and subwoofer.) I haven’t gotten around to replacing them because they sound fine. They are *definitely* not what I would choose if I was spending my own money, but I’m not in a big hurry to replace them. They are hooked up to a Sony STR-DH740 receiver, which is capable of 7.2 surround and 4K, so I won't have to replace it any time soon.</p>
@@ -172,7 +172,7 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         <p>The <a href="http://www.logitech.com/en-us/product/harmony-ultimate-one?crid=60">Logitech Harmony</a> universal remote control acts as the center of my home entertainment world. It controls not only the TV and associated consumer electronics, but lighting and other home automation stuff as well. Its best feature by far is the fact that it’s radio rather than infrared, so all of my gear can be behind a door and I don’t have to think about pointing it in any specific direction (or keeping it pointed as multi-step macros are executed.) Example: hitting “ Watch TV” on the remote turns on the TV, cable box, and receiver. It then sets the proper inputs, dims the lights in the living room slightly, and washes the wall behind the TV with blue light. I love this thing.</p>
         
         <h2>Phillips Hue</h2>
-        <p>I have a bunch (more than a dozen) <a href="http://www2.meethue.com/en-us/">Philips Hue</a> bulbs (and a few LED strips.) All of the living room and most of my home office lights are Hue, and I use the LED strips for accent lighting in the living room. I haven’t tried the Hue Lux bulbs yet, but their lower price might prompt me to expand their use beyond the living room and home office. They are controlled by my phone or the Harmony remote.</p>
+        <p>I have a bunch (more than 50) <a href="http://www2.meethue.com/en-us/">Philips Hue</a> bulbs (and a few LED strips.) All of the living room and most of my home office lights are Hue, and I use the LED strips for accent lighting in the living room. I haven’t tried the Hue Lux bulbs yet, but their lower price might prompt me to expand their use beyond the living room and home office. They are controlled by my phone or the Harmony remote.</p>
 
         <h2>Belkin WeMo</h2>
         <p>I use <a href="http://www.wemo.com">Belkin WeMo</a> switches for outdoor lighting (comes on at dusk, turns off at dawn, porch light can be turned off from the universal remote, etc.) WeMo makes sense to me for places where Hue isn’t applicable. However, I'm looking for a replacement, as I've been disappointed with the lack of third party integration and occasional flakiness.</p>
@@ -181,8 +181,7 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         <p>I have two <a href="http://nest.com">Nest Thermostats</a> (one upstairs, one downstairs, each controlling separate furnace/AC systems.) I also have a few <a href="https://nest.com/smoke-co-alarm/meet-nest-protect/">"Protect" fire/CO2 detectors</a>. These have been great, but since I bought solutions have shown up that are 80% as good at less than 50% of the price (and Nest was acquired by Google) so I'm not sure i'd make the same choice today.
 
         <h2>IFTTT (If This, Then That)</h2>
-        <p><a href="https://ifttt.com">IFTTT</a> is a great service that ties together software, services, and home automation. It’s great for simple recipes (when I get a Facebook comment there’s a brief flash of blue light in my home office.)</p>
-        
+        <p><a href="https://ifttt.com">IFTTT</a> is a great service that ties together software, services, and home automation. It’s great for simple recipes (when I get a Facebook comment there’s a brief flash of blue light in my home office.)</p>   
     </div>
   </li>
 
@@ -231,7 +230,7 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         <h2>Music: <em>Apple Music</em></h2>
         <p>Most of my music purchased in the last 10 years was from Apple's iTunes Store (though a small chunk has come from Amazon... it's great that everything plays nicely together now days.) We also have a family subscription to Apple Music, which we don't use nearly enough-- old habits die hard.</p>
         
-        <h2>Photography: </em>Apple and Google Photos</em></h2>
+        <h2>Photography: <em>Apple and Google Photos</em></h2>
         <p>Probably 80% of my photographs are taken with my iPhone— the camera is that good. The only time I wind up using a real camera is when I need a strong zoom lens. Hence, I bought a camera based primarily on the quality and power of the zoom, settling on the Sony DSC-HX50V with a 30X zoom. I also have a Canon 1080p camcorder that I use on occasion. However, we take a shamefully small number of photos-- something I keep meaning to remedy.</p>
         <p>For photo management, I have pretty much switched over to Photos.app, which I am generally happy with, and I use Google Photos for a combination of backup/redundancy and tagging/search. I found Lightroom was overkill for me because I take so few photos, and iPhoto had just become downright offensive.</p>
         <p>For photo editing, I use Photoshop— Lightroom would probably be better for some use cases, but I’ve been using Photoshop since the early ‘90s, and I’m just used to it. Incredibly powerful.</p>
@@ -286,7 +285,7 @@ As the “resident geek advisor” to most of my friends and family, I get a lot
         <h2>Programming Languages</h2>
         <p>For work, I've been playing a lot with React.js and React 360, as well as a bit of Node.js for back-end. Really impressed, though I still think JavaScript feels like 4 different languges, each angry with you for using the other 3. Still, though, it's really modernized over the last few years.
         
-        <p>My favorite language is C# - it’s the one that I enjoy most, and best fits my own aesthetic and architectural sensibilities. However, the only place I really get to use C# is in Unity3D. I used C# for the first time in 2000, and promised on that day I would never write another line of C or C++, a promise I have thus far managed to keep. (However, still frequently need to read or perform static and dynamic analysis of C/C++ code.) One of the nice benefits of working with VR and AR for over the last year + is that I've had a chance to play around with C# again.</p>
+        <p>My favorite language is C# - it’s the one that I enjoy most, and best fits my own aesthetic and architectural sensibilities. However, the only place I really get to use C# is in Unity3D. I used C# for the first time in 2000, and promised on that day I would never write another line of C or C++, a promise I have thus far managed to keep. (However, I've still occasionally needed to read or perform static and dynamic analysis of C/C++ code over the years.) One of the nice benefits of working with VR and AR for over the last 5 years is that I've had a chance to play around with C# again.</p>
 
         <p>I’m still ramping up on Swift, which I’m really impressed by so far. I wrote some Objective C back in college, and a couple more recent small iOS projects and am not a fan, so I’m very pleased to see Objective C have a modern successor; I'm pretty much just waiting for an interesting project to catch my eye to force me to learn it in earnest.</p>
 
