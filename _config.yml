@@ -9,7 +9,7 @@
 #
 # Title of your website
 title: "jrjBlog"
-
+gems: [jekyll-paginate]
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Security and Privacy, Technology and the Future... and other mental flotsam from the mind of Joseph R. Jones"
@@ -24,7 +24,7 @@ author: jrj
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 # NOTE: This used to be origin.jrj.org, so will need to maintain that CNAME
-url: 'http://blog.jrj.org'
+url: 'https://blog.jrj.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
