@@ -15,4 +15,4 @@ Currently using a slightly modified version of [Feeling Responsive](https://phlo
 - **Categories:** One per post unless necessary, capitalized.
 
 - **Tags:** As many as needed, lower-case unless proper noun or internal cap (i.e. `iPhone`)
-  
+
